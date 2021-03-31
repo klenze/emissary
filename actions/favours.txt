@@ -1,0 +1,36 @@
+Gain Favours: Constables by some card
+  Card: Meta: Favours: Constables grind cards
+  You've gained 1 x Favours: Constables
+Gain Favours: Society by some card
+  Card: Meta: Favours: Society grind cards
+  You've gained 1 x Favours: Society
+Gain Favours: Hell by some card
+  Card: Meta: Favours: Hell grind cards
+  You've gained 1 x Favours: Hell
+Gain Favours: The Docks by some card
+  Card: Meta: Favours: The Docks grind cards
+  You've gained 1 x Favours: The Docks
+Gain Favours: Revolutionaries by some card
+  Card: Meta: Favours: Revolutionaries grind cards
+  You've gained 1 x Favours: Revolutionaries
+Gain Favours: The Great Game by some card
+  Card: Meta: Favours: The Great Game grind cards
+  You've gained 1 x Favours: The Great Game
+Gain Favours: Rubbery Men by some card
+  Card: Meta: Favours: Rubbery Men grind cards
+  You've gained 1 x Favours: Rubbery Men
+Gain Favours: Urchins by some card
+  Card: Meta: Favours: Urchins grind cards
+  You've gained 1 x Favours: Urchins
+Gain Favours: Bohemians by some card
+  Card: Meta: Favours: Bohemians grind cards
+  You've gained 1 x Favours: Bohemians
+Gain Favours: Criminals by some card
+  Card: Meta: Favours: Criminals grind cards
+  You've gained 1 x Favours: Criminals
+Gain Favours: Tomb-Colonies by some card
+  Card: Meta: Favours: Tomb-Colonies grind cards
+  You've gained 1 x Favours: Tomb-Colonies
+Gain Favours: The Church by some card
+  Card: Meta: Favours: The Church grind cards
+  You've gained 1 x Favours: The Church

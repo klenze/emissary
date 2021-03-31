@@ -1,0 +1,16 @@
+Stuff still missing (or improvable):
+
+* Actions (Inputs):
+  - Docker Brawling
+  - add reduced parabola travel cost
+  - Parabola War
+  - other missing stuff (?)
+  
+ Algorithm:
+ - Simulation (a la Parabola hunting) of:
+   * Docker Brawling (?)
+   * Skeleton assembly for secondary rewards
+ 
+ Output improvements
+ - write items, actions to tiny interlinked html files? 
+ 

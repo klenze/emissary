@@ -1,0 +1,268 @@
+# Kitchen
+#
+# There are two reasons to cook:
+#  - To trade a specific dish (e.g. to Mr. Wines)
+#  - To sell by ingredient value
+# Both of these uses are, unsurprisingly, mutually exclusive.
+# Consequently, I have two actions for every dish
+# One which gives  Meta: Current Culinary Concoction <N>
+# which can be traded, and one which gives
+# Culinary Ingredient Value for sale.
+#
+Brew a Spicy Fish Broth
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 2 x Withered Tentacle
+￼ You've lost 5 x Fin Bones, Collected
+  You've gained 1 x Meta: Current Culinary Concoction 50
+Steep a Dark-Dewed Cherry Liqueur
+# with ASotC 17
+￼ You've lost 3 x Dark-Dewed Cherry
+￼ You've lost 1 x Bottle of Broken Giant 1844
+  You've gained 1 x Meta: Current Culinary Concoction 100
+Prepare a Sharply-Flavoured Pickle
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 5 x Magisterial Lager
+  You've gained 1 x Meta: Current Culinary Concoction 1
+Compose an enticing Fungal Pâté
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 2 x Pot of Venison Marrow
+￼ You've lost 1 x Preserved Surface Blooms
+  You've gained 1 x Meta: Current Culinary Concoction 20
+Concoct a Tapenade of Parabolan Orange-Apple and Concentrate of Self
+￼ You've lost 2 x Parabolan Orange-apple
+  You've gained 1 x Meta: Current Culinary Concoction 200
+Go to Parabola and fetch Beatrice's Taper-nut
+# Assuming you have a mirror in Station VIII
+  Action Cost: 4
+  You've gained 1 x Beatrice's Taper-nut
+Prepare a Hearty Taper-nut Cake
+  You've lost 1 x Beatrice's Taper-nut
+  You've gained 1 x Meta: Current Culinary Concoction 400
+# improve dishes
+#Enhance your Fish Broth with chunks of Deep-zee Catch
+#￼ You've lost 5 x Deep-zee Catch
+# ingredient value change only!
+Turn this dish into a Shark Bouillabaisse with Croutons
+  You've lost 1 x Meta: Current Culinary Concoction 50
+  You've gained 1 x Meta: Current Culinary Concoction 55
+￼ You've lost 1 x Crate of Incorruptible Biscuits
+￼ You've lost 1 x Remains of a Pinewood Shark
+Enhance into a Caducean Zzoup of Reactionary Tendencies
+  You've lost 1 x Meta: Current Culinary Concoction 50
+  You've gained 1 x Meta: Current Culinary Concoction 53
+￼ You've lost 5 x Perfumed Gunpowder
+  You've lost 1 x Tin of Zzoup
+Assemble a Culinary Tribute to the Sea of Spines
+  You've lost 1 x Meta: Current Culinary Concoction 50
+  You've gained 1 x Meta: Current Culinary Concoction 57
+￼ You've lost 2 x Memory of Distant Shores
+￼ You've lost 1 x Amber-Crusted Fin
+￼ You've lost 6 x Withered Tentacle
+Prepare a Solacefruit Champagne Royale
+  You've lost 1 x Meta: Current Culinary Concoction 100
+  You've gained 1 x Meta: Current Culinary Concoction 103
+￼ You've lost 1 x Fillip of Effervescence
+￼ You've lost 1 x Crystallised Euphoria
+￼ You've lost 5 x Solacefruit
+Develop into an Envenomed Pickle of Vinegar, Vengeance, and Hillchanger Scorpion
+  You've lost 1 x Meta: Current Culinary Concoction 1
+  You've gained 1 x Meta: Current Culinary Concoction 5
+￼ You've lost 3 x Jet Black Stinger
+￼ You've lost 100 x Rat on a String
+Suspend the pickle in a Venison Aspic – spiked with Mr Spices' new drug
+  You've lost 1 x Meta: Current Culinary Concoction 1
+  You've gained 1 x Meta: Current Culinary Concoction 7
+￼ You've lost 5 x Pot of Venison Marrow
+￼ You've lost 10 x Femur of a Surface Deer
+#Prepare a Platter of Mixed Charcuterie
+#  You've lost 1 x Meta: Current Culinary Concoction 20
+#  You've gained 1 x Meta: Current Culinary Concoction 
+#￼ You've lost 1 x Tinned Ham
+#￼ You've lost 1 x Sausage About Which No One Complains
+# value change only!
+Drown it in absinthe. Prepare it for ignition.
+  You've lost 1 x Meta: Current Culinary Concoction 20
+  You've gained 1 x Meta: Current Culinary Concoction 25
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 1 x Bottle of Strangling Willow Absinthe
+Sweeten into a Marmalade of Parabolan Orange-Apple, Honey, and Roseate Attar
+  You've lost 1 x Meta: Current Culinary Concoction 200
+  You've gained 1 x Meta: Current Culinary Concoction 209
+￼ You've lost 100 x Drop of Prisoner's Honey
+Sour into a Pickle of Parabolan Orange-apple with Jasmine Notes
+  You've lost 1 x Meta: Current Culinary Concoction 200
+  You've gained 1 x Meta: Current Culinary Concoction 203
+￼ You've lost 15 x Jasmine Leaves
+￼ You've lost 2 x Magisterial Lager
+Prepare a Curatorial Cocktail
+  You've lost 1 x Meta: Current Culinary Concoction 103
+  You've gained 1 x Meta: Current Culinary Concoction 300
+￼ You've lost 100 x Memory of Distant Shores
+# From Something is Landing. Otherwise repeatable, so no extra action cost.
+Observe the behaviour of a Storm-bird in the vicinity of Mr Spices
+  You've lost 1 x Storm-bird
+￼ You've gained 2 x Blackmail Material
+￼ You've gained 1 x Rumours of the Upper River
+Ply it with aspic dosed with its own drug
+￼ You've gained 5 x Extraordinary Implication
+￼ You've gained 5 x Scrap of Incendiary Gossip
+  You've lost 1 x Meta: Current Culinary Concoction 7
+Offer champagne for its Revels
+￼ You've gained 326 x Bottle of Morelways 1872
+￼ You've gained 5 x Hinterland Scrip
+  You've lost 1 x Meta: Current Culinary Concoction 103
+#Bid it to try the sorbet #TODO??
+Present it with the Curatorial Cocktail
+  You've lost 1 x Meta: Current Culinary Concoction 300
+￼ Connected: The Masters of the Bazaar is increasing… (+3 CP, up to level 11)
+￼ You've gained 1 x Bottle of Fourth City Airag: Year of the Tortoise
+Present Mr Fires with Flambéd Peppercap Pâté
+  You've lost 1 x Meta: Current Culinary Concoction 25
+￼ You've gained 1 x Bazaar Permit
+￼ You've gained 5 x Hinterland Scrip
+# Kitchen -- for money ##################################################################
+# we already include the action cost for selling it here.
+# thus, we can make the action of selling free (like a conversion).
+# 
+Brew a Spicy Fish Broth (for sale)
+  Action Cost: 2
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 2 x Withered Tentacle
+￼ You've lost 5 x Fin Bones, Collected
+￼ You've gained 850 x Culinary Ingredient Value
+Steep a Dark-Dewed Cherry Liqueur (for sale)
+  Action Cost: 2
+￼ You've lost 3 x Dark-Dewed Cherry
+￼ You've lost 1 x Bottle of Broken Giant 1844
+￼ You've gained 710 x Culinary Ingredient Value
+Prepare a Sharply-Flavoured Pickle (for sale)
+  Action Cost: 2
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 5 x Magisterial Lager
+￼ You've gained 750 x Culinary Ingredient Value
+Compose an enticing Fungal Pâté  (for sale)
+  Action Cost: 2
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 2 x Pot of Venison Marrow
+￼ You've lost 1 x Preserved Surface Blooms
+￼ You've gained 900 x Culinary Ingredient Value
+Concoct a Tapenade of Parabolan Orange-Apple and Concentrate of Self  (for sale)
+  Action Cost: 2
+￼ You've lost 2 x Parabolan Orange-apple
+￼ You've gained 2750 x Culinary Ingredient Value
+Prepare a Hearty Taper-nut Cake (for sale)
+  Action Cost: 2
+￼ You've gained 750 x Culinary Ingredient Value
+￼ You've lost 1 x Beatrice's Taper-nut
+Enhance your Fish Broth with chunks of Deep-zee Catch
+# this one seems to be repeatable?
+￼ You've lost 5 x Deep-zee Catch
+￼ You've gained 500 x Culinary Ingredient Value
+Fish Broth + Turn this dish into a Shark Bouillabaisse with Croutons
+  Action Cost: 3
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 2 x Withered Tentacle
+￼ You've lost 5 x Fin Bones, Collected
+￼ You've lost 1 x Crate of Incorruptible Biscuits
+￼ You've lost 1 x Remains of a Pinewood Shark
+￼ You've gained 2600 x Culinary Ingredient Value
+Fish Broth + Enhance into a Caducean Zzoup of Reactionary Tendencies
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 2 x Withered Tentacle
+￼ You've lost 5 x Fin Bones, Collected
+￼ You've lost 5 x Perfumed Gunpowder
+￼ You've gained 2600 x Culinary Ingredient Value
+￼ You've lost 1 x Tin of Zzoup
+Fish Broth + Assemble a Culinary Tribute to the Sea of Spines
+  Action Cost: 3
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 8 x Withered Tentacle
+￼ You've lost 5 x Fin Bones, Collected
+￼ You've lost 2 x Memory of Distant Shores
+￼ You've lost 1 x Amber-Crusted Fin
+￼ You've gained 2750 x Culinary Ingredient Value
+Cherry + Prepare a Solacefruit Champagne Royale
+  Action Cost: 3
+￼ You've lost 3 x Dark-Dewed Cherry
+￼ You've lost 1 x Bottle of Broken Giant 1844
+￼ You've lost 1 x Fillip of Effervescence
+￼ You've lost 1 x Crystallised Euphoria
+￼ You've lost 5 x Solacefruit
+￼ You've gained 2960 x Culinary Ingredient Value
+Pickle + Develop into an Envenomed Pickle of Vinegar, Vengeance, and Hillchanger Scorpion
+  Action Cost: 3
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 5 x Magisterial Lager
+￼ You've gained 1250 x Culinary Ingredient Value
+￼ You've lost 3 x Jet Black Stinger
+￼ You've lost 100 x Rat on a String
+Pickle + Suspend the pickle in a Venison Aspic – spiked with Mr Spices' new drug
+  Action Cost: 3
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 5 x Magisterial Lager
+￼ You've lost 5 x Pot of Venison Marrow
+￼ You've lost 10 x Femur of a Surface Deer
+￼ You've gained 1100 x Culinary Ingredient Value
+Pate + Prepare a Platter of Mixed Charcuterie
+  Action Cost: 3
+￼ You've lost 5 x Hand-picked Peppercaps
+￼ You've lost 2 x Pot of Venison Marrow
+￼ You've lost 1 x Preserved Surface Blooms
+￼ You've lost 1 x Tinned Ham
+￼ You've lost 1 x Sausage About Which No One Complains
+￼ You've gained 8650 x Culinary Ingredient Value
+Pate + Drown it in absinthe. Prepare it for ignition.
+  Action Cost: 3
+￼ You've lost 10 x Hand-picked Peppercaps
+￼ You've lost 2 x Pot of Venison Marrow
+￼ You've lost 1 x Preserved Surface Blooms
+￼ You've lost 1 x Bottle of Strangling Willow Absinthe
+￼ You've gained 1500 x Culinary Ingredient Value
+Tapanade + Develop into an Orange-Apple Jam spiked with Muscaria Brandy
+  Action Cost: 3
+￼ You've lost 2 x Parabolan Orange-apple
+￼ You've gained 3250 x Culinary Ingredient Value
+￼ You've lost 1 x Muscaria Brandy
+Tapanade + Sweeten into a Marmalade of Parabolan Orange-Apple, Honey, and Roseate Attar
+  Action Cost: 3
+￼ You've lost 2 x Parabolan Orange-apple
+￼ You've gained 3250 x Culinary Ingredient Value
+￼ You've lost 100 x Drop of Prisoner's Honey
+Tapanade + Sour into a Pickle of Parabolan Orange-apple with Jasmine Notes
+# sweet costs 100 honey (0.8 actions) sour costs ... more?
+  Action Cost: 3
+￼ You've lost 2 x Parabolan Orange-apple
+￼ You've gained 3250 x Culinary Ingredient Value
+￼ You've lost 15 x Jasmine Leaves
+￼ You've lost 2 x Magisterial Lager
+Cherry + Royale + Prepare a Curatorial Cocktail
+  Action Cost: 4
+￼ You've lost 3 x Dark-Dewed Cherry
+￼ You've lost 1 x Bottle of Broken Giant 1844
+￼ You've lost 1 x Fillip of Effervescence
+￼ You've lost 1 x Crystallised Euphoria
+￼ You've lost 5 x Solacefruit
+￼ You've lost 1 x Concentrate of Self
+￼ You've lost 100 x Memory of Distant Shores
+￼ You've gained 39460 x Culinary Ingredient Value
+######################################################################################
+# We ignore restrictions on dishes here. (TODO?)
+Serve up the (dish)
+  Action Cost: 0
+  You've lost 50 x Culinary Ingredient Value
+  You've gained  1 x Hinterland Scrip
+  # plus 5 from train luxuries, but we will neglect that
+Trade (your dish) to the Canny Costermonger
+  Action Cost: 0
+  You've lost 700 x Culinary Ingredient Value
+  You've gained 7 x Solacefruit
+￼ You've gained 5 x Dark-Dewed Cherry
+Supply Dr Schlomo with (your dish)
+  Action Cost: 0
+# plus 5 scrip flat, neglected here.
+￼ You've gained 1 x An Identity Uncovered!
+  You've lost 250 x Culinary Ingredient Value
+Lay an astonishing feast for the Tracklayers
+  Action Cost: 0
+￼ Tracklayers' Displeasure is dropping… (-1 CP)
+  You've lost 100 x Culinary Ingredient Value

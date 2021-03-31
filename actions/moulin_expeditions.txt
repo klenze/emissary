@@ -1,0 +1,96 @@
+#
+# actions:
+#  constant:
+#   0 choose route
+#   2 hire assistents
+#   1 set of
+#   1 dig
+#   1 return
+#  -1 one distance free (at start)
+#  = 4 actions
+#   2 per distance (@ 4 supplies)
+#   (+1 for any distance over 8)
+#  
+#  Hiring costs:
+#  claw: 1x knob of scintillack = 0.6 action with special harvest card
+#        save 1 supply on viric river
+#  navi: 100x rostygold = 0.76 with buy from bazaar
+#        save 1.3 NM on clatterwault
+#  porter: 10x nodule warm = 0.55 actions (sell to zailor)
+#         save 0.9 Wounds on snap-gap
+#  per distance:
+#   2 from obstacles
+#    ? menaces
+#
+# Disgruntlement is ignored because it really should not
+# go to 8 on a single expedition
+#
+# Have Three card slots, this means we can ignore two cards completely.
+#
+# A Quandary: Ignore
+# Clay Soil:  Ignore
+# A Clatterwaul: use navi (2x supplies)
+# A Viric River: use claw (2x supplies)
+# A Snap-Gap: Sqeeze Through (2x supplies, 1.5 wounds)
+# Movement: 2x supplies + 1 wounds
+# Irresponsible average: 0.625 wounds/move
+#
+# starting with navi+claw: 32 supplies
+#
+# dist		supplies	actions		dist/action
+#    8		30		20		0.4
+#    9          34              23              0.39
+# we assume that we use the remaining two supplies to dig up lesser finds
+
+Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return
+  Action Cost: 20
+￼ You've lost 1 x Knob of Scintillack
+￼ You've lost 100 x Piece of Rostygold
+  You've gained 7820 x Wages of a Dig
+  Wounds is increasing… (+9.375 CP)
+￼ You've gained 25 x Silvered Cat's Claw
+￼ You've gained 1.5 x Nicatorean Relic
+￼ You've gained 10 x First City Coin
+￼ You've gained 0.5 x Unlawful Device
+Moulin: Expedition with Navigator and Claw to the Wellspring, return via parabola
+# 2 actions to hire, 1 to start, 5 to move to distance 6.
+# afterwards, we have a 1/7 chance that any undiscardable card drawn is the wellspring
+# on average, this should take another 7 actions to draw and use
+#  (or a bit less with the navigator card)
+# 15 actions so far.
+# 2x Water, then Mirror. Look for the fingerking. reach towards the shore (ignored here). return to base camp.
+# later, swindle you assistents, That Which was Taken
+# (assuming you pick 'Your attention' for a Nadir-esque effect on Watchful. Should be regained within
+# a week)
+# Limited to once a week (but we have no good way to represent that)
+  Action Cost: 23
+￼ You've lost 1 x Knob of Scintillack
+￼ You've lost 100 x Piece of Rostygold
+  Wounds is increasing… (+7.5 CP)
+￼ You've gained 4 x Flask of Waswood Wellspring Water
+￼ You've gained 1 x Memory of a Much Lesser Self
+Account for what remains (Campaign of '68')
+  Action Cost: 0
+  You've lost 7820 x Wages of a Dig
+￼ You've gained 1642.5 x Proscribed Material
+￼ You've gained 1 x Unlawful Device
+Account for what remains (Falling Cities)
+  Action Cost: 0
+  You've lost 7820 x Wages of a Dig
+￼ You've gained 39.1 x Trace of the First City
+￼ You've gained 78.2 x First City Coin
+￼ You've gained 130 x Relic of the Second City
+￼ You've gained 130 x Relic of the Third City
+￼ You've gained 130 x Relic of the Fourth City
+Account for what remains (Parabolan artefacts)
+  Action Cost: 0
+  You've lost 7820 x Wages of a Dig
+￼ You've gained 52.1 x Trace of Viric
+￼ You've gained 521 x Silvered Cat's Claw
+#￼ Touched by Fingerwork is increasing… (+10 CP)
+Account for what remains (Across the Zee)
+  Action Cost: 0
+  You've lost 7820 x Wages of a Dig
+￼ You've gained 195.5 x Silvered Cat's Claw
+￼ You've gained 391 x Rusted Stirrup
+￼ You've gained 7.82 x Nicatorean Relic

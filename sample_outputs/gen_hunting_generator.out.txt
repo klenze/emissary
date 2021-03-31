@@ -1,0 +1,1487 @@
+
+
+=== Hunt warbler ===
+
+0.9999999608618975 5.20718593516877 5.207186138968155
+goal=1.0000 actioncost=5.21 states{storylet: Lost in Strange Lands, quarry: warbler, ferocity: 6, }
+Take [Push onward]:
+  p=0.52 [absolute: 0.5220] cost=1.00
+    goal=1.0000 actioncost=4.19 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, ferocity: 6, }
+    Take [Trick the Parabolan Quarry into chasing you]:
+      p=1.00 [absolute: 0.5220] cost=1.00
+        goal=1.0000 actioncost=4.19 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, ferocity: 6, }
+        Take [Ambush the (Quarry) at close range]:
+          p=0.90 [absolute: 0.4698] cost=1.00
+            goal=1.0000 actioncost=4.00 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, ferocity: 2, }
+            Take [Capture the Seven-Throated Warbler]:
+              p=1.00 [absolute: 0.4698] cost=1.00
+                Goal: 1.00 for 4.00 actions
+          p=0.10 [absolute: 0.0522] cost=1.67
+            goal=1.0000 actioncost=5.85 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, ferocity: 6, }
+             (see above)
+  p=0.48 [absolute: 0.4780] cost=1.40
+    goal=1.0000 actioncost=6.32 states{storylet: Lost in Strange Lands, quarry: warbler, scouting: 2, ferocity: 6, }
+    Take [Push onward]:
+      p=0.60 [absolute: 0.2879] cost=1.00
+        goal=1.0000 actioncost=5.59 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, scouting: 2, ferocity: 6, }
+        Take [Trick the Parabolan Quarry into chasing you]:
+          p=1.00 [absolute: 0.2879] cost=1.00
+            goal=1.0000 actioncost=5.59 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, scouting: 2, ferocity: 6, }
+            Take [Ambush the (Quarry) at close range]:
+              p=0.90 [absolute: 0.2591] cost=1.00
+                goal=1.0000 actioncost=5.40 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, scouting: 2, ferocity: 2, }
+                Take [Capture the Seven-Throated Warbler]:
+                  p=1.00 [absolute: 0.2591] cost=1.00
+                    Goal: 1.00 for 5.40 actions
+              p=0.10 [absolute: 0.0288] cost=1.67
+                goal=1.0000 actioncost=7.25 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, scouting: 2, ferocity: 6, }
+                 (see above)
+      p=0.40 [absolute: 0.1901] cost=1.40
+        goal=1.0000 actioncost=7.44 states{storylet: Lost in Strange Lands, quarry: warbler, scouting: 4, ferocity: 6, }
+        Take [Push onward]:
+          p=0.71 [absolute: 0.1353] cost=1.00
+            goal=1.0000 actioncost=6.99 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, scouting: 4, ferocity: 6, }
+            Take [Trick the Parabolan Quarry into chasing you]:
+              p=1.00 [absolute: 0.1353] cost=1.00
+                goal=1.0000 actioncost=6.99 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, scouting: 4, ferocity: 6, }
+                Take [Ambush the (Quarry) at close range]:
+                  p=0.90 [absolute: 0.1218] cost=1.00
+                    goal=1.0000 actioncost=6.80 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, scouting: 4, ferocity: 2, }
+                    Take [Capture the Seven-Throated Warbler]:
+                      p=1.00 [absolute: 0.1218] cost=1.00
+                        ...
+                  p=0.10 [absolute: 0.0135] cost=1.67
+                    goal=1.0000 actioncost=8.65 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, scouting: 4, ferocity: 6, }
+                     (see above)
+          p=0.29 [absolute: 0.0548] cost=1.40
+            goal=1.0000 actioncost=8.57 states{storylet: Lost in Strange Lands, quarry: warbler, scouting: 6, ferocity: 6, }
+            Take [Push onward]:
+              p=0.87 [absolute: 0.0477] cost=1.00
+                goal=1.0000 actioncost=8.39 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, scouting: 6, ferocity: 6, }
+                Take [Trick the Parabolan Quarry into chasing you]:
+                  p=1.00 [absolute: 0.0477] cost=1.00
+                    goal=1.0000 actioncost=8.39 states{storylet: Embattled with Parabolan Quarry, quarry: warbler, scouting: 6, ferocity: 6, }
+                    Take [Ambush the (Quarry) at close range]:
+                      p=0.90 [absolute: 0.0429] cost=1.00
+                        ...
+                      p=0.10 [absolute: 0.0048] cost=1.67
+                        ...
+              p=0.13 [absolute: 0.0071] cost=1.40
+                goal=1.0000 actioncost=9.79 states{storylet: Lost in Strange Lands, quarry: warbler, scouting: 8, ferocity: 6, }
+                Take [Push onward]:
+                  p=1.00 [absolute: 0.0071] cost=1.00
+                    goal=1.0000 actioncost=9.79 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, scouting: 8, ferocity: 6, }
+                    Take [Trick the Parabolan Quarry into chasing you]:
+                      p=1.00 [absolute: 0.0071] cost=1.00
+                        ...
+
+
+=== Search Nest of warbler ===
+
+1.0 5.6318271972468 5.6318271972468
+goal=1.0000 actioncost=5.63 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, ferocity: 6, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=5.00 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 10, ferocity: 6, }
+    Take [Push onward]:
+      p=1.00 [absolute: 0.6000] cost=1.00
+        goal=1.0000 actioncost=5.00 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, search_nest: 1, scouting: 10, ferocity: 6, }
+        Take [Await the Parabolan Quarry at its Lair]:
+          p=1.00 [absolute: 0.6000] cost=1.00
+            goal=1.0000 actioncost=5.00 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 10, ferocity: 6, partly_pursued: True, }
+            Take [Continue towards (Quarry Home)]:
+              p=1.00 [absolute: 0.6000] cost=1.00
+                goal=1.0000 actioncost=5.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: warbler, search_nest: 1, ferocity: 6, partly_pursued: True, }
+                Take [Search (Quarry Home)]:
+                  p=1.00 [absolute: 0.6000] cost=1.00
+                    Goal: 1.00 for 5.00 actions
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=6.58 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 1, ferocity: 6, }
+    Take [Push onward]:
+      p=0.56 [absolute: 0.2237] cost=1.00
+        goal=1.0000 actioncost=5.88 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, search_nest: 1, scouting: 1, ferocity: 6, }
+        Take [Await the Parabolan Quarry at its Lair]:
+          p=1.00 [absolute: 0.2237] cost=1.00
+            goal=1.0000 actioncost=5.88 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 1, ferocity: 6, partly_pursued: True, }
+            Take [Continue towards (Quarry Home)]:
+              p=0.56 [absolute: 0.1251] cost=1.00
+                goal=1.0000 actioncost=5.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: warbler, search_nest: 1, ferocity: 6, partly_pursued: True, }
+                 (see above)
+              p=0.44 [absolute: 0.0986] cost=1.40
+                goal=1.0000 actioncost=6.99 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 3, ferocity: 6, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.65 [absolute: 0.0643] cost=1.00
+                    goal=1.0000 actioncost=6.40 states{storylet: Face (Quarry) in its (Quarry Home), quarry: warbler, search_nest: 1, ferocity: 6, partly_pursued: True, }
+                     (see above)
+                  p=0.35 [absolute: 0.0343] cost=1.40
+                    goal=1.0000 actioncost=8.11 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 5, ferocity: 6, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.78 [absolute: 0.0268] cost=1.00
+                        ...
+                      p=0.22 [absolute: 0.0074] cost=1.40
+                        ...
+      p=0.44 [absolute: 0.1763] cost=1.40
+        goal=1.0000 actioncost=7.47 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 3, ferocity: 6, }
+        Take [Push onward]:
+          p=0.65 [absolute: 0.1150] cost=1.00
+            goal=1.0000 actioncost=6.99 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, search_nest: 1, scouting: 3, ferocity: 6, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.1150] cost=1.00
+                goal=1.0000 actioncost=6.99 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 3, ferocity: 6, partly_pursued: True, }
+                 (see above)
+          p=0.35 [absolute: 0.0613] cost=1.40
+            goal=1.0000 actioncost=8.36 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 5, ferocity: 6, }
+            Take [Push onward]:
+              p=0.78 [absolute: 0.0480] cost=1.00
+                goal=1.0000 actioncost=8.11 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, search_nest: 1, scouting: 5, ferocity: 6, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0480] cost=1.00
+                    goal=1.0000 actioncost=8.11 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 5, ferocity: 6, partly_pursued: True, }
+                     (see above)
+              p=0.22 [absolute: 0.0133] cost=1.40
+                goal=1.0000 actioncost=9.26 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 7, ferocity: 6, }
+                Take [Push onward]:
+                  p=0.98 [absolute: 0.0130] cost=1.00
+                    goal=1.0000 actioncost=9.23 states{storylet: Pursuing the Parabolan Quarry, quarry: warbler, search_nest: 1, scouting: 7, ferocity: 6, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0130] cost=1.00
+                        ...
+                  p=0.02 [absolute: 0.0003] cost=1.40
+                    goal=1.0000 actioncost=10.60 states{storylet: Lost in Strange Lands, quarry: warbler, search_nest: 1, scouting: 9, ferocity: 6, }
+                    Take [Push onward]:
+                      p=1.00 [absolute: 0.0003] cost=1.00
+                        ...
+
+
+=== Hunt albatross ===
+
+1.0 5.2238191914256475 5.2238191914256475
+goal=1.0000 actioncost=5.22 states{storylet: Lost in Strange Lands, quarry: albatross, ferocity: 8, }
+Take [Push onward]:
+  p=0.46 [absolute: 0.4606] cost=1.00
+    goal=1.0000 actioncost=3.92 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, ferocity: 8, }
+    Take [Bait the Focused Albatross]:
+      p=1.00 [absolute: 0.4606] cost=1.10
+        goal=1.0000 actioncost=3.92 states{storylet: Embattled with Parabolan Quarry, quarry: albatross, ferocity: 5, }
+        Take [Capture the Focused Albatross]:
+          p=0.78 [absolute: 0.3606] cost=1.00
+            Goal: 1.00 for 3.10 actions
+          p=0.22 [absolute: 0.0999] cost=2.67
+            goal=1.0000 actioncost=6.87 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, ferocity: 5, }
+            Take [Bait the Focused Albatross]:
+              p=1.00 [absolute: 0.0999] cost=1.10
+                goal=1.0000 actioncost=6.87 states{storylet: Embattled with Parabolan Quarry, quarry: albatross, ferocity: 2, }
+                Take [Capture the Focused Albatross]:
+                  p=1.00 [absolute: 0.0999] cost=1.00
+                    Goal: 1.00 for 6.87 actions
+  p=0.54 [absolute: 0.5394] cost=1.40
+    goal=1.0000 actioncost=6.34 states{storylet: Lost in Strange Lands, quarry: albatross, scouting: 2, ferocity: 8, }
+    Take [Push onward]:
+      p=0.52 [absolute: 0.2816] cost=1.00
+        goal=1.0000 actioncost=5.32 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, scouting: 2, ferocity: 8, }
+        Take [Bait the Focused Albatross]:
+          p=1.00 [absolute: 0.2816] cost=1.10
+            goal=1.0000 actioncost=5.32 states{storylet: Embattled with Parabolan Quarry, quarry: albatross, scouting: 2, ferocity: 5, }
+            Take [Capture the Focused Albatross]:
+              p=0.78 [absolute: 0.2205] cost=1.00
+                Goal: 1.00 for 4.50 actions
+              p=0.22 [absolute: 0.0611] cost=2.67
+                goal=1.0000 actioncost=8.27 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, scouting: 2, ferocity: 5, }
+                Take [Bait the Focused Albatross]:
+                  p=1.00 [absolute: 0.0611] cost=1.10
+                    goal=1.0000 actioncost=8.27 states{storylet: Embattled with Parabolan Quarry, quarry: albatross, scouting: 2, ferocity: 2, }
+                    Take [Capture the Focused Albatross]:
+                      p=1.00 [absolute: 0.0611] cost=1.00
+                        ...
+      p=0.48 [absolute: 0.2578] cost=1.40
+        goal=1.0000 actioncost=7.46 states{storylet: Lost in Strange Lands, quarry: albatross, scouting: 4, ferocity: 8, }
+        Take [Push onward]:
+          p=0.60 [absolute: 0.1553] cost=1.00
+            goal=1.0000 actioncost=6.72 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, scouting: 4, ferocity: 8, }
+            Take [Bait the Focused Albatross]:
+              p=1.00 [absolute: 0.1553] cost=1.10
+                goal=1.0000 actioncost=6.72 states{storylet: Embattled with Parabolan Quarry, quarry: albatross, scouting: 4, ferocity: 5, }
+                Take [Capture the Focused Albatross]:
+                  p=0.78 [absolute: 0.1216] cost=1.00
+                    Goal: 1.00 for 5.90 actions
+                  p=0.22 [absolute: 0.0337] cost=2.67
+                    goal=1.0000 actioncost=9.67 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, scouting: 4, ferocity: 5, }
+                    Take [Bait the Focused Albatross]:
+                      p=1.00 [absolute: 0.0337] cost=1.10
+                        ...
+          p=0.40 [absolute: 0.1025] cost=1.40
+            goal=1.0000 actioncost=8.57 states{storylet: Lost in Strange Lands, quarry: albatross, scouting: 6, ferocity: 8, }
+            Take [Push onward]:
+              p=0.71 [absolute: 0.0730] cost=1.00
+                goal=1.0000 actioncost=8.12 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, scouting: 6, ferocity: 8, }
+                Take [Bait the Focused Albatross]:
+                  p=1.00 [absolute: 0.0730] cost=1.10
+                    goal=1.0000 actioncost=8.12 states{storylet: Embattled with Parabolan Quarry, quarry: albatross, scouting: 6, ferocity: 5, }
+                    Take [Capture the Focused Albatross]:
+                      p=0.78 [absolute: 0.0572] cost=1.00
+                        ...
+                      p=0.22 [absolute: 0.0158] cost=2.67
+                        ...
+              p=0.29 [absolute: 0.0296] cost=1.40
+                goal=1.0000 actioncost=9.70 states{storylet: Lost in Strange Lands, quarry: albatross, scouting: 8, ferocity: 8, }
+                Take [Push onward]:
+                  p=0.87 [absolute: 0.0257] cost=1.00
+                    goal=1.0000 actioncost=9.52 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, scouting: 8, ferocity: 8, }
+                    Take [Bait the Focused Albatross]:
+                      p=1.00 [absolute: 0.0257] cost=1.10
+                        ...
+                  p=0.13 [absolute: 0.0038] cost=1.40
+                    goal=1.0000 actioncost=10.92 states{storylet: Lost in Strange Lands, quarry: albatross, scouting: 10, ferocity: 8, }
+                    Take [Push onward]:
+                      p=1.00 [absolute: 0.0038] cost=1.00
+                        ...
+
+
+=== Search Nest of albatross ===
+
+1.0 5.76766921923175 5.76766921923175
+goal=1.0000 actioncost=5.77 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, ferocity: 8, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=5.00 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 10, ferocity: 8, }
+    Take [Push onward]:
+      p=1.00 [absolute: 0.6000] cost=1.00
+        goal=1.0000 actioncost=5.00 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, search_nest: 1, scouting: 10, ferocity: 8, }
+        Take [Await the Parabolan Quarry at its Lair]:
+          p=1.00 [absolute: 0.6000] cost=1.00
+            goal=1.0000 actioncost=5.00 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 10, ferocity: 8, partly_pursued: True, }
+            Take [Continue towards (Quarry Home)]:
+              p=1.00 [absolute: 0.6000] cost=1.00
+                goal=1.0000 actioncost=5.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: albatross, search_nest: 1, ferocity: 8, partly_pursued: True, }
+                Take [Search (Quarry Home)]:
+                  p=1.00 [absolute: 0.6000] cost=1.00
+                    Goal: 1.00 for 5.00 actions
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=6.92 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 1, ferocity: 8, }
+    Take [Apply your own knowledge]:
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=6.00 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 11, ferocity: 8, }
+        Take [Push onward]:
+          p=1.00 [absolute: 0.2000] cost=1.00
+            goal=1.0000 actioncost=6.00 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, search_nest: 1, scouting: 11, ferocity: 8, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.2000] cost=1.00
+                goal=1.0000 actioncost=6.00 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 11, ferocity: 8, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=1.00 [absolute: 0.2000] cost=1.00
+                    goal=1.0000 actioncost=6.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: albatross, search_nest: 1, ferocity: 8, partly_pursued: True, }
+                     (see above)
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=7.84 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 2, ferocity: 8, }
+        Take [Push onward]:
+          p=0.52 [absolute: 0.1044] cost=1.00
+            goal=1.0000 actioncost=7.02 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, search_nest: 1, scouting: 2, ferocity: 8, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.1044] cost=1.00
+                goal=1.0000 actioncost=7.02 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 2, ferocity: 8, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.52 [absolute: 0.0545] cost=1.00
+                    goal=1.0000 actioncost=6.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: albatross, search_nest: 1, ferocity: 8, partly_pursued: True, }
+                     (see above)
+                  p=0.48 [absolute: 0.0499] cost=1.40
+                    goal=1.0000 actioncost=8.14 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 4, ferocity: 8, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.60 [absolute: 0.0301] cost=1.00
+                        ...
+                      p=0.40 [absolute: 0.0198] cost=1.40
+                        ...
+          p=0.48 [absolute: 0.0956] cost=1.40
+            goal=1.0000 actioncost=8.73 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 4, ferocity: 8, }
+            Take [Push onward]:
+              p=0.60 [absolute: 0.0576] cost=1.00
+                goal=1.0000 actioncost=8.14 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, search_nest: 1, scouting: 4, ferocity: 8, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0576] cost=1.00
+                    goal=1.0000 actioncost=8.14 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 4, ferocity: 8, partly_pursued: True, }
+                     (see above)
+              p=0.40 [absolute: 0.0380] cost=1.40
+                goal=1.0000 actioncost=9.63 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 6, ferocity: 8, }
+                Take [Push onward]:
+                  p=0.71 [absolute: 0.0271] cost=1.00
+                    goal=1.0000 actioncost=9.26 states{storylet: Pursuing the Parabolan Quarry, quarry: albatross, search_nest: 1, scouting: 6, ferocity: 8, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0271] cost=1.00
+                        ...
+                  p=0.29 [absolute: 0.0110] cost=1.40
+                    goal=1.0000 actioncost=10.54 states{storylet: Lost in Strange Lands, quarry: albatross, search_nest: 1, scouting: 8, ferocity: 8, }
+                    Take [Push onward]:
+                      p=0.87 [absolute: 0.0095] cost=1.00
+                        ...
+                      p=0.13 [absolute: 0.0014] cost=1.40
+                        ...
+
+
+=== Hunt storm-bird ===
+
+0.9855017103852193 8.833157572431954 8.963107297885045
+goal=0.9855 actioncost=8.83 states{storylet: Lost in Strange Lands, quarry: storm-bird, ferocity: 14, }
+Take [Push onward]:
+  p=0.34 [absolute: 0.3404] cost=1.00
+    goal=0.9951 actioncost=6.72 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, ferocity: 14, }
+    Take [Trick the Parabolan Quarry into chasing you]:
+      p=1.00 [absolute: 0.3404] cost=1.00
+        goal=0.9951 actioncost=6.72 states{storylet: Embattled with Parabolan Quarry, quarry: storm-bird, ferocity: 14, }
+        Take [Capture the Storm-bird SECOND CHANCE]:
+          p=0.65 [absolute: 0.2228] cost=1.00
+            Goal: 1.00 for 3.00 actions
+          p=0.35 [absolute: 0.1177] cost=3.20
+            goal=0.9951 actioncost=10.92 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, ferocity: 14, }
+             (see above)
+  p=0.66 [absolute: 0.6596] cost=1.40
+    goal=0.9806 actioncost=9.92 states{storylet: Lost in Strange Lands, quarry: storm-bird, scouting: 2, ferocity: 14, }
+    Take [Push onward]:
+      p=0.37 [absolute: 0.2459] cost=1.00
+        goal=0.9951 actioncost=8.12 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, scouting: 2, ferocity: 14, }
+        Take [Trick the Parabolan Quarry into chasing you]:
+          p=1.00 [absolute: 0.2459] cost=1.00
+            goal=0.9951 actioncost=8.12 states{storylet: Embattled with Parabolan Quarry, quarry: storm-bird, scouting: 2, ferocity: 14, }
+            Take [Capture the Storm-bird SECOND CHANCE]:
+              p=0.65 [absolute: 0.1609] cost=1.00
+                Goal: 1.00 for 4.40 actions
+              p=0.35 [absolute: 0.0850] cost=3.20
+                goal=0.9951 actioncost=12.32 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, scouting: 2, ferocity: 14, }
+                 (see above)
+      p=0.63 [absolute: 0.4136] cost=1.40
+        goal=0.9719 actioncost=10.99 states{storylet: Lost in Strange Lands, quarry: storm-bird, scouting: 4, ferocity: 14, }
+        Take [Push onward]:
+          p=0.41 [absolute: 0.1705] cost=1.00
+            goal=0.9857 actioncost=9.48 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, scouting: 4, ferocity: 14, }
+            Take [Trick the Parabolan Quarry into chasing you]:
+              p=1.00 [absolute: 0.1705] cost=1.00
+                goal=0.9857 actioncost=9.48 states{storylet: Embattled with Parabolan Quarry, quarry: storm-bird, scouting: 4, ferocity: 14, }
+                Take [Capture the Storm-bird SECOND CHANCE]:
+                  p=0.65 [absolute: 0.1115] cost=1.00
+                    Goal: 1.00 for 5.80 actions
+                  p=0.35 [absolute: 0.0589] cost=3.20
+                    goal=0.9857 actioncost=13.68 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, scouting: 4, ferocity: 14, }
+                     (see above)
+          p=0.59 [absolute: 0.2432] cost=1.40
+            goal=0.9623 actioncost=12.06 states{storylet: Lost in Strange Lands, quarry: storm-bird, scouting: 6, ferocity: 14, }
+            Take [Push onward]:
+              p=0.46 [absolute: 0.1120] cost=1.00
+                goal=0.9857 actioncost=10.86 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, scouting: 6, ferocity: 14, }
+                Take [Trick the Parabolan Quarry into chasing you]:
+                  p=1.00 [absolute: 0.1120] cost=1.00
+                    goal=0.9857 actioncost=10.86 states{storylet: Embattled with Parabolan Quarry, quarry: storm-bird, scouting: 6, ferocity: 14, }
+                    Take [Capture the Storm-bird SECOND CHANCE]:
+                      p=0.65 [absolute: 0.0733] cost=1.00
+                        ...
+                      p=0.35 [absolute: 0.0387] cost=3.20
+                        ...
+              p=0.54 [absolute: 0.1312] cost=1.40
+                goal=0.9959 actioncost=13.35 states{storylet: Lost in Strange Lands, quarry: storm-bird, scouting: 8, ferocity: 14, }
+                Take [Push onward]:
+                  p=0.52 [absolute: 0.0685] cost=1.00
+                    goal=0.9951 actioncost=12.32 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, scouting: 8, ferocity: 14, }
+                    Take [Trick the Parabolan Quarry into chasing you]:
+                      p=1.00 [absolute: 0.0685] cost=1.00
+                        ...
+                  p=0.48 [absolute: 0.0627] cost=1.40
+                    goal=0.9969 actioncost=14.47 states{storylet: Lost in Strange Lands, quarry: storm-bird, scouting: 10, ferocity: 14, }
+                    Take [Push onward]:
+                      p=0.60 [absolute: 0.0378] cost=1.00
+                        ...
+                      p=0.40 [absolute: 0.0249] cost=1.40
+                        ...
+
+
+=== Search Nest of storm-bird ===
+
+1.0 7.045975215575551 7.045975215575551
+goal=1.0000 actioncost=7.05 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, ferocity: 14, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=6.33 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 10, ferocity: 14, }
+    Take [Push onward]:
+      p=0.60 [absolute: 0.3614] cost=1.00
+        goal=1.0000 actioncost=5.74 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, search_nest: 1, scouting: 10, ferocity: 14, }
+        Take [Await the Parabolan Quarry at its Lair]:
+          p=1.00 [absolute: 0.3614] cost=1.00
+            goal=1.0000 actioncost=5.74 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 10, ferocity: 14, partly_pursued: True, }
+            Take [Continue towards (Quarry Home)]:
+              p=0.60 [absolute: 0.2177] cost=1.00
+                goal=1.0000 actioncost=5.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: storm-bird, search_nest: 1, ferocity: 14, partly_pursued: True, }
+                Take [Search (Quarry Home)]:
+                  p=1.00 [absolute: 0.2177] cost=1.00
+                    Goal: 1.00 for 5.00 actions
+              p=0.40 [absolute: 0.1437] cost=1.40
+                goal=1.0000 actioncost=6.86 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 12, ferocity: 14, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.71 [absolute: 0.1023] cost=1.00
+                    goal=1.0000 actioncost=6.40 states{storylet: Face (Quarry) in its (Quarry Home), quarry: storm-bird, search_nest: 1, ferocity: 14, partly_pursued: True, }
+                     (see above)
+                  p=0.29 [absolute: 0.0414] cost=1.40
+                    goal=1.0000 actioncost=7.98 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 14, ferocity: 14, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.87 [absolute: 0.0360] cost=1.00
+                        ...
+                      p=0.13 [absolute: 0.0054] cost=1.40
+                        ...
+      p=0.40 [absolute: 0.2386] cost=1.40
+        goal=1.0000 actioncost=7.23 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 12, ferocity: 14, }
+        Take [Push onward]:
+          p=0.71 [absolute: 0.1699] cost=1.00
+            goal=1.0000 actioncost=6.86 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, search_nest: 1, scouting: 12, ferocity: 14, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.1699] cost=1.00
+                goal=1.0000 actioncost=6.86 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 12, ferocity: 14, partly_pursued: True, }
+                 (see above)
+          p=0.29 [absolute: 0.0688] cost=1.40
+            goal=1.0000 actioncost=8.14 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 14, ferocity: 14, }
+            Take [Push onward]:
+              p=0.87 [absolute: 0.0598] cost=1.00
+                goal=1.0000 actioncost=7.98 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, search_nest: 1, scouting: 14, ferocity: 14, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0598] cost=1.00
+                    goal=1.0000 actioncost=7.98 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 14, ferocity: 14, partly_pursued: True, }
+                     (see above)
+              p=0.13 [absolute: 0.0089] cost=1.40
+                goal=1.0000 actioncost=9.20 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 16, ferocity: 14, }
+                Take [Push onward]:
+                  p=1.00 [absolute: 0.0089] cost=1.00
+                    goal=1.0000 actioncost=9.20 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, search_nest: 1, scouting: 16, ferocity: 14, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0089] cost=1.00
+                        ...
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=8.12 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 1, ferocity: 14, }
+    Take [Apply your own knowledge]:
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=7.07 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 11, ferocity: 14, }
+        Take [Push onward]:
+          p=0.65 [absolute: 0.1305] cost=1.00
+            goal=1.0000 actioncost=6.59 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, search_nest: 1, scouting: 11, ferocity: 14, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.1305] cost=1.00
+                goal=1.0000 actioncost=6.59 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 11, ferocity: 14, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.65 [absolute: 0.0852] cost=1.00
+                    goal=1.0000 actioncost=6.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: storm-bird, search_nest: 1, ferocity: 14, partly_pursued: True, }
+                     (see above)
+                  p=0.35 [absolute: 0.0453] cost=1.40
+                    goal=1.0000 actioncost=7.71 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 13, ferocity: 14, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.78 [absolute: 0.0355] cost=1.00
+                        ...
+                      p=0.22 [absolute: 0.0098] cost=1.40
+                        ...
+          p=0.35 [absolute: 0.0695] cost=1.40
+            goal=1.0000 actioncost=7.96 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 13, ferocity: 14, }
+            Take [Push onward]:
+              p=0.78 [absolute: 0.0544] cost=1.00
+                goal=1.0000 actioncost=7.71 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, search_nest: 1, scouting: 13, ferocity: 14, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0544] cost=1.00
+                    goal=1.0000 actioncost=7.71 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 13, ferocity: 14, partly_pursued: True, }
+                     (see above)
+              p=0.22 [absolute: 0.0151] cost=1.40
+                goal=1.0000 actioncost=8.86 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 15, ferocity: 14, }
+                Take [Push onward]:
+                  p=0.98 [absolute: 0.0148] cost=1.00
+                    goal=1.0000 actioncost=8.83 states{storylet: Pursuing the Parabolan Quarry, quarry: storm-bird, search_nest: 1, scouting: 15, ferocity: 14, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0148] cost=1.00
+                        ...
+                  p=0.02 [absolute: 0.0003] cost=1.40
+                    goal=1.0000 actioncost=10.20 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 17, ferocity: 14, }
+                    Take [Push onward]:
+                      p=1.00 [absolute: 0.0003] cost=1.00
+                        ...
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=9.17 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 2, ferocity: 14, }
+        Take [Apply your own knowledge]:
+          p=0.40 [absolute: 0.0800] cost=1.00
+            goal=1.0000 actioncost=7.83 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 12, ferocity: 14, }
+             (see above)
+          p=0.60 [absolute: 0.1200] cost=1.00
+            goal=1.0000 actioncost=10.07 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 3, ferocity: 14, }
+            Take [Make use of a Glass Gazette]:
+              p=1.00 [absolute: 0.1200] cost=2.00
+                goal=1.0000 actioncost=10.07 states{storylet: Lost in Strange Lands, quarry: storm-bird, search_nest: 1, scouting: 11, ferocity: 14, }
+                 (see above)
+
+
+=== Hunt terror_bird ===
+
+0.9974420186648163 6.009513745017626 6.024925391715509
+goal=0.9974 actioncost=6.01 states{storylet: Lost in Strange Lands, quarry: terror_bird, ferocity: 20, }
+Take [Push onward]:
+  p=0.27 [absolute: 0.2700] cost=1.00
+    goal=1.0000 actioncost=3.00 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, ferocity: 20, }
+    Take [Trick the Parabolan Quarry into chasing you]:
+      p=1.00 [absolute: 0.2700] cost=1.00
+        goal=1.0000 actioncost=3.00 states{storylet: Embattled with Parabolan Quarry, quarry: terror_bird, ferocity: 20, }
+        Take [Recapture the (Quarry)]:
+          p=1.00 [absolute: 0.2700] cost=1.00
+            Goal: 1.00 for 3.00 actions
+  p=0.73 [absolute: 0.7300] cost=1.40
+    goal=0.9965 actioncost=7.12 states{storylet: Lost in Strange Lands, quarry: terror_bird, scouting: 2, ferocity: 20, }
+    Take [Push onward]:
+      p=0.29 [absolute: 0.2117] cost=1.00
+        goal=1.0000 actioncost=4.40 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, scouting: 2, ferocity: 20, }
+        Take [Trick the Parabolan Quarry into chasing you]:
+          p=1.00 [absolute: 0.2117] cost=1.00
+            goal=1.0000 actioncost=4.40 states{storylet: Embattled with Parabolan Quarry, quarry: terror_bird, scouting: 2, ferocity: 20, }
+            Take [Recapture the (Quarry)]:
+              p=1.00 [absolute: 0.2117] cost=1.00
+                Goal: 1.00 for 4.40 actions
+      p=0.71 [absolute: 0.5183] cost=1.40
+        goal=0.9951 actioncost=8.23 states{storylet: Lost in Strange Lands, quarry: terror_bird, scouting: 4, ferocity: 20, }
+        Take [Push onward]:
+          p=0.31 [absolute: 0.1623] cost=1.00
+            goal=1.0000 actioncost=5.80 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, scouting: 4, ferocity: 20, }
+            Take [Trick the Parabolan Quarry into chasing you]:
+              p=1.00 [absolute: 0.1623] cost=1.00
+                goal=1.0000 actioncost=5.80 states{storylet: Embattled with Parabolan Quarry, quarry: terror_bird, scouting: 4, ferocity: 20, }
+                Take [Recapture the (Quarry)]:
+                  p=1.00 [absolute: 0.1623] cost=1.00
+                    Goal: 1.00 for 5.80 actions
+          p=0.69 [absolute: 0.3560] cost=1.40
+            goal=0.9928 actioncost=9.34 states{storylet: Lost in Strange Lands, quarry: terror_bird, scouting: 6, ferocity: 20, }
+            Take [Push onward]:
+              p=0.34 [absolute: 0.1212] cost=1.00
+                goal=1.0000 actioncost=7.20 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, scouting: 6, ferocity: 20, }
+                Take [Trick the Parabolan Quarry into chasing you]:
+                  p=1.00 [absolute: 0.1212] cost=1.00
+                    goal=1.0000 actioncost=7.20 states{storylet: Embattled with Parabolan Quarry, quarry: terror_bird, scouting: 6, ferocity: 20, }
+                    Take [Recapture the (Quarry)]:
+                      p=1.00 [absolute: 0.1212] cost=1.00
+                        ...
+              p=0.66 [absolute: 0.2348] cost=1.40
+                goal=1.0000 actioncost=10.48 states{storylet: Lost in Strange Lands, quarry: terror_bird, scouting: 8, ferocity: 20, }
+                Take [Push onward]:
+                  p=0.37 [absolute: 0.0875] cost=1.00
+                    goal=1.0000 actioncost=8.60 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, scouting: 8, ferocity: 20, }
+                    Take [Trick the Parabolan Quarry into chasing you]:
+                      p=1.00 [absolute: 0.0875] cost=1.00
+                        ...
+                  p=0.63 [absolute: 0.1472] cost=1.40
+                    goal=1.0000 actioncost=11.59 states{storylet: Lost in Strange Lands, quarry: terror_bird, scouting: 10, ferocity: 20, }
+                    Take [Push onward]:
+                      p=0.41 [absolute: 0.0607] cost=1.00
+                        ...
+                      p=0.59 [absolute: 0.0866] cost=1.40
+                        ...
+
+
+=== Search Nest of terror_bird ===
+
+1.0 8.541901567405123 8.541901567405123
+goal=1.0000 actioncost=8.54 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, ferocity: 20, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=7.83 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 10, ferocity: 20, }
+    Take [Make use of a Glass Gazette]:
+      p=1.00 [absolute: 0.6000] cost=2.00
+        goal=1.0000 actioncost=7.83 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 18, ferocity: 20, }
+        Take [Push onward]:
+          p=0.71 [absolute: 0.4271] cost=1.00
+            goal=1.0000 actioncost=7.46 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, search_nest: 1, scouting: 18, ferocity: 20, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.4271] cost=1.00
+                goal=1.0000 actioncost=7.46 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 18, ferocity: 20, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.71 [absolute: 0.3040] cost=1.00
+                    goal=1.0000 actioncost=7.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: terror_bird, search_nest: 1, ferocity: 20, partly_pursued: True, }
+                    Take [Search (Quarry Home)]:
+                      p=1.00 [absolute: 0.3040] cost=1.00
+                        ...
+                  p=0.29 [absolute: 0.1231] cost=1.40
+                    goal=1.0000 actioncost=8.58 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 20, ferocity: 20, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.87 [absolute: 0.1071] cost=1.00
+                        ...
+                      p=0.13 [absolute: 0.0160] cost=1.40
+                        ...
+          p=0.29 [absolute: 0.1729] cost=1.40
+            goal=1.0000 actioncost=8.74 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 20, ferocity: 20, }
+            Take [Push onward]:
+              p=0.87 [absolute: 0.1504] cost=1.00
+                goal=1.0000 actioncost=8.58 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, search_nest: 1, scouting: 20, ferocity: 20, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.1504] cost=1.00
+                    goal=1.0000 actioncost=8.58 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 20, ferocity: 20, partly_pursued: True, }
+                     (see above)
+              p=0.13 [absolute: 0.0225] cost=1.40
+                goal=1.0000 actioncost=9.80 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 22, ferocity: 20, }
+                Take [Push onward]:
+                  p=1.00 [absolute: 0.0225] cost=1.00
+                    goal=1.0000 actioncost=9.80 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, search_nest: 1, scouting: 22, ferocity: 20, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0225] cost=1.00
+                        ...
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=9.62 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 1, ferocity: 20, }
+    Take [Apply your own knowledge]:
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=8.56 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 11, ferocity: 20, }
+        Take [Make use of a Glass Gazette]:
+          p=1.00 [absolute: 0.2000] cost=2.00
+            goal=1.0000 actioncost=8.56 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 19, ferocity: 20, }
+            Take [Push onward]:
+              p=0.78 [absolute: 0.1566] cost=1.00
+                goal=1.0000 actioncost=8.31 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, search_nest: 1, scouting: 19, ferocity: 20, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.1566] cost=1.00
+                    goal=1.0000 actioncost=8.31 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 19, ferocity: 20, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.78 [absolute: 0.1226] cost=1.00
+                        ...
+                      p=0.22 [absolute: 0.0340] cost=1.40
+                        ...
+              p=0.22 [absolute: 0.0434] cost=1.40
+                goal=1.0000 actioncost=9.46 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 21, ferocity: 20, }
+                Take [Push onward]:
+                  p=0.98 [absolute: 0.0425] cost=1.00
+                    goal=1.0000 actioncost=9.43 states{storylet: Pursuing the Parabolan Quarry, quarry: terror_bird, search_nest: 1, scouting: 21, ferocity: 20, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0425] cost=1.00
+                        ...
+                  p=0.02 [absolute: 0.0009] cost=1.40
+                    goal=1.0000 actioncost=10.80 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 23, ferocity: 20, }
+                    Take [Push onward]:
+                      p=1.00 [absolute: 0.0009] cost=1.00
+                        ...
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=10.67 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 2, ferocity: 20, }
+        Take [Apply your own knowledge]:
+          p=0.40 [absolute: 0.0800] cost=1.00
+            goal=1.0000 actioncost=9.34 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 12, ferocity: 20, }
+            Take [Make use of a Glass Gazette]:
+              p=1.00 [absolute: 0.0800] cost=2.00
+                goal=1.0000 actioncost=9.34 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 20, ferocity: 20, }
+                 (see above)
+          p=0.60 [absolute: 0.1200] cost=1.00
+            goal=1.0000 actioncost=11.56 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 3, ferocity: 20, }
+            Take [Make use of a Glass Gazette]:
+              p=1.00 [absolute: 0.1200] cost=2.00
+                goal=1.0000 actioncost=11.56 states{storylet: Lost in Strange Lands, quarry: terror_bird, search_nest: 1, scouting: 11, ferocity: 20, }
+                 (see above)
+
+
+=== Hunt auroch ===
+
+0.9995444690772961 5.729356418005272 5.731967506452396
+goal=0.9995 actioncost=5.73 states{storylet: Lost in Strange Lands, quarry: auroch, ferocity: 18, }
+Take [Push onward]:
+  p=0.29 [absolute: 0.2900] cost=1.00
+    goal=1.0000 actioncost=3.00 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, ferocity: 18, }
+    Take [Trick the Parabolan Quarry into chasing you]:
+      p=1.00 [absolute: 0.2900] cost=1.00
+        goal=1.0000 actioncost=3.00 states{storylet: Embattled with Parabolan Quarry, quarry: auroch, ferocity: 18, }
+        Take [Recapture the (Quarry)]:
+          p=1.00 [absolute: 0.2900] cost=1.00
+            Goal: 1.00 for 3.00 actions
+  p=0.71 [absolute: 0.7100] cost=1.40
+    goal=0.9994 actioncost=6.84 states{storylet: Lost in Strange Lands, quarry: auroch, scouting: 2, ferocity: 18, }
+    Take [Push onward]:
+      p=0.31 [absolute: 0.2224] cost=1.00
+        goal=1.0000 actioncost=4.40 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, scouting: 2, ferocity: 18, }
+        Take [Trick the Parabolan Quarry into chasing you]:
+          p=1.00 [absolute: 0.2224] cost=1.00
+            goal=1.0000 actioncost=4.40 states{storylet: Embattled with Parabolan Quarry, quarry: auroch, scouting: 2, ferocity: 18, }
+            Take [Recapture the (Quarry)]:
+              p=1.00 [absolute: 0.2224] cost=1.00
+                Goal: 1.00 for 4.40 actions
+      p=0.69 [absolute: 0.4876] cost=1.40
+        goal=0.9991 actioncost=7.96 states{storylet: Lost in Strange Lands, quarry: auroch, scouting: 4, ferocity: 18, }
+        Take [Push onward]:
+          p=0.34 [absolute: 0.1660] cost=1.00
+            goal=1.0000 actioncost=5.80 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, scouting: 4, ferocity: 18, }
+            Take [Trick the Parabolan Quarry into chasing you]:
+              p=1.00 [absolute: 0.1660] cost=1.00
+                goal=1.0000 actioncost=5.80 states{storylet: Embattled with Parabolan Quarry, quarry: auroch, scouting: 4, ferocity: 18, }
+                Take [Recapture the (Quarry)]:
+                  p=1.00 [absolute: 0.1660] cost=1.00
+                    Goal: 1.00 for 5.80 actions
+          p=0.66 [absolute: 0.3216] cost=1.40
+            goal=0.9986 actioncost=9.07 states{storylet: Lost in Strange Lands, quarry: auroch, scouting: 6, ferocity: 18, }
+            Take [Push onward]:
+              p=0.37 [absolute: 0.1199] cost=1.00
+                goal=1.0000 actioncost=7.20 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, scouting: 6, ferocity: 18, }
+                Take [Trick the Parabolan Quarry into chasing you]:
+                  p=1.00 [absolute: 0.1199] cost=1.00
+                    goal=1.0000 actioncost=7.20 states{storylet: Embattled with Parabolan Quarry, quarry: auroch, scouting: 6, ferocity: 18, }
+                    Take [Recapture the (Quarry)]:
+                      p=1.00 [absolute: 0.1199] cost=1.00
+                        ...
+              p=0.63 [absolute: 0.2017] cost=1.40
+                goal=1.0000 actioncost=10.19 states{storylet: Lost in Strange Lands, quarry: auroch, scouting: 8, ferocity: 18, }
+                Take [Push onward]:
+                  p=0.41 [absolute: 0.0831] cost=1.00
+                    goal=1.0000 actioncost=8.60 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, scouting: 8, ferocity: 18, }
+                    Take [Trick the Parabolan Quarry into chasing you]:
+                      p=1.00 [absolute: 0.0831] cost=1.00
+                        ...
+                  p=0.59 [absolute: 0.1186] cost=1.40
+                    goal=1.0000 actioncost=11.31 states{storylet: Lost in Strange Lands, quarry: auroch, scouting: 10, ferocity: 18, }
+                    Take [Push onward]:
+                      p=0.46 [absolute: 0.0546] cost=1.00
+                        ...
+                      p=0.54 [absolute: 0.0640] cost=1.40
+                        ...
+
+
+=== Search Nest of auroch ===
+
+1.0 8.0501093876927 8.0501093876927
+goal=1.0000 actioncost=8.05 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, ferocity: 18, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=7.34 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 10, ferocity: 18, }
+    Take [Make use of a Glass Gazette]:
+      p=1.00 [absolute: 0.6000] cost=2.00
+        goal=1.0000 actioncost=7.34 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 18, ferocity: 18, }
+        Take [Push onward]:
+          p=0.87 [absolute: 0.5220] cost=1.00
+            goal=1.0000 actioncost=7.18 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, search_nest: 1, scouting: 18, ferocity: 18, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.5220] cost=1.00
+                goal=1.0000 actioncost=7.18 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 18, ferocity: 18, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.87 [absolute: 0.4541] cost=1.00
+                    goal=1.0000 actioncost=7.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: auroch, search_nest: 1, ferocity: 18, partly_pursued: True, }
+                    Take [Search (Quarry Home)]:
+                      p=1.00 [absolute: 0.4541] cost=1.00
+                        ...
+                  p=0.13 [absolute: 0.0679] cost=1.40
+                    goal=1.0000 actioncost=8.40 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 20, ferocity: 18, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=1.00 [absolute: 0.0679] cost=1.00
+                        ...
+          p=0.13 [absolute: 0.0780] cost=1.40
+            goal=1.0000 actioncost=8.40 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 20, ferocity: 18, }
+            Take [Push onward]:
+              p=1.00 [absolute: 0.0780] cost=1.00
+                goal=1.0000 actioncost=8.40 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, search_nest: 1, scouting: 20, ferocity: 18, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0780] cost=1.00
+                    goal=1.0000 actioncost=8.40 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 20, ferocity: 18, partly_pursued: True, }
+                     (see above)
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=9.11 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 1, ferocity: 18, }
+    Take [Apply your own knowledge]:
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=8.06 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 11, ferocity: 18, }
+        Take [Make use of a Glass Gazette]:
+          p=1.00 [absolute: 0.2000] cost=2.00
+            goal=1.0000 actioncost=8.06 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 19, ferocity: 18, }
+            Take [Push onward]:
+              p=0.98 [absolute: 0.1958] cost=1.00
+                goal=1.0000 actioncost=8.03 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, search_nest: 1, scouting: 19, ferocity: 18, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.1958] cost=1.00
+                    goal=1.0000 actioncost=8.03 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 19, ferocity: 18, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.98 [absolute: 0.1916] cost=1.00
+                        ...
+                      p=0.02 [absolute: 0.0042] cost=1.40
+                        ...
+              p=0.02 [absolute: 0.0042] cost=1.40
+                goal=1.0000 actioncost=9.40 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 21, ferocity: 18, }
+                Take [Push onward]:
+                  p=1.00 [absolute: 0.0042] cost=1.00
+                    goal=1.0000 actioncost=9.40 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, search_nest: 1, scouting: 21, ferocity: 18, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0042] cost=1.00
+                        ...
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=10.17 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 2, ferocity: 18, }
+        Take [Apply your own knowledge]:
+          p=0.40 [absolute: 0.0800] cost=1.00
+            goal=1.0000 actioncost=8.84 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 12, ferocity: 18, }
+            Take [Push onward]:
+              p=0.52 [absolute: 0.0418] cost=1.00
+                goal=1.0000 actioncost=8.02 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, search_nest: 1, scouting: 12, ferocity: 18, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0418] cost=1.00
+                    goal=1.0000 actioncost=8.02 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 12, ferocity: 18, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.52 [absolute: 0.0218] cost=1.00
+                        ...
+                      p=0.48 [absolute: 0.0200] cost=1.40
+                        ...
+              p=0.48 [absolute: 0.0382] cost=1.40
+                goal=1.0000 actioncost=9.73 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 14, ferocity: 18, }
+                Take [Push onward]:
+                  p=0.60 [absolute: 0.0230] cost=1.00
+                    goal=1.0000 actioncost=9.14 states{storylet: Pursuing the Parabolan Quarry, quarry: auroch, search_nest: 1, scouting: 14, ferocity: 18, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0230] cost=1.00
+                        ...
+                  p=0.40 [absolute: 0.0152] cost=1.40
+                    goal=1.0000 actioncost=10.63 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 16, ferocity: 18, }
+                    Take [Push onward]:
+                      p=0.71 [absolute: 0.0108] cost=1.00
+                        ...
+                      p=0.29 [absolute: 0.0044] cost=1.40
+                        ...
+          p=0.60 [absolute: 0.1200] cost=1.00
+            goal=1.0000 actioncost=11.06 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 3, ferocity: 18, }
+            Take [Make use of a Glass Gazette]:
+              p=1.00 [absolute: 0.1200] cost=2.00
+                goal=1.0000 actioncost=11.06 states{storylet: Lost in Strange Lands, quarry: auroch, search_nest: 1, scouting: 11, ferocity: 18, }
+                 (see above)
+
+
+=== Hunt bear ===
+
+0.9976022945207839 7.67274016663408 7.691181354308951
+goal=0.9976 actioncost=7.67 states{storylet: Lost in Strange Lands, quarry: bear, ferocity: 16, }
+Take [Push onward]:
+  p=0.31 [absolute: 0.3132] cost=1.00
+    goal=1.0000 actioncost=5.23 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, ferocity: 16, }
+    Take [Trap the bear]:
+      p=1.00 [absolute: 0.3132] cost=1.00
+        goal=1.0000 actioncost=5.23 states{storylet: Embattled with Parabolan Quarry, quarry: bear, ferocity: 11, }
+        Take [Capture the Honey-Mazed Bear SECOND CHANCE]:
+          p=0.74 [absolute: 0.2315] cost=1.00
+            Goal: 1.00 for 3.00 actions
+          p=0.26 [absolute: 0.0817] cost=2.67
+            goal=1.0000 actioncost=7.72 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, ferocity: 11, }
+            Take [Trap the bear]:
+              p=1.00 [absolute: 0.0817] cost=1.00
+                goal=1.0000 actioncost=7.72 states{storylet: Embattled with Parabolan Quarry, quarry: bear, ferocity: 6, }
+                Take [Capture the Honey-Mazed Bear]:
+                  p=0.71 [absolute: 0.0581] cost=1.00
+                    Goal: 1.00 for 6.67 actions
+                  p=0.29 [absolute: 0.0235] cost=2.67
+                    goal=1.0000 actioncost=10.33 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, ferocity: 6, }
+                    Take [Trap the bear]:
+                      p=1.00 [absolute: 0.0235] cost=1.00
+                        ...
+  p=0.69 [absolute: 0.6868] cost=1.40
+    goal=0.9965 actioncost=8.79 states{storylet: Lost in Strange Lands, quarry: bear, scouting: 2, ferocity: 16, }
+    Take [Push onward]:
+      p=0.34 [absolute: 0.2338] cost=1.00
+        goal=1.0000 actioncost=6.63 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, scouting: 2, ferocity: 16, }
+        Take [Trap the bear]:
+          p=1.00 [absolute: 0.2338] cost=1.00
+            goal=1.0000 actioncost=6.63 states{storylet: Embattled with Parabolan Quarry, quarry: bear, scouting: 2, ferocity: 11, }
+            Take [Capture the Honey-Mazed Bear SECOND CHANCE]:
+              p=0.74 [absolute: 0.1728] cost=1.00
+                Goal: 1.00 for 4.40 actions
+              p=0.26 [absolute: 0.0610] cost=2.67
+                goal=1.0000 actioncost=9.12 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, scouting: 2, ferocity: 11, }
+                Take [Trap the bear]:
+                  p=1.00 [absolute: 0.0610] cost=1.00
+                    goal=1.0000 actioncost=9.12 states{storylet: Embattled with Parabolan Quarry, quarry: bear, scouting: 2, ferocity: 6, }
+                    Take [Capture the Honey-Mazed Bear]:
+                      p=0.71 [absolute: 0.0434] cost=1.00
+                        ...
+                      p=0.29 [absolute: 0.0176] cost=2.67
+                        ...
+      p=0.66 [absolute: 0.4530] cost=1.40
+        goal=0.9947 actioncost=9.90 states{storylet: Lost in Strange Lands, quarry: bear, scouting: 4, ferocity: 16, }
+        Take [Push onward]:
+          p=0.37 [absolute: 0.1689] cost=1.00
+            goal=1.0000 actioncost=8.03 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, scouting: 4, ferocity: 16, }
+            Take [Trap the bear]:
+              p=1.00 [absolute: 0.1689] cost=1.00
+                goal=1.0000 actioncost=8.03 states{storylet: Embattled with Parabolan Quarry, quarry: bear, scouting: 4, ferocity: 11, }
+                Take [Capture the Honey-Mazed Bear SECOND CHANCE]:
+                  p=0.74 [absolute: 0.1249] cost=1.00
+                    Goal: 1.00 for 5.80 actions
+                  p=0.26 [absolute: 0.0440] cost=2.67
+                    goal=1.0000 actioncost=10.52 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, scouting: 4, ferocity: 11, }
+                    Take [Trap the bear]:
+                      p=1.00 [absolute: 0.0440] cost=1.00
+                        ...
+          p=0.63 [absolute: 0.2841] cost=1.40
+            goal=0.9916 actioncost=11.01 states{storylet: Lost in Strange Lands, quarry: bear, scouting: 6, ferocity: 16, }
+            Take [Push onward]:
+              p=0.41 [absolute: 0.1171] cost=1.00
+                goal=1.0000 actioncost=9.43 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, scouting: 6, ferocity: 16, }
+                Take [Trap the bear]:
+                  p=1.00 [absolute: 0.1171] cost=1.00
+                    goal=1.0000 actioncost=9.43 states{storylet: Embattled with Parabolan Quarry, quarry: bear, scouting: 6, ferocity: 11, }
+                    Take [Capture the Honey-Mazed Bear SECOND CHANCE]:
+                      p=0.74 [absolute: 0.0865] cost=1.00
+                        ...
+                      p=0.26 [absolute: 0.0305] cost=2.67
+                        ...
+              p=0.59 [absolute: 0.1670] cost=1.40
+                goal=1.0000 actioncost=12.14 states{storylet: Lost in Strange Lands, quarry: bear, scouting: 8, ferocity: 16, }
+                Take [Push onward]:
+                  p=0.46 [absolute: 0.0769] cost=1.00
+                    goal=1.0000 actioncost=10.83 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, scouting: 8, ferocity: 16, }
+                    Take [Trap the bear]:
+                      p=1.00 [absolute: 0.0769] cost=1.00
+                        ...
+                  p=0.54 [absolute: 0.0901] cost=1.40
+                    goal=1.0000 actioncost=13.25 states{storylet: Lost in Strange Lands, quarry: bear, scouting: 10, ferocity: 16, }
+                    Take [Push onward]:
+                      p=0.52 [absolute: 0.0470] cost=1.00
+                        ...
+                      p=0.48 [absolute: 0.0431] cost=1.40
+                        ...
+
+
+=== Search Nest of bear ===
+
+1.0 7.5548562399615 7.5548562399615
+goal=1.0000 actioncost=7.55 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, ferocity: 16, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=6.84 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 10, ferocity: 16, }
+    Take [Push onward]:
+      p=0.52 [absolute: 0.3132] cost=1.00
+        goal=1.0000 actioncost=6.02 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, search_nest: 1, scouting: 10, ferocity: 16, }
+        Take [Await the Parabolan Quarry at its Lair]:
+          p=1.00 [absolute: 0.3132] cost=1.00
+            goal=1.0000 actioncost=6.02 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 10, ferocity: 16, partly_pursued: True, }
+            Take [Continue towards (Quarry Home)]:
+              p=0.52 [absolute: 0.1635] cost=1.00
+                goal=1.0000 actioncost=5.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: bear, search_nest: 1, ferocity: 16, partly_pursued: True, }
+                Take [Search (Quarry Home)]:
+                  p=1.00 [absolute: 0.1635] cost=1.00
+                    Goal: 1.00 for 5.00 actions
+              p=0.48 [absolute: 0.1497] cost=1.40
+                goal=1.0000 actioncost=7.14 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 12, ferocity: 16, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.60 [absolute: 0.0902] cost=1.00
+                    goal=1.0000 actioncost=6.40 states{storylet: Face (Quarry) in its (Quarry Home), quarry: bear, search_nest: 1, ferocity: 16, partly_pursued: True, }
+                     (see above)
+                  p=0.40 [absolute: 0.0595] cost=1.40
+                    goal=1.0000 actioncost=8.26 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 14, ferocity: 16, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.71 [absolute: 0.0424] cost=1.00
+                        ...
+                      p=0.29 [absolute: 0.0172] cost=1.40
+                        ...
+      p=0.48 [absolute: 0.2868] cost=1.40
+        goal=1.0000 actioncost=7.73 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 12, ferocity: 16, }
+        Take [Push onward]:
+          p=0.60 [absolute: 0.1727] cost=1.00
+            goal=1.0000 actioncost=7.14 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, search_nest: 1, scouting: 12, ferocity: 16, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.1727] cost=1.00
+                goal=1.0000 actioncost=7.14 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 12, ferocity: 16, partly_pursued: True, }
+                 (see above)
+          p=0.40 [absolute: 0.1141] cost=1.40
+            goal=1.0000 actioncost=8.63 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 14, ferocity: 16, }
+            Take [Push onward]:
+              p=0.71 [absolute: 0.0812] cost=1.00
+                goal=1.0000 actioncost=8.26 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, search_nest: 1, scouting: 14, ferocity: 16, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0812] cost=1.00
+                    goal=1.0000 actioncost=8.26 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 14, ferocity: 16, partly_pursued: True, }
+                     (see above)
+              p=0.29 [absolute: 0.0329] cost=1.40
+                goal=1.0000 actioncost=9.54 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 16, ferocity: 16, }
+                Take [Push onward]:
+                  p=0.87 [absolute: 0.0286] cost=1.00
+                    goal=1.0000 actioncost=9.38 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, search_nest: 1, scouting: 16, ferocity: 16, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0286] cost=1.00
+                        ...
+                  p=0.13 [absolute: 0.0043] cost=1.40
+                    goal=1.0000 actioncost=10.60 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 18, ferocity: 16, }
+                    Take [Push onward]:
+                      p=1.00 [absolute: 0.0043] cost=1.00
+                        ...
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=8.63 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 1, ferocity: 16, }
+    Take [Apply your own knowledge]:
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=7.58 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 11, ferocity: 16, }
+        Take [Push onward]:
+          p=0.56 [absolute: 0.1119] cost=1.00
+            goal=1.0000 actioncost=6.88 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, search_nest: 1, scouting: 11, ferocity: 16, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.1119] cost=1.00
+                goal=1.0000 actioncost=6.88 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 11, ferocity: 16, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.56 [absolute: 0.0626] cost=1.00
+                    goal=1.0000 actioncost=6.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: bear, search_nest: 1, ferocity: 16, partly_pursued: True, }
+                     (see above)
+                  p=0.44 [absolute: 0.0493] cost=1.40
+                    goal=1.0000 actioncost=7.99 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 13, ferocity: 16, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.65 [absolute: 0.0322] cost=1.00
+                        ...
+                      p=0.35 [absolute: 0.0171] cost=1.40
+                        ...
+          p=0.44 [absolute: 0.0881] cost=1.40
+            goal=1.0000 actioncost=8.47 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 13, ferocity: 16, }
+            Take [Push onward]:
+              p=0.65 [absolute: 0.0575] cost=1.00
+                goal=1.0000 actioncost=7.99 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, search_nest: 1, scouting: 13, ferocity: 16, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0575] cost=1.00
+                    goal=1.0000 actioncost=7.99 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 13, ferocity: 16, partly_pursued: True, }
+                     (see above)
+              p=0.35 [absolute: 0.0306] cost=1.40
+                goal=1.0000 actioncost=9.36 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 15, ferocity: 16, }
+                Take [Push onward]:
+                  p=0.78 [absolute: 0.0240] cost=1.00
+                    goal=1.0000 actioncost=9.11 states{storylet: Pursuing the Parabolan Quarry, quarry: bear, search_nest: 1, scouting: 15, ferocity: 16, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0240] cost=1.00
+                        ...
+                  p=0.22 [absolute: 0.0066] cost=1.40
+                    goal=1.0000 actioncost=10.26 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 17, ferocity: 16, }
+                    Take [Push onward]:
+                      p=0.98 [absolute: 0.0065] cost=1.00
+                        ...
+                      p=0.02 [absolute: 0.0001] cost=1.40
+                        ...
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=9.68 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 2, ferocity: 16, }
+        Take [Apply your own knowledge]:
+          p=0.40 [absolute: 0.0800] cost=1.00
+            goal=1.0000 actioncost=8.33 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 12, ferocity: 16, }
+             (see above)
+          p=0.60 [absolute: 0.1200] cost=1.00
+            goal=1.0000 actioncost=10.58 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 3, ferocity: 16, }
+            Take [Make use of a Glass Gazette]:
+              p=1.00 [absolute: 0.1200] cost=2.00
+                goal=1.0000 actioncost=10.58 states{storylet: Lost in Strange Lands, quarry: bear, search_nest: 1, scouting: 11, ferocity: 16, }
+                 (see above)
+
+
+=== Hunt shark ===
+
+0.9550861100523549 10.054819879974547 10.527657950573035
+goal=0.9551 actioncost=10.05 states{storylet: Lost in Strange Lands, quarry: shark, ferocity: 18, }
+Take [Push onward]:
+  p=0.29 [absolute: 0.2900] cost=1.00
+    goal=0.9844 actioncost=7.51 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, ferocity: 18, }
+    Take [Trick the Parabolan Quarry into chasing you]:
+      p=1.00 [absolute: 0.2900] cost=1.00
+        goal=0.9844 actioncost=7.51 states{storylet: Embattled with Parabolan Quarry, quarry: shark, ferocity: 18, }
+        Take [Kill the Pinewood Shark SECOND CHANCE]:
+          p=0.56 [absolute: 0.1638] cost=1.00
+            Goal: 1.00 for 3.00 actions
+          p=0.44 [absolute: 0.1262] cost=2.67
+            goal=0.9844 actioncost=11.17 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, ferocity: 18, }
+             (see above)
+  p=0.71 [absolute: 0.7100] cost=1.40
+    goal=0.9431 actioncost=11.10 states{storylet: Lost in Strange Lands, quarry: shark, scouting: 2, ferocity: 18, }
+    Take [Push onward]:
+      p=0.31 [absolute: 0.2224] cost=1.00
+        goal=0.9844 actioncost=8.89 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, scouting: 2, ferocity: 18, }
+        Take [Trick the Parabolan Quarry into chasing you]:
+          p=1.00 [absolute: 0.2224] cost=1.00
+            goal=0.9844 actioncost=8.89 states{storylet: Embattled with Parabolan Quarry, quarry: shark, scouting: 2, ferocity: 18, }
+            Take [Kill the Pinewood Shark SECOND CHANCE]:
+              p=0.56 [absolute: 0.1256] cost=1.00
+                Goal: 1.00 for 4.40 actions
+              p=0.44 [absolute: 0.0967] cost=2.67
+                goal=0.9844 actioncost=12.56 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, scouting: 2, ferocity: 18, }
+                 (see above)
+      p=0.69 [absolute: 0.4876] cost=1.40
+        goal=0.9243 actioncost=12.10 states{storylet: Lost in Strange Lands, quarry: shark, scouting: 4, ferocity: 18, }
+        Take [Push onward]:
+          p=0.34 [absolute: 0.1660] cost=1.00
+            goal=0.9642 actioncost=10.19 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, scouting: 4, ferocity: 18, }
+            Take [Trick the Parabolan Quarry into chasing you]:
+              p=1.00 [absolute: 0.1660] cost=1.00
+                goal=0.9642 actioncost=10.19 states{storylet: Embattled with Parabolan Quarry, quarry: shark, scouting: 4, ferocity: 18, }
+                Take [Kill the Pinewood Shark SECOND CHANCE]:
+                  p=0.56 [absolute: 0.0938] cost=1.00
+                    Goal: 1.00 for 5.80 actions
+                  p=0.44 [absolute: 0.0722] cost=2.67
+                    goal=0.9642 actioncost=13.86 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, scouting: 4, ferocity: 18, }
+                     (see above)
+          p=0.66 [absolute: 0.3216] cost=1.40
+            goal=0.9037 actioncost=13.09 states{storylet: Lost in Strange Lands, quarry: shark, scouting: 6, ferocity: 18, }
+            Take [Push onward]:
+              p=0.37 [absolute: 0.1199] cost=1.00
+                goal=0.9642 actioncost=11.56 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, scouting: 6, ferocity: 18, }
+                Take [Trick the Parabolan Quarry into chasing you]:
+                  p=1.00 [absolute: 0.1199] cost=1.00
+                    goal=0.9642 actioncost=11.56 states{storylet: Embattled with Parabolan Quarry, quarry: shark, scouting: 6, ferocity: 18, }
+                    Take [Kill the Pinewood Shark SECOND CHANCE]:
+                      p=0.56 [absolute: 0.0678] cost=1.00
+                        ...
+                      p=0.44 [absolute: 0.0522] cost=2.67
+                        ...
+              p=0.63 [absolute: 0.2017] cost=1.40
+                goal=0.9855 actioncost=14.70 states{storylet: Lost in Strange Lands, quarry: shark, scouting: 8, ferocity: 18, }
+                Take [Push onward]:
+                  p=0.41 [absolute: 0.0831] cost=1.00
+                    goal=0.9844 actioncost=13.11 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, scouting: 8, ferocity: 18, }
+                    Take [Trick the Parabolan Quarry into chasing you]:
+                      p=1.00 [absolute: 0.0831] cost=1.00
+                        ...
+                  p=0.59 [absolute: 0.1186] cost=1.40
+                    goal=0.9862 actioncost=15.82 states{storylet: Lost in Strange Lands, quarry: shark, scouting: 10, ferocity: 18, }
+                    Take [Push onward]:
+                      p=0.46 [absolute: 0.0546] cost=1.00
+                        ...
+                      p=0.54 [absolute: 0.0640] cost=1.40
+                        ...
+
+
+=== Search Nest of shark ===
+
+1.0 8.0501093876927 8.0501093876927
+goal=1.0000 actioncost=8.05 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, ferocity: 18, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=7.34 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 10, ferocity: 18, }
+    Take [Make use of a Glass Gazette]:
+      p=1.00 [absolute: 0.6000] cost=2.00
+        goal=1.0000 actioncost=7.34 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 18, ferocity: 18, }
+        Take [Push onward]:
+          p=0.87 [absolute: 0.5220] cost=1.00
+            goal=1.0000 actioncost=7.18 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, search_nest: 1, scouting: 18, ferocity: 18, }
+            Take [Await the Parabolan Quarry at its Lair]:
+              p=1.00 [absolute: 0.5220] cost=1.00
+                goal=1.0000 actioncost=7.18 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 18, ferocity: 18, partly_pursued: True, }
+                Take [Continue towards (Quarry Home)]:
+                  p=0.87 [absolute: 0.4541] cost=1.00
+                    goal=1.0000 actioncost=7.00 states{storylet: Face (Quarry) in its (Quarry Home), quarry: shark, search_nest: 1, ferocity: 18, partly_pursued: True, }
+                    Take [Search (Quarry Home)]:
+                      p=1.00 [absolute: 0.4541] cost=1.00
+                        ...
+                  p=0.13 [absolute: 0.0679] cost=1.40
+                    goal=1.0000 actioncost=8.40 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 20, ferocity: 18, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=1.00 [absolute: 0.0679] cost=1.00
+                        ...
+          p=0.13 [absolute: 0.0780] cost=1.40
+            goal=1.0000 actioncost=8.40 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 20, ferocity: 18, }
+            Take [Push onward]:
+              p=1.00 [absolute: 0.0780] cost=1.00
+                goal=1.0000 actioncost=8.40 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, search_nest: 1, scouting: 20, ferocity: 18, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0780] cost=1.00
+                    goal=1.0000 actioncost=8.40 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 20, ferocity: 18, partly_pursued: True, }
+                     (see above)
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=9.11 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 1, ferocity: 18, }
+    Take [Apply your own knowledge]:
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=8.06 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 11, ferocity: 18, }
+        Take [Make use of a Glass Gazette]:
+          p=1.00 [absolute: 0.2000] cost=2.00
+            goal=1.0000 actioncost=8.06 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 19, ferocity: 18, }
+            Take [Push onward]:
+              p=0.98 [absolute: 0.1958] cost=1.00
+                goal=1.0000 actioncost=8.03 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, search_nest: 1, scouting: 19, ferocity: 18, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.1958] cost=1.00
+                    goal=1.0000 actioncost=8.03 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 19, ferocity: 18, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.98 [absolute: 0.1916] cost=1.00
+                        ...
+                      p=0.02 [absolute: 0.0042] cost=1.40
+                        ...
+              p=0.02 [absolute: 0.0042] cost=1.40
+                goal=1.0000 actioncost=9.40 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 21, ferocity: 18, }
+                Take [Push onward]:
+                  p=1.00 [absolute: 0.0042] cost=1.00
+                    goal=1.0000 actioncost=9.40 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, search_nest: 1, scouting: 21, ferocity: 18, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0042] cost=1.00
+                        ...
+      p=0.50 [absolute: 0.2000] cost=1.00
+        goal=1.0000 actioncost=10.17 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 2, ferocity: 18, }
+        Take [Apply your own knowledge]:
+          p=0.40 [absolute: 0.0800] cost=1.00
+            goal=1.0000 actioncost=8.84 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 12, ferocity: 18, }
+            Take [Push onward]:
+              p=0.52 [absolute: 0.0418] cost=1.00
+                goal=1.0000 actioncost=8.02 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, search_nest: 1, scouting: 12, ferocity: 18, }
+                Take [Await the Parabolan Quarry at its Lair]:
+                  p=1.00 [absolute: 0.0418] cost=1.00
+                    goal=1.0000 actioncost=8.02 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 12, ferocity: 18, partly_pursued: True, }
+                    Take [Continue towards (Quarry Home)]:
+                      p=0.52 [absolute: 0.0218] cost=1.00
+                        ...
+                      p=0.48 [absolute: 0.0200] cost=1.40
+                        ...
+              p=0.48 [absolute: 0.0382] cost=1.40
+                goal=1.0000 actioncost=9.73 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 14, ferocity: 18, }
+                Take [Push onward]:
+                  p=0.60 [absolute: 0.0230] cost=1.00
+                    goal=1.0000 actioncost=9.14 states{storylet: Pursuing the Parabolan Quarry, quarry: shark, search_nest: 1, scouting: 14, ferocity: 18, }
+                    Take [Await the Parabolan Quarry at its Lair]:
+                      p=1.00 [absolute: 0.0230] cost=1.00
+                        ...
+                  p=0.40 [absolute: 0.0152] cost=1.40
+                    goal=1.0000 actioncost=10.63 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 16, ferocity: 18, }
+                    Take [Push onward]:
+                      p=0.71 [absolute: 0.0108] cost=1.00
+                        ...
+                      p=0.29 [absolute: 0.0044] cost=1.40
+                        ...
+          p=0.60 [absolute: 0.1200] cost=1.00
+            goal=1.0000 actioncost=11.06 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 3, ferocity: 18, }
+            Take [Make use of a Glass Gazette]:
+              p=1.00 [absolute: 0.1200] cost=2.00
+                goal=1.0000 actioncost=11.06 states{storylet: Lost in Strange Lands, quarry: shark, search_nest: 1, scouting: 11, ferocity: 18, }
+                 (see above)
+
+
+=== Find iron_warehouse ===
+
+0.7554545454545454 3.3317108601594407 4.410206914771823
+goal=0.7555 actioncost=3.33 states{storylet: Lost in Strange Lands, destination: iron_warehouse, ferocity: 6, }
+Take [Sneak forward]:
+  p=0.55 [absolute: 0.5540] cost=1.00
+    goal=0.7555 actioncost=2.16 states{storylet: Seeking a Mirror from the Far Side, destination: iron_warehouse, ferocity: 6, }
+    Take [Steal from Mr Iron's warehouse]:
+      p=0.76 [absolute: 0.4185] cost=1.00
+        Goal: 1.00 for 2.00 actions
+      p=0.24 [absolute: 0.1355] cost=1.67
+        Goal: 0.00 for 2.67 actions
+  p=0.45 [absolute: 0.4460] cost=1.80
+    goal=0.7555 actioncost=4.78 states{storylet: Lost in Strange Lands, destination: iron_warehouse, scouting: 2, ferocity: 6, }
+    Take [Sneak forward]:
+      p=0.64 [absolute: 0.2851] cost=1.00
+        goal=0.7555 actioncost=3.96 states{storylet: Seeking a Mirror from the Far Side, destination: iron_warehouse, ferocity: 6, }
+         (see above)
+      p=0.36 [absolute: 0.1609] cost=1.80
+        goal=0.7555 actioncost=6.24 states{storylet: Lost in Strange Lands, destination: iron_warehouse, scouting: 4, ferocity: 6, }
+        Take [Sneak forward]:
+          p=0.76 [absolute: 0.1216] cost=1.00
+            goal=0.7555 actioncost=5.76 states{storylet: Seeking a Mirror from the Far Side, destination: iron_warehouse, ferocity: 6, }
+             (see above)
+          p=0.24 [absolute: 0.0393] cost=1.80
+            goal=0.7555 actioncost=7.70 states{storylet: Lost in Strange Lands, destination: iron_warehouse, scouting: 6, ferocity: 6, }
+            Take [Sneak forward]:
+              p=0.92 [absolute: 0.0363] cost=1.00
+                goal=0.7555 actioncost=7.56 states{storylet: Seeking a Mirror from the Far Side, destination: iron_warehouse, ferocity: 6, }
+                 (see above)
+              p=0.08 [absolute: 0.0030] cost=1.80
+                goal=0.7555 actioncost=9.36 states{storylet: Lost in Strange Lands, destination: iron_warehouse, scouting: 8, ferocity: 6, }
+                Take [Sneak forward]:
+                  p=1.00 [absolute: 0.0030] cost=1.00
+                    goal=0.7555 actioncost=9.36 states{storylet: Seeking a Mirror from the Far Side, destination: iron_warehouse, ferocity: 6, }
+                     (see above)
+
+
+=== Find townhouse ===
+
+0.7554545454545454 3.9226492102354356 5.192435777688303
+goal=0.7555 actioncost=3.92 states{storylet: Lost in Strange Lands, destination: townhouse, ferocity: 10, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=0.7555 actioncost=3.30 states{storylet: Lost in Strange Lands, destination: townhouse, scouting: 10, ferocity: 10, }
+    Take [Sneak forward]:
+      p=0.92 [absolute: 0.5540] cost=1.00
+        goal=0.7555 actioncost=3.16 states{storylet: Seeking a Mirror from the Far Side, destination: townhouse, ferocity: 10, }
+        Take [Learn what you can]:
+          p=0.76 [absolute: 0.4185] cost=1.00
+            Goal: 1.00 for 3.00 actions
+          p=0.24 [absolute: 0.1355] cost=1.67
+            Goal: 0.00 for 3.67 actions
+      p=0.08 [absolute: 0.0460] cost=1.80
+        goal=0.7555 actioncost=4.96 states{storylet: Lost in Strange Lands, destination: townhouse, scouting: 12, ferocity: 10, }
+        Take [Sneak forward]:
+          p=1.00 [absolute: 0.0460] cost=1.00
+            goal=0.7555 actioncost=4.96 states{storylet: Seeking a Mirror from the Far Side, destination: townhouse, ferocity: 10, }
+             (see above)
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=0.7555 actioncost=4.86 states{storylet: Lost in Strange Lands, destination: townhouse, scouting: 1, ferocity: 10, }
+    Take [Sneak forward]:
+      p=0.46 [absolute: 0.1847] cost=1.00
+        goal=0.7555 actioncost=3.16 states{storylet: Seeking a Mirror from the Far Side, destination: townhouse, ferocity: 10, }
+         (see above)
+      p=0.54 [absolute: 0.2153] cost=1.80
+        goal=0.7555 actioncost=6.31 states{storylet: Lost in Strange Lands, destination: townhouse, scouting: 3, ferocity: 10, }
+        Take [Sneak forward]:
+          p=0.52 [absolute: 0.1118] cost=1.00
+            goal=0.7555 actioncost=4.96 states{storylet: Seeking a Mirror from the Far Side, destination: townhouse, ferocity: 10, }
+             (see above)
+          p=0.48 [absolute: 0.1035] cost=1.80
+            goal=0.7555 actioncost=7.76 states{storylet: Lost in Strange Lands, destination: townhouse, scouting: 5, ferocity: 10, }
+            Take [Sneak forward]:
+              p=0.59 [absolute: 0.0614] cost=1.00
+                goal=0.7555 actioncost=6.76 states{storylet: Seeking a Mirror from the Far Side, destination: townhouse, ferocity: 10, }
+                 (see above)
+              p=0.41 [absolute: 0.0421] cost=1.80
+                goal=0.7555 actioncost=9.21 states{storylet: Lost in Strange Lands, destination: townhouse, scouting: 7, ferocity: 10, }
+                Take [Sneak forward]:
+                  p=0.69 [absolute: 0.0291] cost=1.00
+                    goal=0.7555 actioncost=8.56 states{storylet: Seeking a Mirror from the Far Side, destination: townhouse, ferocity: 10, }
+                     (see above)
+                  p=0.31 [absolute: 0.0129] cost=1.80
+                    goal=0.7555 actioncost=10.67 states{storylet: Lost in Strange Lands, destination: townhouse, scouting: 9, ferocity: 10, }
+                    Take [Sneak forward]:
+                      p=0.83 [absolute: 0.0107] cost=1.00
+                        ...
+                      p=0.17 [absolute: 0.0022] cost=1.80
+                        ...
+
+
+=== Find weakness ===
+
+1.0 3.7596205375081624 3.7596205375081624
+goal=1.0000 actioncost=3.76 states{storylet: Lost in Strange Lands, destination: weakness, ferocity: 10, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=3.14 states{storylet: Lost in Strange Lands, destination: weakness, scouting: 10, ferocity: 10, }
+    Take [Sneak forward]:
+      p=0.92 [absolute: 0.5540] cost=1.00
+        goal=1.0000 actioncost=3.00 states{storylet: Seeking a Mirror from the Far Side, destination: weakness, ferocity: 10, }
+        Take [Case the place]:
+          p=1.00 [absolute: 0.5540] cost=1.00
+            Goal: 1.00 for 3.00 actions
+      p=0.08 [absolute: 0.0460] cost=1.80
+        goal=1.0000 actioncost=4.80 states{storylet: Lost in Strange Lands, destination: weakness, scouting: 12, ferocity: 10, }
+        Take [Sneak forward]:
+          p=1.00 [absolute: 0.0460] cost=1.00
+            goal=1.0000 actioncost=4.80 states{storylet: Seeking a Mirror from the Far Side, destination: weakness, ferocity: 10, }
+             (see above)
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=4.69 states{storylet: Lost in Strange Lands, destination: weakness, scouting: 1, ferocity: 10, }
+    Take [Sneak forward]:
+      p=0.46 [absolute: 0.1847] cost=1.00
+        goal=1.0000 actioncost=3.00 states{storylet: Seeking a Mirror from the Far Side, destination: weakness, ferocity: 10, }
+         (see above)
+      p=0.54 [absolute: 0.2153] cost=1.80
+        goal=1.0000 actioncost=6.14 states{storylet: Lost in Strange Lands, destination: weakness, scouting: 3, ferocity: 10, }
+        Take [Sneak forward]:
+          p=0.52 [absolute: 0.1118] cost=1.00
+            goal=1.0000 actioncost=4.80 states{storylet: Seeking a Mirror from the Far Side, destination: weakness, ferocity: 10, }
+             (see above)
+          p=0.48 [absolute: 0.1035] cost=1.80
+            goal=1.0000 actioncost=7.59 states{storylet: Lost in Strange Lands, destination: weakness, scouting: 5, ferocity: 10, }
+            Take [Sneak forward]:
+              p=0.59 [absolute: 0.0614] cost=1.00
+                goal=1.0000 actioncost=6.60 states{storylet: Seeking a Mirror from the Far Side, destination: weakness, ferocity: 10, }
+                 (see above)
+              p=0.41 [absolute: 0.0421] cost=1.80
+                goal=1.0000 actioncost=9.05 states{storylet: Lost in Strange Lands, destination: weakness, scouting: 7, ferocity: 10, }
+                Take [Sneak forward]:
+                  p=0.69 [absolute: 0.0291] cost=1.00
+                    goal=1.0000 actioncost=8.40 states{storylet: Seeking a Mirror from the Far Side, destination: weakness, ferocity: 10, }
+                     (see above)
+                  p=0.31 [absolute: 0.0129] cost=1.80
+                    goal=1.0000 actioncost=10.50 states{storylet: Lost in Strange Lands, destination: weakness, scouting: 9, ferocity: 10, }
+                    Take [Sneak forward]:
+                      p=0.83 [absolute: 0.0107] cost=1.00
+                        ...
+                      p=0.17 [absolute: 0.0022] cost=1.80
+                        ...
+
+
+=== Find evidence ===
+
+1.0 4.100799058718975 4.100799058718975
+goal=1.0000 actioncost=4.10 states{storylet: Lost in Strange Lands, destination: evidence, ferocity: 12, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=3.47 states{storylet: Lost in Strange Lands, destination: evidence, scouting: 10, ferocity: 12, }
+    Take [Sneak forward]:
+      p=0.76 [absolute: 0.4533] cost=1.00
+        goal=1.0000 actioncost=3.00 states{storylet: Seeking a Mirror from the Far Side, destination: evidence, ferocity: 12, }
+        Take [Make the evidence against yourself vanish]:
+          p=1.00 [absolute: 0.4533] cost=1.00
+            Goal: 1.00 for 3.00 actions
+      p=0.24 [absolute: 0.1467] cost=1.80
+        goal=1.0000 actioncost=4.94 states{storylet: Lost in Strange Lands, destination: evidence, scouting: 12, ferocity: 12, }
+        Take [Sneak forward]:
+          p=0.92 [absolute: 0.1355] cost=1.00
+            goal=1.0000 actioncost=4.80 states{storylet: Seeking a Mirror from the Far Side, destination: evidence, ferocity: 12, }
+             (see above)
+          p=0.08 [absolute: 0.0112] cost=1.80
+            goal=1.0000 actioncost=6.60 states{storylet: Lost in Strange Lands, destination: evidence, scouting: 14, ferocity: 12, }
+            Take [Sneak forward]:
+              p=1.00 [absolute: 0.0112] cost=1.00
+                goal=1.0000 actioncost=6.60 states{storylet: Seeking a Mirror from the Far Side, destination: evidence, ferocity: 12, }
+                 (see above)
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=5.04 states{storylet: Lost in Strange Lands, destination: evidence, scouting: 1, ferocity: 12, }
+    Take [Sneak forward]:
+      p=0.42 [absolute: 0.1662] cost=1.00
+        goal=1.0000 actioncost=3.00 states{storylet: Seeking a Mirror from the Far Side, destination: evidence, ferocity: 12, }
+         (see above)
+      p=0.58 [absolute: 0.2338] cost=1.80
+        goal=1.0000 actioncost=6.49 states{storylet: Lost in Strange Lands, destination: evidence, scouting: 3, ferocity: 12, }
+        Take [Sneak forward]:
+          p=0.46 [absolute: 0.1079] cost=1.00
+            goal=1.0000 actioncost=4.80 states{storylet: Seeking a Mirror from the Far Side, destination: evidence, ferocity: 12, }
+             (see above)
+          p=0.54 [absolute: 0.1259] cost=1.80
+            goal=1.0000 actioncost=7.94 states{storylet: Lost in Strange Lands, destination: evidence, scouting: 5, ferocity: 12, }
+            Take [Sneak forward]:
+              p=0.52 [absolute: 0.0654] cost=1.00
+                goal=1.0000 actioncost=6.60 states{storylet: Seeking a Mirror from the Far Side, destination: evidence, ferocity: 12, }
+                 (see above)
+              p=0.48 [absolute: 0.0605] cost=1.80
+                goal=1.0000 actioncost=9.39 states{storylet: Lost in Strange Lands, destination: evidence, scouting: 7, ferocity: 12, }
+                Take [Sneak forward]:
+                  p=0.59 [absolute: 0.0359] cost=1.00
+                    goal=1.0000 actioncost=8.40 states{storylet: Seeking a Mirror from the Far Side, destination: evidence, ferocity: 12, }
+                     (see above)
+                  p=0.41 [absolute: 0.0246] cost=1.80
+                    goal=1.0000 actioncost=10.85 states{storylet: Lost in Strange Lands, destination: evidence, scouting: 9, ferocity: 12, }
+                    Take [Sneak forward]:
+                      p=0.69 [absolute: 0.0170] cost=1.00
+                        ...
+                      p=0.31 [absolute: 0.0076] cost=1.80
+                        ...
+
+
+=== Find hiding_place ===
+
+1.0 4.44830389669497 4.44830389669497
+goal=1.0000 actioncost=4.45 states{storylet: Lost in Strange Lands, destination: hiding_place, ferocity: 14, }
+Take [Apply your own knowledge]:
+  p=0.60 [absolute: 0.6000] cost=1.00
+    goal=1.0000 actioncost=3.82 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 10, ferocity: 14, }
+    Take [Sneak forward]:
+      p=0.64 [absolute: 0.3835] cost=1.00
+        goal=1.0000 actioncost=3.00 states{storylet: Seeking a Mirror from the Far Side, destination: hiding_place, ferocity: 14, }
+        Take [Identify a location]:
+          p=1.00 [absolute: 0.3835] cost=1.00
+            Goal: 1.00 for 3.00 actions
+      p=0.36 [absolute: 0.2165] cost=1.80
+        goal=1.0000 actioncost=5.27 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 12, ferocity: 14, }
+        Take [Sneak forward]:
+          p=0.76 [absolute: 0.1635] cost=1.00
+            goal=1.0000 actioncost=4.80 states{storylet: Seeking a Mirror from the Far Side, destination: hiding_place, ferocity: 14, }
+             (see above)
+          p=0.24 [absolute: 0.0529] cost=1.80
+            goal=1.0000 actioncost=6.74 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 14, ferocity: 14, }
+            Take [Sneak forward]:
+              p=0.92 [absolute: 0.0489] cost=1.00
+                goal=1.0000 actioncost=6.60 states{storylet: Seeking a Mirror from the Far Side, destination: hiding_place, ferocity: 14, }
+                 (see above)
+              p=0.08 [absolute: 0.0041] cost=1.80
+                goal=1.0000 actioncost=8.40 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 16, ferocity: 14, }
+                Take [Sneak forward]:
+                  p=1.00 [absolute: 0.0041] cost=1.00
+                    goal=1.0000 actioncost=8.40 states{storylet: Seeking a Mirror from the Far Side, destination: hiding_place, ferocity: 14, }
+                     (see above)
+  p=0.40 [absolute: 0.4000] cost=1.00
+    goal=1.0000 actioncost=5.39 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 1, ferocity: 14, }
+    Take [Sneak forward]:
+      p=0.38 [absolute: 0.1511] cost=1.00
+        goal=1.0000 actioncost=3.00 states{storylet: Seeking a Mirror from the Far Side, destination: hiding_place, ferocity: 14, }
+         (see above)
+      p=0.62 [absolute: 0.2489] cost=1.80
+        goal=1.0000 actioncost=6.84 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 3, ferocity: 14, }
+        Take [Sneak forward]:
+          p=0.42 [absolute: 0.1034] cost=1.00
+            goal=1.0000 actioncost=4.80 states{storylet: Seeking a Mirror from the Far Side, destination: hiding_place, ferocity: 14, }
+             (see above)
+          p=0.58 [absolute: 0.1455] cost=1.80
+            goal=1.0000 actioncost=8.29 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 5, ferocity: 14, }
+            Take [Sneak forward]:
+              p=0.46 [absolute: 0.0672] cost=1.00
+                goal=1.0000 actioncost=6.60 states{storylet: Seeking a Mirror from the Far Side, destination: hiding_place, ferocity: 14, }
+                 (see above)
+              p=0.54 [absolute: 0.0783] cost=1.80
+                goal=1.0000 actioncost=9.74 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 7, ferocity: 14, }
+                Take [Sneak forward]:
+                  p=0.52 [absolute: 0.0407] cost=1.00
+                    goal=1.0000 actioncost=8.40 states{storylet: Seeking a Mirror from the Far Side, destination: hiding_place, ferocity: 14, }
+                     (see above)
+                  p=0.48 [absolute: 0.0376] cost=1.80
+                    goal=1.0000 actioncost=11.19 states{storylet: Lost in Strange Lands, destination: hiding_place, scouting: 9, ferocity: 14, }
+                    Take [Sneak forward]:
+                      p=0.59 [absolute: 0.0223] cost=1.00
+                        ...
+                      p=0.41 [absolute: 0.0153] cost=1.80
+                        ...

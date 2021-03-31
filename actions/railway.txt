@@ -1,0 +1,41 @@
+# A Word From Your Creditors
+Absorb the damage
+  Card: A Word From Your Creditors
+￼ Scandal is increasing… (+3 CP)
+￼ Suspicion is increasing… (+3 CP)
+￼ In Corporate Debt is dropping… (-1 CP)
+Offer compensation from your own pocketbook
+  Card: A Word From Your Creditors
+￼ In Corporate Debt is dropping… (-2 CP)
+￼ You've lost 500 x Jade Fragment
+￼ You've lost 500 x Piece of Rostygold
+Direct your creditors to the Tentacled Entrepreneur
+  Card: A Word From Your Creditors
+￼ In Corporate Debt is dropping… (-3 CP)
+￼ You've lost 6 x Favours: Rubbery Men
+Alert the Gracious Widow to these complaints
+  Card: A Word From Your Creditors
+￼ In Corporate Debt is dropping… (-3 CP)
+￼ You've lost 6 x Favours: Criminals
+Arrange the services of a Titled Surveyor
+  Card: A Jurisdictional Dispute
+￼ You've lost 3 x Favours: Society
+￼ In Corporate Debt is dropping… (-2 CP)
+# rare succes from 'Assist the old man' ignored
+Drum up a few investments for the Great Hellbound Railway
+  Card: A relaxed day at the Club
+  You've lost 1 x Choice: Club: The Parthenaeum
+￼ You've lost 12 x Rumours of the Upper River
+￼ In Corporate Debt is dropping… (-6 CP)
+# Sell Pies for the Company - > see ealing garden
+Raise funds for the railway
+￼ You've lost 5 x Rumours of the Upper River
+￼ In Corporate Debt is dropping… (- 3 CP)
+￼ You've lost 1 x Jasmine Leaves
+# Invite the Tentacled Entrepreneur to the Board
+#Invite the Tentacled Entrepreneur to the Board, and kick him out again
+#  Card: Meta: Weekly
+#  Action Cost: 6
+#￼ In Corporate Debt is dropping… (-15 CP)
+#￼ You've gained 10 x Hinterland Scrip
+# Only once per week!

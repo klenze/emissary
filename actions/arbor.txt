@@ -1,0 +1,101 @@
+Return to the City of Roses
+# Action Cost includes return cost
+  Action Cost: 2
+  Card: A Dream of Roses
+  You've gained 7 x  Arbor: Permission to Linger
+  You've lost 1 x Attar
+  
+# We assume that you are already where you want to be and do not have to walk.
+
+# Near Arbor (Temple)
+Labour in the temple
+# for A:PtL==7
+￼ You've gained 7 x Attar
+￼ You've lost 7 x Arbor: Permission to Linger
+Offer your Attar to the Temple
+￼ You've gained 4 x Presbyterate Passphrase
+  You've lost 4 x Attar
+
+# Near Arbor (North)
+Visit London's Embassy
+￼ You've lost 1 x Arbor: Permission to Linger
+￼ You've gained 2 x Attar
+￼ You've lost 2 x Sworn Statement
+Spy on London's Embassy
+￼ You've gained 2 x Extraordinary Implication
+￼ You've lost 1 x Arbor: Permission to Linger
+
+# Near Arbor (Centre)
+Explore the Gatehouse Market
+￼ You've gained 2 x Attar
+￼ You've lost 1 x Arbor: Permission to Linger
+# Leave Arbor early # ignored because it seems to be a bad deal
+
+#Near Arbor (South)
+#Investigate the Near-Arbori
+#￼ You've gained 3 x Attar
+#￼ You've lost 3 x Extraordinary Implication
+# TODO: Wiki clains no A:PtL loss?!
+# Note: Even if true, not really repeatable to grind much Attar
+
+#Near Arbor (Palace)
+Barter your Attar
+￼ You've lost 1 x Arbor: Permission to Linger
+￼ You've gained 4 x Sworn Statement
+  You've lost 4 x Attar
+Become a serpent-tender in exchange for Attar
+# for A:PtL==7
+￼ You've gained 7 x Attar
+￼ You've lost 7 x Arbor: Permission to Linger
+
+# Far Arbor (Temple)
+#While away your time -> pointless?
+Serve as a Serpent-Shepherd
+￼ You've gained 7 x Presbyterate Passphrase
+￼ You've lost 7 x Arbor: Permission to Linger
+
+#Far Arbor (North)
+Browse the Edifice of the Unveiled Lie
+￼ You've lost 1 x Arbor: Permission to Linger
+￼ You've lost 3 x Sworn Statement
+￼ You've gained 3 x Extraordinary Implication
+Enter the Forbidden Embassy
+￼ You've lost 1 x Arbor: Permission to Linger
+￼ You've lost 7 x Attar
+￼ You've gained 1 x Direful Reflection
+
+#Far Arbor (Centre)
+Walk the walls
+￼ You've gained 2 x Attar
+￼ You've lost 1 x Arbor: Permission to Linger
+Attend a reception at the Copper Fortress
+# strictly worse than walk the walls?
+￼ You've lost 3 x Presbyterate Passphrase
+￼ You've gained 2 x Attar
+￼ You've lost 1 x Arbor: Permission to Linger
+
+#Far Arbor (South)
+Surrender some of your Attar
+￼ You've lost 3 x Attar
+￼ You've lost 1 x Arbor: Permission to Linger
+￼ You've gained 3 x Extraordinary Implication
+Share secrets with the Arbori
+￼ You've lost 1 x Arbor: Permission to Linger
+￼ You've lost 3 x Extraordinary Implication
+￼ You've gained 3 x Presbyterate Passphrase
+
+#Far Arbor (Palace)
+Gift your Attar in tribute to the Roseate Queen
+￼ You've gained 1 x Favour in High Places
+￼ You've lost 3 x Attar
+￼ You've lost 1 x Arbor: Permission to Linger
+Witness a trial
+￼ You've lost 3 x Attar
+￼ You've gained 3 x Sworn Statement
+￼ You've lost 1 x Arbor: Permission to Linger
+Gift your Attar in tribute to the Roseate Queen (Rare Success)
+# average action cost
+  Action Cost: 4
+￼ You've lost 300 x Attar
+￼ You've gained 100 x Favour in High Places
+￼ You've lost 4 x Arbor: Permission to Linger

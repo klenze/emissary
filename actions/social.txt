@@ -1,0 +1,272 @@
+#
+# All effects/costs cumulative over all parties involved.
+# Note that we assume cooperation between both parties, even for the Slighted!
+# options. (The non-cooperative option would be to just ignore the Slighted!,
+# ensuring that the perpetrator can not slight you again.)
+# We also ignore Forgive and Forget, because that is a really bad deal
+# for the party using it.
+
+Allow them to bandage you
+  Action Cost: 2
+￼ Wounds is dropping… (-4 CP)
+￼ You've gained 2 x Hard-Earned Lesson
+Drink the medicine they bring
+  Action Cost: 2
+￼ Wounds is dropping… (-6 CP)
+
+Write to the newspaper about your acquaintance's virtue
+  Action Cost: 2
+￼ You've gained 25 x Cryptic Clue
+￼ Scandal is dropping… (-4 CP)
+Inform London's tastemakers of your friend's virtues
+  Action Cost: 2
+￼ Scandal is dropping… (-5 CP)
+
+Provide an alibi
+  Action Cost: 2
+￼ You've gained 1 x Journal of Infamy
+￼ Suspicion is dropping… (-3 CP)
+Hide vital evidence from the case
+  Action Cost: 2
+￼ You've gained 1 x Hastily Scrawled Warning Note
+￼ Suspicion is dropping… (-3 CP)
+
+Talk through your troubles with them
+  Action Cost: 2
+￼ Nightmares is dropping… (-3 CP)
+￼ You've gained 1 x Sudden Insight
+￼ You've gained 5 x Maniac's Prayer
+Allow them to watch over your rest
+  Action Cost: 2
+￼ Nightmares is dropping… (-5 CP)
+￼ You've gained 1 x Tale of Terror!!
+
+￼
+Report it to interested parties
+  Action Cost: 3
+  You've gained 200 x Penny
+￼ You've gained 3 x Hastily Scrawled Warning Note
+Blackmail your target
+  Action Cost: 3
+￼ You've gained 300 x Penny
+￼ You've gained 3 x Hastily Scrawled Warning Note
+Learn Shadowy lessons from your surveillance
+  Action Cost: 3
+￼ You've gained 5 x Hastily Scrawled Warning Note
+
+Enjoy a coffee and lighthearted conversation
+  Action Cost: 2
+￼ Making Waves is increasing… (+2 CP)
+￼ You've gained 4 x Confident Smile (up to 16)
+Indulge in coffee
+  Action Cost: 2
+￼ Making Waves is increasing… (+3 CP)
+￼ You've gained 2 x Confident Smile (up to 16)
+￼ Scandal is increasing… (+1 CP)
+Spread gossip about a rival
+  Card: A visit from Slowcake's Amanuensis
+  Making Waves is increasing… (+11-20 CP)
+￼ You've lost 10-20 x Scrap of Incendiary Gossip
+￼ You've lost 1 x An Identity Uncovered!
+￼ You've gained 1 x Slighted!
+
+Hire him. (Guttersnipe)
+￼ You've lost 2 x Aeolian Scream
+￼ You've lost 250 x Piece of Rostygold
+￼ You've gained 1 x Meta: Services of an Assassin: The Gloomy Guttersnipe
+Hire him. (Marksman)
+￼ You've lost 2 x London Street Sign
+￼ You've lost 250 x Piece of Rostygold
+￼ You've gained 1 x Meta: Services of an Assassin: The Minacious Marksman
+Hire the Polite Poisoner
+￼ You've lost 2 x Muscaria Brandy
+￼ You've lost 250 x Piece of Rostygold
+￼ You've gained 1 x Meta: Services of an Assassin: The Polite Poisoner
+
+Arrange a stabbing, Fight him off
+  Action Cost: 2
+￼ You've lost 1 x Slighted!
+￼ You've lost 1 x Meta: Services of an Assassin: The Gloomy Guttersnipe
+￼ Making Waves is increasing… (+15-25 CP)
+￼ You've gained 0.8 x Nodule of Trembling Amber
+￼ You've gained 0.8 x Memento of Violence
+# TODO: how much wounds, actually? Assuming 5 on fail (p=0.2)
+￼ You've gained 10 x Surface-Silk Scrap
+￼ Wounds is increasing… (+1 CP)
+#TODO: Does the difficulty scale like the other two?
+Arrange a stabbing, Shift your organs out of the way
+  Action Cost: 2
+￼ You've lost 1 x Slighted!
+￼ You've lost 1 x Meta: Services of an Assassin: The Gloomy Guttersnipe
+￼ Making Waves is increasing… (+15-25 CP)
+￼ You've gained 0.6 x Ivory Humerus
+￼ You've gained 200 x Bone Fragments
+￼ Wounds is increasing… (+2.4 CP)
+Arrange a shooting, Climb up to the Flit and face him head-on
+  Action Cost: 2
+￼ You've lost 1 x Slighted!
+￼ You've lost 1 x Meta: Services of an Assassin: The Minacious Marksman
+￼ Making Waves is increasing… (+11 CP)
+# p=0.8 for 211+50 Dangerous
+￼ You've gained 0.8 x Puzzle-Damask Scrap
+￼ You've gained 0.8 x Memento of Violence
+￼ Wounds is increasing… (+0.8 CP)
+
+Arrange a shooting, Fortunately, you have made arrangements
+  Action Cost: 2
+￼ You've lost 1 x Slighted!
+￼ You've lost 1 x Meta: Services of an Assassin: The Minacious Marksman
+￼ Making Waves is increasing… (+11 CP)
+# p=0.6 for APoC 8
+￼ You've gained 0.6 x Favour in High Places
+￼ You've gained 0.4 x Ancient Hunting Rifle
+￼ Wounds is increasing… (+1.6 CP)
+
+Arrange a poisoning, Pretend to drink
+  Action Cost: 2
+￼ You've lost 1 x Slighted!
+￼ You've lost 1 x Meta: Services of an Assassin: The Polite Poisoner
+￼ Making Waves is increasing… (15-25 CP)
+# Wiki: Challenge difficulty is 0.8 × ￼ Base Shadowy
+# This goes to 0.6/0.8=0.75 for no items
+# my main char should (211+66 Shadowy) should get p=0.985, so I won't
+# bother with the failure option.
+￼ You've gained 1 x Magnificent Diamond
+
+Arrange a poisoning, Drink up. Metabolize the poison.
+  Action Cost: 2
+￼ You've lost 1 x Slighted!
+￼ You've lost 1 x Meta: Services of an Assassin: The Polite Poisoner
+￼ Making Waves is increasing… (15-25 CP)
+￼ You've gained 0.5 x Blackmail Material
+￼ Wounds is increasing… (+1.5 CP)
+￼ You've gained 10 x Whisper-Satin Scrap
+
+# We assume that you have an acquaintance happy to read anything
+# you write.
+# any letters not helpful to a late-game character are commented out.
+
+Compose a letter to spread the Good Word, send it
+  Action Cost: 2
+￼ You've lost 1 x Memory of a Much Lesser Self
+￼ Corresponding... is increasing… (+1 CP)
+￼ You've gained 1 x Godly Missive
+Compose a letter to spread the Bad Word, send it
+  Action Cost: 2
+￼ You've lost 1 x Verse of Counter-Creed
+￼ You've lost 1 x Choice: Profession: Crooked-Cross
+￼ Corresponding... is increasing… (+4 CP)
+#￼ You've gained 1 x Disquieting Missive
+Compose a letter to spread the Better Word, send it
+  Action Cost: 2
+￼ You've lost 50 x Page of Theosophistical Notes
+￼ Corresponding... is increasing… (+1 CP)
+#￼ You've gained 1 x Revisionist Missive
+Write some case notes into a letter, send it
+  Action Cost: 2
+￼ You've lost 5 x Journal of Infamy
+￼ Corresponding... is increasing… (+1 CP)
+￼ You've gained 1 x Memento of Silence
+#￼ You've gained 1 x Shared Case File
+Compose advice for an investigation, send it
+  Action Cost: 2
+￼ You've lost 125 x Cryptic Clue
+￼ Corresponding... is increasing… (+1 CP)
+  You've gained 1 x Bundle of Investigation Notes
+Compose a poem (from Mourning Candle), send it
+  Action Cost: 2
+￼ You've lost 1 x Mourning Candle
+￼ Corresponding... is increasing… (+1 CP)
+￼ You've gained 1 x Poetic Missive
+Compose a poem (from An Identity Uncovered!), send it
+  Action Cost: 2
+￼ You've lost 1 x An Identity Uncovered!
+￼ Corresponding... is increasing… (+1 CP)
+￼ You've gained 1 x Poetic Missive
+Compose a poem (from Touching Love Story), send it
+  Action Cost: 2
+￼ You've lost 1 x Touching Love Story
+￼ Corresponding... is increasing… (+1 CP)
+￼ You've gained 1 x Poetic Missive
+Compile licentious gossip, send it
+  Action Cost: 2
+￼ You've lost 1 x Stolen Kiss
+￼ Corresponding... is increasing… (+1 CP)
+#￼ You've gained 1 x Collection of Licentious Gossip
+Write down some favoured fighting techniques, send it
+  Action Cost: 2
+￼ You've lost 5 x Tale of Terror!!
+￼ Corresponding... is increasing… (+1 CP)
+#￼ You've gained 1 x Improvised Dueling Manual
+Write down a beloved family recipe, send it
+  Action Cost: 2
+￼ You've lost 5 x Journal of Infamy
+￼ Corresponding... is increasing… (+1 CP)
+#￼ You've gained 1 x Beloved Family Recipe
+Encrypt a coded instruction, send it
+  Action Cost: 3
+￼ You've lost 1 x Vital Intelligence
+￼ You've lost 1 x Choice: Profession: Midnighter
+￼ Corresponding... is increasing… (+4 CP)
+￼ You've gained 1 x Memento of Silence
+#￼ You've gained 1 x Coded Instruction
+Write down a name in Gant, send it
+  Action Cost: 2
+￼ You've lost 500 x Piece of Rostygold
+￼ You've lost 1 x Choice: Profession: Licentiate
+￼ Suspicion is dropping… (-6 CP)
+￼ Scandal is dropping… (-6 CP)
+￼ You've gained 1 x Memento of Silence
+￼ You've gained 1 x Name Written in Gant
+Compile notes on the Correspondence, send it
+  Action Cost: 2
+￼ You've lost 1 x Choice: Profession: Correspondent
+￼ You've lost 5 x F.F. Gebrandt's Flame-Resilient Paper
+￼ You've lost 2 x Volume of Collated Research
+￼ You've lost 2 x Extraordinary Implication
+￼ Corresponding... is increasing… (+4 CP)
+￼ You've gained 1 x Flame-proof Missive
+#Write down some of what you know about the Discordance
+#TODO
+
+# Write down a question, send it
+# -> Just no.
+
+Read a godly missive
+￼ You've lost 1 x Godly Missive
+￼ Nightmares is dropping… (-3 CP)
+Read a bundle of investigation notes
+￼ You've lost 1 x Bundle of Investigation Notes
+￼ Investigating... is increasing… (+42 CP)
+Read a poetic missive
+￼ You've lost 1 x Poetic Missive
+￼ Inspired... is increasing… (+45 CP)
+(Carefully) read a flame-proof missive
+￼ You've lost 1 x Flame-proof Missive
+￼ A Scholar of the Correspondence is increasing… (+1 CP)
+Pursue a name written in gant
+￼ You've lost 1 x Name Written in Gant
+￼ You've gained 500 x Piece of Rostygold
+￼ You've gained 2 x Moves in the Great Game
+
+
+For the influence
+# assuming BDR 26
+￼ Corresponding... is dropping… (-10 CP)
+￼ Making Waves is increasing… (+56 CP)
+For the secrets
+￼ Corresponding... is dropping… (-10 CP)
+￼ You've gained 1250 x Cryptic Clue
+￼ You've gained 145 x Appalling Secret
+For the Game
+￼ Corresponding... is dropping… (-10 CP)
+￼ You've gained 1 x Vital Intelligence
+￼ You've gained 44 x Moves in the Great Game
+For the Counter-Church
+￼ Corresponding... is dropping… (-10 CP)
+￼ You've lost 1 x Choice: Profession: Crooked-Cross
+￼ Corresponding... is dropping… (-10 CP)
+￼ You've gained 1 x Silent Soul
+￼ You've gained 1088 x Soul
+# For a grand scheme
+# -> Just ... no.

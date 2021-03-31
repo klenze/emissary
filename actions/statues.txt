@@ -1,0 +1,184 @@
+# ealing garden
+#Practice sketching the Statue to (subject) (Ealing Gardens)
+# -> not worth it. 
+Call in favours from Urchins (Statue to Sinning Jenny)
+￼ You've lost 1 x Choice: Ealing Garden Statue: Sinning Jenny
+  Card: Under the Statue (Ealing Gardens)
+￼ You've lost 4 x Favours: Urchins
+￼ You've gained 1 x Puzzle-Damask Scrap
+￼ You've gained 3 x Thirsty Bombazine Scrap
+  You've gained 1 x Meta: Opening a Bundle of Oddities 1-466
+Call in favours from Tomb Colonists (Statue to Feducci)
+￼ You've lost 1 x Choice: Ealing Garden Statue: Feducci
+  Card: Under the Statue (Ealing Gardens)
+￼ You've lost 2 x Favours: Tomb-Colonies
+￼ You've gained 5 x Sapphire
+￼ You've gained 5 x Venom-ruby
+￼ You've gained 1 x Magnificent Diamond
+Call in favours from Revolutionaries (Statue to the Jovial Contrarian)
+￼ You've lost 1 x Choice: Ealing Garden Statue: Jovial Contrarian
+  Card: Under the Statue (Ealing Gardens)
+￼ You've lost 4 x Favours: Revolutionaries
+￼ You've gained 625 x Proscribed Material
+Call in favours from Hell (Statue to Virginia)
+￼ You've lost 1 x Choice: Ealing Garden Statue: Virginia
+  Card: Under the Statue (Ealing Gardens)
+￼ You've lost 2 x Favours: Hell
+￼ You've gained 0.5 x Brass Ring
+￼ You've gained 4 x Muscaria Brandy
+Call in favours from Rubbery Men (Statue to the Tentacled Entrepreneur)
+￼ You've lost 1 x Choice: Ealing Garden Statue: Tentacled Entrepreneur
+  Card: Under the Statue (Ealing Gardens)
+￼ You've lost 2 x Favours: Rubbery Men
+￼ You've gained 1 x Nodule of Trembling Amber
+Call in favours from Bohemians (Statue to Yourself, Poet-Laureate of the Neath)
+￼ You've lost 1 x Choice: Ealing Garden Statue: Yourself
+  Card: Under the Statue (Ealing Gardens)
+￼ You've lost 4 x Favours: Bohemians
+￼ You've gained 2 x Ivory Humerus
+
+######################################
+# Jericho Locks
+######################################
+
+Trade on your academic and theological connections (Statue to the Dean of Xenotheology)
+  You've lost 1 x Choice: Jericho Locks Statue: Dean of Xenotheology
+  Card: Under the Statue at Jericho Locks
+￼ You've gained 150 x Nodule of Warm Amber
+￼ You've gained 10 x Parabolan Research
+￼ You've lost 2 x Favours: The Church
+Call in favours from the Church (Statue to the Bishop of Southwark)
+  You've lost 1 x Choice: Jericho Locks Statue: Bishop of Southwark
+  Card: Under the Statue at Jericho Locks
+￼ You've lost 1 x Favours: The Church
+￼ You've gained 4 x Strong-Backed Labour
+Call in favours from the Church (Statue to the Bishop of Saint Fiacre's)
+  You've lost 1 x Choice: Jericho Locks Statue: Bishop of St Fiacre's
+  Card: Under the Statue at Jericho Locks
+￼ You've lost 4 x Favours: The Church
+￼ You've gained 2 x Holy Relic of the Thigh of Saint Fiacre
+Converse with a few retired scholars (Statue to Yourself, Preeminent Scholar of the Correspondence)
+  You've lost 1 x Choice: Jericho Locks Statue: Yourself
+  Card: Under the Statue at Jericho Locks
+￼ You've gained 10 x Parabolan Research
+￼ You've gained 900 x Whispered Hint
+￼ You've lost 1 x Favours: The Church
+￼ You've gained 2 x Expertise of the Second City
+
+###########################################
+# Magistrate
+###########################################
+
+Call in favours with the Gracious Widow
+  You've lost 1 x Choice: Magistracy Statue: Gracious Widow
+  Card: Under the Statue at the Magistracy
+￼ You've lost 4 x Favours: Urchins
+￼ You've gained 1 x Puzzle-Damask Scrap
+￼ You've gained 3 x Thirsty Bombazine Scrap
+  You've gained 1 x Meta: Opening a Bundle of Oddities 1-431
+#TODO: check bundle range?!
+Receive an offering from the Clay Highwayman
+  You've lost 1 x Choice: Magistracy Statue: Clay Highwayman
+  Card: Under the Statue at the Magistracy
+￼ You've lost 2 x Favours: Criminals
+￼ You've gained 1 x Certifiable Scrap
+￼ You've gained 1 x Magnificent Diamond
+￼ You've gained 1 x Meta: Opening a Bundle of Oddities 200-500
+#TODO: check bundle range?! (banditry=5)
+Set a Watch beside the Statue of Yourself
+  You've lost 1 x Choice: Magistracy Statue: Yourself
+  Card: Under the Statue at the Magistracy
+  You've gained 0.8 x Favours: Constables
+  Nightmares is increasing… (+0.2 CP)
+￼ You've gained 0.6 x Certifiable Scrap
+
+############################################
+# Note: there is no statue card for Balmoral
+############################################
+
+############################################
+# Station VIII
+############################################
+
+Read the graffiti on the Statue to (subject)
+# for low darkness
+  Card: Under the Statue at Station VIII
+  You've lost 1 x Choice: Station VIII Statue: any
+￼ You've gained 5-7 x Unusual Love Story
+Write something to sear the eyes of fools and lift up the great powers
+  Card: Under the Statue at Station VIII
+  You've lost 1 x Choice: Station VIII Statue: any
+  You've lost 1 x Choice: Profession: Correspondent
+￼ You've lost 4 x Correspondence Plaque
+￼ You've lost 3 x Aeolian Scream
+￼ You've gained 1 x Storm-Threnody
+
+###########################################
+# Burrow-Infra-Mump
+###########################################
+￼
+Dinner with a Curate (Statue to St Augustine of Canterbury)
+  Card: Under the Statue at Burrow-Infra-Mump
+  You've lost 1 x Choice: Burrow-Infra-Mump Statue: St Augustine
+￼ You've gained 1 x Favours: Society (up to 7)
+￼ You've lost 1 x Bottle of Greyfields 1868 First Sporing
+￼ You've lost 1 x Favours: The Church
+An Evening of Palaeontological Discussion (Statue to a Custom-Made Saint)
+  Card: Under the Statue at Burrow-Infra-Mump
+  You've lost 1 x Choice: Burrow-Infra-Mump Statue: Custom-Made Saint
+  # connected gain is 
+  # (+(2 × ￼ Theological Implications) + (￼ Skeleton Value/1000) CP)
+  # assume that you build on the ribcage with 8 spines (312.5E),
+  # add 4x Saint Fiacre's Thigh  (each +12.5E, +6 implications)
+  # add 8x duplicate skull of john (each +15E, +2 implications)
+  # seems kinda optimal.
+  # 482.5E, 40 implications gives +50 and + 80
+￼ Connected: Benthic is increasing… (+130 CP)
+￼ You've gained 1 x Rumours of the Upper River
+Trade Favours for Bones (Statue to a Custom-Made Saint)
+# ignoring the rare success for a prismatic frame for now
+  Card: Under the Statue at Burrow-Infra-Mump
+  You've lost 1 x Choice: Burrow-Infra-Mump Statue: Custom-Made Saint
+￼ You've gained 0.5 x Flourishing Ribcage
+￼ Connected: Benthic is dropping… (-65 CP)
+￼ You've gained 0.5 x Femur of a Jurassic Beast
+￼ You've gained 0.5 x Helical Thighbone
+Supply Honey for a Theological Salon (Statue to St Hildegard of Bingen)
+  Card: Under the Statue at Burrow-Infra-Mump
+  You've lost 1 x Choice: Burrow-Infra-Mump Statue: St Hildegard
+￼ You've lost 10 x Drop of Prisoner's Honey
+￼ You've gained 1 x Favours: Revolutionaries (up to 7)
+￼ You've lost 1 x Favours: Bohemians
+Meditate on Death (Statue to Yourself, Alongside Memento Mori)
+  Card: Under the Statue at Burrow-Infra-Mump
+  You've lost 1 x Choice: Burrow-Infra-Mump Statue: Yourself
+  You've gained 1 x Memory of a Much Lesser Self
+￼ You've gained 1 x Incisive Observation
+
+###########################################
+# Moulin
+###########################################
+
+Share a drink with a Zailor (Legendary Zee-Captain)
+  You've lost 1 x Choice: Moulin Statue: Yourself, Legendary Zee-Captain
+  Card: Under the Statue at Moulin
+￼ You've lost 4 x Favours: The Docks
+￼ You've gained 2 x Puzzling Map
+#Share a tale of your travels (Legendary Zee-Captain)
+# Not yet implemented by FBG
+Make contact with an agent (Ambassador to the Khanate)
+  You've lost 1 x Choice: Moulin Statue: Yourself, Ambassador to the Khanate
+  Card: Under the Statue at Moulin
+￼ You've lost 2 x Favours: The Great Game
+￼ You've gained 1 x Vital Intelligence
+￼ You've gained 5 x Moves in the Great Game
+Draw inspiration for a Monograph (Clio)
+  You've lost 1 x Choice: Moulin Statue: Clio, Muse of History
+  Card: Under the Statue at Moulin
+￼ You've gained 175 x Cryptic Clue
+Draw inspiration for a Monograph (Yourself, Preeminent Archaeologist)
+  You've lost 1 x Choice: Moulin Statue: Yourself, Preeminent Archaeologist
+  Card: Under the Statue at Moulin
+￼ You've gained 175 x Cryptic Clue
+# I will ignore the gain favor options, as there is always some card to
+# gain a favour. 

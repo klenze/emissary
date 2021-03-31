@@ -1,0 +1,97 @@
+# Clay Highwayman:
+# these are technically cards, but with infinite draw
+# just like the lab
+Wander the moonlit woods
+￼ Inspired... is increasing… (+1 CP)
+￼ You've gained 1 x Moonlit
+Mount the beast and lead a raid
+￼ Casing... is increasing… (+4 CP)
+￼ You've gained 0.25 x Crate of Incorruptible Biscuits
+￼ You've gained 0.25 x Knob of Scintillack
+￼ You've gained 0.25 x Royal-Blue Feather
+￼ You've gained 0.25 x Solacefruit
+#Larceny at *
+Join a scouting party
+￼ Casing... is increasing… (+2.4 CP)
+￼ Suspicion is increasing… (+0.8 CP)
+# For completeness. Note that nothing compares to Parabola for casing gains
+# so we will not consider any other sources. 
+# Larceny at Ealing Garden 
+Ambush an Inattentive Scholar
+￼ Casing... is dropping… (-21 CP)
+￼ You've gained 3 x Volume of Collated Research
+￼ You've gained 2 x Knotted Humerus
+Burgle a Public House
+￼ Casing... is dropping… (-36 CP)
+￼ You've gained 1 x Nodule of Trembling Amber
+￼ You've gained 5 x Crate of Incorruptible Biscuits
+￼ You've gained 4-49 x Jasmine Leaves
+Con an Eccentric Philosopher
+￼ Casing... is dropping… (-55 CP)
+￼ You've gained 1 x Nodule of Fecund Amber
+￼ You've lost 80 x Cover Identity: Backstory
+  You've lost 1 x Meta: Cover Identity: Elaboration 10
+  You've lost 1 x Meta: Cover Identity: Nuance 5
+  You've lost 1 x Meta: Cover Identity: Credentials 5
+# Larceny at Jericho Locks
+Ambush a Novice Smuggler
+￼ Casing... is dropping… (-21 CP)
+￼ You've gained 1 x Consignment of Scintillack Snuff
+Seize a jewel smuggler's boat
+￼ Casing... is dropping… (-36 CP)
+￼ You've gained 2 x Magnificent Diamond
+￼ You've gained 11-35 x Flawed Diamond
+Con a Seasoned Smuggler
+￼ Casing... is dropping… (-55 CP)
+￼ You've gained 1 x Fabulous Diamond
+￼ You've lost 80 x Cover Identity: Backstory
+  You've lost 1 x Meta: Cover Identity: Elaboration 10
+  You've lost 1 x Meta: Cover Identity: Witnesses 5
+  You've lost 1 x Meta: Cover Identity: Credentials 5
+# Larceny at the Magistracy
+Ambush an Aging Detective
+￼ Casing... is dropping… (-21 CP)
+￼ You've gained 5 x Sworn Statement
+Break into the offices of Baseborn & Fowlingpiece
+￼ Casing... is dropping… (-36 CP)
+￼ You've gained 2 x Legal Document
+￼ You've gained 1-10 x Compromising Document
+Con an Inconvenient Royal
+￼ You've gained 1 x Scrap of Ivory Organza
+￼ Casing... is dropping… (-55 CP)
+￼ You've lost 80 x Cover Identity: Backstory
+  You've lost 1 x Meta: Cover Identity: Elaboration 10
+  You've lost 1 x Meta: Cover Identity: Nuance 5
+  You've lost 1 x Meta: Cover Identity: Credentials 5
+  You've lost 1 x Meta: Cover Identity Start Bazaar
+# Larceny at Balmoral
+Ambush a smuggler
+￼ Casing... is dropping… (-21 CP)
+￼ You've gained 1 x Magnificent Diamond
+Ambush a courier
+￼ Casing... is dropping… (-36 CP)
+￼ You've gained 2 x Vital Intelligence
+￼ You've gained 4-9 x Moves in the Great Game
+Con a Palaeontological Yank
+￼ You've gained 1 x Prismatic Frame
+￼ Casing... is dropping… (-55 CP)
+￼ You've lost 80 x Cover Identity: Backstory
+  You've lost 1 x Meta: Cover Identity: Elaboration 10
+  You've lost 1 x Meta: Cover Identity: Nuance 5
+  You've lost 1 x Meta: Cover Identity: Credentials 5
+# Larceny at Burrow-Infra-Mump
+Ambush an Amnesiac Theologian
+￼ Casing... is dropping… (-21 CP)
+￼ You've gained 25 x Palimpsest Scrap
+Rob the Museum of Souls
+￼ Casing... is dropping… (-36 CP)
+￼ You've gained 2 x Silent Soul
+￼ You've gained 1 x Queer Soul
+￼ You've gained 1-38 x Soul
+Steal a precious manuscript
+￼ You've gained 1 x Legenda Cosmogone
+￼ Casing... is dropping… (-55 CP)
+￼ You've lost 80 x Cover Identity: Backstory
+  You've lost 1 x Meta: Cover Identity: Elaboration 10
+  You've lost 1 x Meta: Cover Identity: Nuance 5
+  You've lost 1 x Meta: Cover Identity: Credentials 5

@@ -1,0 +1,56 @@
+# we will only consider the faction gains here.
+# other cards like An Afternoon of Good Deeds? will
+# increase CtD as a side effect
+# we will also ignore A Pocketful of Loose Change as
+# it is typically not limiting in the long term
+#
+# We will charitably ignore the fact that you could use the card
+# to increase Faction favours instead, so it has quite an opportunity cost.
+#
+# I will also ignore the restrictions on finding a home for your Mark
+# actions, as they plainly do not seem to be worth it anyhow.
+
+Counting the Days Faction card increase
+  Card: Meta: Characters Closest To Faction
+  Counting the Days is increasing… (+5 CP)
+A sack of coins
+  Card: Secrets and Spending
+  Counting the Days is dropping… (-105 CP)
+￼ You've gained 333 x Fistful of Surface Currency
+Fencing certain coins
+  Card: Secrets and Spending
+  Counting the Days is dropping… (-105 CP)
+￼ You've gained 20 x First City Coin
+￼ You've lost 3 x Favours: Criminals
+Buy a Mark of Credit Page from the Numismatrix
+  Card: Secrets and Spending
+  Counting the Days is dropping… (-105 CP)
+￼ You've gained 1 x Mark of Credit Page
+Find a decent home for your Mark of Credit Page
+  Card: Secrets and Spending
+  Counting the Days is dropping… (-105 CP)
+￼ You've gained 1 x Favours: Constables (up to 7)
+￼ You've gained 1 x Favours: The Church (up to 7)
+￼ You've gained 1 x Favours: Society (up to 7)
+￼ Connected: Benthic is increasing… (+10 CP)
+￼ Connected: Summerset is increasing… (+10 CP)
+￼ You've gained 120 x Bottle of Morelways 1872
+￼ You've lost 1 x Mark of Credit Page
+Find a hard-working home for your Mark of Credit Page
+  Card: Secrets and Spending
+  Counting the Days is dropping… (-105 CP)
+￼ You've gained 60 x Intriguing Snippet
+￼ You've lost 1 x Mark of Credit Page
+￼ You've gained 1 x Favours: The Docks (up to 7)
+￼ You've gained 1 x Favours: Urchins (up to 7)
+￼ You've gained 1 x Favours: The Great Game (up to 7)
+￼ You've gained 1 x Favours: Bohemians (up to 7)
+Find an unusual home for your Mark of Credit Page
+  Card: Secrets and Spending
+  Counting the Days is dropping… (-105 CP)
+￼ You've gained 50 x Compromising Document
+￼ You've lost 1 x Mark of Credit Page
+￼ You've gained 1 x Favours: Criminals (up to 7)
+￼ You've gained 1 x Favours: Tomb-Colonies (up to 7)
+￼ You've gained 1 x Favours: Hell (up to 7)
+￼ You've gained 1 x Favours: Revolutionaries (up to 7)

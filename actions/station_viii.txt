@@ -1,0 +1,54 @@
+# Special Extracts
+#
+# Action cost:
+# Offer to collect materials to be experimented on
+# travel
+# buy ingredients
+# travel
+# extract
+# 5 actions (except Crystallised Euphoria)
+Get + Extract concentrated sentiment from the Obliviscere Mori (via London)
+  Action Cost: 5
+  You've gained 1 x Crystallised Euphoria
+Get + Extract concentrated sentiment from the Obliviscere Mori (Bribe)
+  Action Cost: 3
+  You've gained 1 x Crystallised Euphoria
+￼ You've lost 3 x Sworn Statement
+Get + Extract concentrated sentiment from the Vindication of Faith
+  Action Cost: 5
+￼ You've gained 1 x Salve of Righteousness
+￼ You've lost 2 x Direful Reflection
+￼ You've lost 2 x Comprehensive Bribe
+Get + Extract concentrated sentiment from the Horrifying Confirmation that you were Right All Along
+  Action Cost: 5
+  You've gained 1 x Concentrate of Self
+￼ You've lost 2 x Nodule of Pulsating Amber
+￼ You've lost 2 x Searing Enigma
+￼ You've lost 10 x Touching Love Story
+￼ You've lost 2 x Favour in High Places
+Get + Extract concentrated sentiment from the Elation at Feline Oration
+  Action Cost: 5
+￼ You've gained 1 x Oil of Companionship
+￼ You've lost 2 x Antique Mystery
+￼ You've lost 2 x Consignment of Scintillack Snuff
+Get + Extract concentrated sentiment from the Exhilaration from Achieving Justice
+  Action Cost: 5
+  You've gained 1 x Distillation of Retribution
+  You've lost 5 x Legal Document
+￼ You've lost 6 x Comprehensive Bribe
+￼ You've lost 6 x Bazaar Permit
+￼ You've lost 6 x Blackmail Material
+￼ You've lost 1 x Parabolan Orange-apple
+Get + Extract concentrated sentiment from the Unthinkable Hope
+  Action Cost: 5
+￼ You've gained 1 x Powder of Renewal
+￼ You've lost 1 x Dreadful Surmise
+￼ You've lost 5 x Diary of the Dead
+￼ You've lost 22 x Blackmail Material
+￼ You've lost 10 x Tin of Zzoup
+￼ You've lost 10 x Tinned Ham
+# Mark goods: 1 action to mark, 1x follow, 1x intercept
+Collect the marked crate
+  Action Cost: 3
+  You've gained 0.5 x Halcyonic Tonic
+  You've gained 0.5 x Fillip of Effervescence

@@ -1,0 +1,137 @@
+Result of running ./emissary.py -g 'Echo' -v --max 10 --favours
+initializing...
+No source for 'CP: Fascinating...'
+(We assume that favours are freely available for 1 action per favour.)
+Listing methods of grinding for {'Echo': 1}.
+0.19 actions (5.22 Echo per action) with 'Watch a parade':
+     Note: This grind uses Favours: The Docks grind cards.
+     0.2011148 Sell at Upper River: Moves in the Great Game
+     0.1436534 Gain Favours: The Docks by some card
+  *  0.0287307 Watch a parade
+     0.0239422 Sell at Bazaar: Uncanny Incunabulum
+     0.0095769 Charter a barge to the Eversmoulder + Leave the barge
+     0.0095769 Sell at Bazaar: Primaeval Hint
+     0.0016089 Buy at Upper River: Tinned Ham
+     0.0016089 Sell at Bazaar: Tinned Ham
+
+0.20 actions (4.92 Echo per action) with 'Ambush a courier':
+     0.2264651 Sell at Upper River: Moves in the Great Game
+     0.0696816 Sell at Upper River: Vital Intelligence
+     0.0447953 Parabola: Find weakness
+  *  0.0348408 Ambush a courier
+     0.0157480 Buy at Upper River: Tinned Ham
+     0.0157480 Sell at Bazaar: Tinned Ham
+
+0.21 actions (4.78 Echo per action) with 'Rob the Museum of Souls':
+     0.6991753 Sell at Bazaar: Soul
+     0.0717103 Sell at Bazaar: Silent Soul
+     0.0460995 Parabola: Find weakness
+  *  0.0358551 Rob the Museum of Souls
+     0.0358551 Sell at Bazaar: Queer Soul
+
+0.21 actions (4.77 Echo per action) with 'Burgle a Public House':
+     0.9515260 Sell at Bazaar: Jasmine Leaves
+     0.1795332 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0461657 Parabola: Find weakness
+  *  0.0359066 Burgle a Public House
+     0.0359066 Sell at Bazaar: Nodule of Trembling Amber
+     0.0071813 Buy at Upper River: Tinned Ham
+     0.0071813 Sell at Bazaar: Tinned Ham
+
+0.21 actions (4.76 Echo per action) with 'Seize a jewel smuggler's boat':
+     0.8285303 Sell at Bazaar: Flawed Diamond
+     0.0720461 Sell at Bazaar: Magnificent Diamond
+     0.0463154 Parabola: Find weakness
+  *  0.0360231 Seize a jewel smuggler's boat
+
+0.21 actions (4.76 Echo per action) with 'Break into the offices of Baseborn & Fowlingpiece':
+     0.1981982 Sell at Bazaar: Compromising Document
+     0.0720721 Sell at Bazaar: Legal Document
+     0.0463320 Parabola: Find weakness
+  *  0.0360360 Break into the offices of Baseborn & Fowlingpiece
+
+0.23 actions (4.41 Echo per action) with 'Paint + Unveil your Painting (Mostly Luminosity, at least 4)':
+     1.1790715 Sell at Bazaar: Moon-pearl
+     0.1179071 Wander the moonlit woods
+     0.0491280 Sell at Upper River: Vienna Opening
+     0.0491280 Sell at Bazaar: Sworn Statement
+     0.0196512 Paint with Moonlight
+  *  0.0098256 Paint + Unveil your Painting (Mostly Luminosity, at least 4)
+     0.0098256 Sell at Bazaar: Bazaar Permit
+     0.0098256 Sell at Bazaar: Parabola-Linen Scrap
+     0.0019651 Buy at Upper River: Tinned Ham
+     0.0019651 Sell at Bazaar: Tinned Ham
+     0.0003930 A Carnelian work
+     0.0000590 Join the Minister of Enigmas for teatime
+     0.0000590 Sell at Bazaar: Searing Enigma
+
+0.23 actions (4.29 Echo per action) with 'Ambush an Aging Detective':
+     0.7051198 Sell at Upper River: Ambiguous Eolith
+     0.6539246 Sell at Bazaar: Relic of the Fourth City
+     0.5569485 Buy at Bazaar: Piece of Rostygold
+     0.1023112 Sell at Upper River: Moves in the Great Game
+     0.0751284 Serve up the (dish)
+     0.0146159 Provide news from London
+     0.0121799 Sell at Bazaar: Uncanny Incunabulum
+     0.0089811 Examine First City Coins
+     0.0087023 Drink the medicine they bring (sincere, both party net changes)
+     0.0083023 Buy at Upper River: Tinned Ham
+     0.0083023 Sell at Bazaar: Tinned Ham
+     0.0081741 Examine Relics of the Second City
+     0.0078672 Examine traces of the First City
+  *  0.0058464 Ambush an Aging Detective
+     0.0055695 Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return
+     0.0052314 Examine Relics of the Third City
+     0.0050302 Account for what remains (Falling Cities)
+     0.0048720 Charter a barge to the Eversmoulder + Leave the barge
+     0.0048720 Sell at Bazaar: Primaeval Hint
+     0.0043848 Parabola: Find weakness
+     0.0034245 Sell at Upper River: Vital Intelligence
+     0.0034245 Sell at Bazaar: Bottle of Greyfields 1882
+     0.0033617 Examine Silvered Claws
+     0.0032950 Write Cautionary Exceptional Monograph
+     0.0032950 The Disgraced Diplomat - Exceptional Cautionary
+     0.0028615 Write Tragic Exceptional Monograph
+     0.0027847 Sell at Upper River: Unlawful Device
+     0.0027319 The Exiled Antiquarian - Exceptional Tragic
+     0.0016708 Describe a Nicatorean Relic
+     0.0013660 Concoct a Tapenade of Parabolan Orange-Apple and Concentrate of Self  (for sale)
+     0.0011239 Examine Viric-tinged Trinkets
+     0.0005393 Account for what remains (Parabolan artefacts)
+     0.0001295 The Disgraced Diplomat - Exceptional Tragic
+
+0.23 actions (4.28 Echo per action) with 'Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return':
+     0.8968170 Sell at Upper River: Ambiguous Eolith
+     0.8317036 Sell at Bazaar: Relic of the Fourth City
+     0.7083631 Buy at Bazaar: Piece of Rostygold
+     0.1494104 Sell at Upper River: Knob of Scintillack
+     0.0154253 Buy at Upper River: Tinned Ham
+     0.0154253 Sell at Bazaar: Tinned Ham
+     0.0114228 Examine First City Coins
+     0.0110682 Drink the medicine they bring
+     0.0103963 Examine Relics of the Second City
+     0.0100060 Examine traces of the First City
+     0.0078301 Sell at Upper River: Vital Intelligence
+     0.0078301 Sell at Bazaar: Bottle of Greyfields 1882
+  *  0.0070836 Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return
+     0.0066536 Examine Relics of the Third City
+     0.0063977 Account for what remains (Falling Cities)
+     0.0042756 Examine Silvered Claws
+     0.0041907 Write Cautionary Exceptional Monograph
+     0.0041907 The Disgraced Diplomat - Exceptional Cautionary
+     0.0036394 Write Tragic Exceptional Monograph
+     0.0036394 The Disgraced Diplomat - Exceptional Tragic
+     0.0035418 Sell at Upper River: Unlawful Device
+     0.0021251 Describe a Nicatorean Relic
+     0.0014294 Examine Viric-tinged Trinkets
+     0.0006859 Account for what remains (Parabolan artefacts)
+
+0.24 actions (4.16 Echo per action) with 'Hire a porter from the docks':
+     Note: This grind uses Favours: The Docks grind cards.
+     1.7438364 Buy at Bazaar: Piece of Rostygold
+     0.1046302 Gain Favours: The Docks by some card
+  *  0.0348767 Hire a porter from the docks
+     0.0084185 Sell at Bazaar: Judgements' Egg
+     0.0084185 The Tomb of the Silken Thread
+     0.0084185 Sell at Bazaar: Parabola-Linen Scrap
+

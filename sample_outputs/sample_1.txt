@@ -1,0 +1,47 @@
+Result of running ./emissary.py -g 'Whirring Contraption' -v
+initializing...
+No source for 'CP: Fascinating...'
+Listing methods of grinding for {'Whirring Contraption': 1}.
+5.50 actions (0.18 Whirring Contraption per action) with 'The carpet bag':
+     0.5000000 Carousel: The Missing Woman
+  *  0.5000000 The carpet bag
+
+10.86 actions (0.09 Whirring Contraption per action) with 'Commission a Whirring Contraption':
+     1142.8571429 Buy at Bazaar: Lump of Lamplighter Beeswax
+     7.6352877 Buy at Bazaar: Piece of Rostygold
+     3.6437084 Sell at Bazaar: Relic of the Fourth City
+     1.7042388 Sell at Bazaar: Legal Document
+     1.1428571 Offload a great quantity of wax
+     1.0955821 Parabola: Find weakness
+  *  1.0000000 Commission a Whirring Contraption
+     0.8521194 Break into the offices of Baseborn & Fowlingpiece
+     0.4705882 Confront certain stage performers CC
+     0.3694658 Tell your Tales at the fireside CC
+     0.3622214 Free the souls in exchange for secrets CC
+     0.2380931 Sell at Bazaar: Relic of the Second City
+     0.2166865 Examine Silvered Claws
+     0.1193014 Drink the medicine they bring
+     0.1007079 Examine Viric-tinged Trinkets
+     0.0846312 Write Ironic Exceptional Monograph
+     0.0846312 The Diabolical Propagandist - Exceptional Ironic
+     0.0846312 Sell at Bazaar: Silent Soul
+     0.0763529 Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return
+     0.0591072 Examine First City Coins
+     0.0483244 Account for what remains (Parabolan artefacts)
+     0.0438366 Examine traces of the First City
+     0.0425702 Examine Relics of the Second City
+     0.0381764 Sell at Upper River: Unlawful Device
+     0.0291497 Examine Relics of the Third City
+     0.0280285 Account for what remains (Falling Cities)
+     0.0229059 Describe a Nicatorean Relic
+     0.0079904 Buy at Upper River: Tinned Ham
+     0.0079904 Sell at Bazaar: Tinned Ham
+     0.0017756 Write Tragic Exceptional Monograph
+     0.0017756 The Disgraced Diplomat - Exceptional Tragic
+     0.0017756 Sell at Upper River: Vital Intelligence
+     0.0017756 Sell at Bazaar: Bottle of Greyfields 1882
+
+14.10 actions (0.07 Whirring Contraption per action) with 'Parabola (Wrapper): Search Nest of storm-bird':
+     2.0000000 Parabola: Search Nest of storm-bird
+
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.

@@ -1,0 +1,1748 @@
+Result of running ./emissary.py -A -b Echo
+initializing...
+No source for 'CP: Fascinating...'
+Calculating action cost per background item Echo
+Will assume that the best grind for background item Echo takes 0.2033 actions per Echo (4.9195 Echo per action)
+A Deviless' Address
+Listing methods of grinding for {"A Deviless' Address": 1}.
+(While grinding in the background for ['Echo'])
+5.16 actions (0.19 A Deviless' Address per action) with 'Parabola (Wrapper): Find townhouse':
+
+A Fine Piece
+Listing methods of grinding for {'A Fine Piece': 1}.
+(While grinding in the background for ['Echo'])
+5.46 actions (0.18 A Fine Piece per action) with 'A Carnelian work':
+
+A Memory of Discordance
+Listing methods of grinding for {'A Memory of Discordance': 1}.
+(While grinding in the background for ['Echo'])
+5.73 actions (0.17 A Memory of Discordance per action) with 'Parabola (Wrapper) Hunt auroch':
+
+Aeolian Scream
+Listing methods of grinding for {'Aeolian Scream': 1}.
+(While grinding in the background for ['Echo'])
+1.00 actions (1.00 Aeolian Scream per action) with 'Look closer at the daily practice of the court':
+
+Albatross Wing
+Listing methods of grinding for {'Albatross Wing': 1}.
+(While grinding in the background for ['Echo'])
+3.91 actions (0.26 Albatross Wing per action) with 'Duplicate the wings of a Focused Albatross':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Amanita Sherry
+Listing methods of grinding for {'Amanita Sherry': 1}.
+(While grinding in the background for ['Echo'])
+0.05 actions (20.73 Amanita Sherry per action) with 'Offer a great many souls to the Embassy':
+
+Amber-Crusted Fin
+Listing methods of grinding for {'Amber-Crusted Fin': 1}.
+(While grinding in the background for ['Echo'])
+4.91 actions (0.20 Amber-Crusted Fin per action) with 'Convert your fin-bones into something more impressive':
+
+Ambiguous Eolith
+Listing methods of grinding for {'Ambiguous Eolith': 1}.
+(While grinding in the background for ['Echo'])
+0.13 actions (7.58 Ambiguous Eolith per action) with 'The Disgraced Diplomat - Exceptional Cautionary':
+
+An Estimable Trophy
+Listing methods of grinding for {'An Estimable Trophy': 1}.
+(While grinding in the background for ['Echo'])
+1.56 actions (0.64 An Estimable Trophy per action) with 'Parabola (Wrapper): Hunt shark':
+
+An Identity Uncovered!
+Listing methods of grinding for {'An Identity Uncovered!': 1}.
+(While grinding in the background for ['Echo'])
+0.68 actions (1.47 An Identity Uncovered! per action) with 'Supply Dr Schlomo with (your dish)':
+
+Ancient Hunting Rifle
+Listing methods of grinding for {'Ancient Hunting Rifle': 1}.
+(While grinding in the background for ['Echo'])
+5.85 actions (0.17 Ancient Hunting Rifle per action) with 'Buy at Bazaar: Ancient Hunting Rifle':
+
+Antique Mystery
+Listing methods of grinding for {'Antique Mystery': 1}.
+(While grinding in the background for ['Echo'])
+7.79 actions (0.13 Antique Mystery per action) with 'Give him honey and a pen':
+
+Apostate's Psalm
+Listing methods of grinding for {"Apostate's Psalm": 1}.
+(While grinding in the background for ['Echo'])
+0.61 actions (1.64 Apostate's Psalm per action) with 'The Militant Curate - Exceptional Ironic':
+
+Appalling Secret
+Listing methods of grinding for {'Appalling Secret': 1}.
+(While grinding in the background for ['Echo'])
+0.05 actions (19.54 Appalling Secret per action) with 'Trade a great many Cryptic Clues':
+     Note: This grind uses Choice: Profession: Correspondent.
+     Note: This grind uses Choice: Profession: Crooked-Cross.
+
+Araby Fighting-Weasel
+Listing methods of grinding for {'Araby Fighting-Weasel': 1}.
+(While grinding in the background for ['Echo'])
+0.65 actions (1.54 Araby Fighting-Weasel per action) with 'Buy at Bazaar: Araby Fighting-Weasel':
+
+Arbor: Permission to Linger
+Listing methods of grinding for {'Arbor: Permission to Linger': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Attar
+Listing methods of grinding for {'Attar': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Basket of Rubbery Pies
+Listing methods of grinding for {'Basket of Rubbery Pies': 1}.
+(While grinding in the background for ['Echo'])
+1.14 actions (0.87 Basket of Rubbery Pies per action) with 'Build a Knock-Kneed Newt (Ama+Men) and sell to Rubbery Collector (very optimistic estimate)':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Bat Wing
+Listing methods of grinding for {'Bat Wing': 1}.
+(While grinding in the background for ['Echo'])
+0.68 actions (1.46 Bat Wing per action) with 'Duplicate the wings of a bat':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Bazaar Permit
+Listing methods of grinding for {'Bazaar Permit': 1}.
+(While grinding in the background for ['Echo'])
+4.92 actions (0.20 Bazaar Permit per action) with 'Paint + Unveil your Painting (Mostly Luminosity, at least 4)':
+
+Beatrice's Taper-nut
+Listing methods of grinding for {"Beatrice's Taper-nut": 1}.
+(While grinding in the background for ['Echo'])
+4.00 actions (0.25 Beatrice's Taper-nut per action) with 'Go to Parabola and fetch Beatrice's Taper-nut':
+
+Bejewelled Lens
+Listing methods of grinding for {'Bejewelled Lens': 1}.
+(While grinding in the background for ['Echo'])
+28.81 actions (0.03 Bejewelled Lens per action) with 'Order the grinding of a bejewelled lens':
+     Note: This grind uses Choice: Profession: Crooked-Cross.
+
+Bessemer Steel Ingot
+Listing methods of grinding for {'Bessemer Steel Ingot': 1}.
+(While grinding in the background for ['Echo'])
+0.15 actions (6.85 Bessemer Steel Ingot per action) with 'Parabola (Wrapper): Find iron_warehouse':
+
+Blackmail Material
+Listing methods of grinding for {'Blackmail Material': 1}.
+(While grinding in the background for ['Echo'])
+4.71 actions (0.21 Blackmail Material per action) with 'Observe the behaviour of a Storm-bird in the vicinity of Mr Spices':
+
+Bone Fragments
+Listing methods of grinding for {'Bone Fragments': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (332.81 Bone Fragments per action) with 'The Wistful Stoker - Exceptional Tragic':
+
+Book of Hidden Bodies
+Listing methods of grinding for {'Book of Hidden Bodies': 1}.
+(While grinding in the background for ['Echo'])
+21.34 actions (0.05 Book of Hidden Bodies per action) with 'Compile a Book of Hidden Bodies':
+
+Bottle of Black Wings Absinthe
+Listing methods of grinding for {'Bottle of Black Wings Absinthe': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Bottle of Broken Giant 1844
+Listing methods of grinding for {'Bottle of Broken Giant 1844': 1}.
+(While grinding in the background for ['Echo'])
+1.15 actions (0.87 Bottle of Broken Giant 1844 per action) with 'Build and fence tieless identity':
+
+Bottle of Fourth City Airag: Year of the Tortoise
+Listing methods of grinding for {'Bottle of Fourth City Airag: Year of the Tortoise': 1}.
+(While grinding in the background for ['Echo'])
+21.87 actions (0.05 Bottle of Fourth City Airag: Year of the Tortoise per action) with 'Paint + Unveil your Painting (any combination other than the ones shown above)':
+
+Bottle of Greyfields 1868 First Sporing
+Listing methods of grinding for {'Bottle of Greyfields 1868 First Sporing': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Bottle of Greyfields 1879
+Listing methods of grinding for {'Bottle of Greyfields 1879': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (245.98 Bottle of Greyfields 1879 per action) with 'Buy at Bazaar: Bottle of Greyfields 1879':
+
+Bottle of Greyfields 1882
+Listing methods of grinding for {'Bottle of Greyfields 1882': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (122.99 Bottle of Greyfields 1882 per action) with 'Buy at Bazaar: Bottle of Greyfields 1882':
+
+Bottle of Morelways 1872
+Listing methods of grinding for {'Bottle of Morelways 1872': 1}.
+(While grinding in the background for ['Echo'])
+0.05 actions (20.73 Bottle of Morelways 1872 per action) with 'Help out with the harvest festival':
+
+Bottle of Muscaria Brandy
+Listing methods of grinding for {'Bottle of Muscaria Brandy': 1}.
+(While grinding in the background for ['Echo'])
+1.83 actions (0.55 Bottle of Muscaria Brandy per action) with 'Paint + Unveil your Painting (any combination other than the ones shown above)':
+
+Bottle of Strangling Willow Absinthe
+Listing methods of grinding for {'Bottle of Strangling Willow Absinthe': 1}.
+(While grinding in the background for ['Echo'])
+0.19 actions (5.36 Bottle of Strangling Willow Absinthe per action) with 'Go drinking with His Amused Lordship CC':
+
+Brass Ring
+Listing methods of grinding for {'Brass Ring': 1}.
+(While grinding in the background for ['Echo'])
+5.04 actions (0.20 Brass Ring per action) with 'Trade it to the Infernal Sommelier':
+
+Breath of the Void
+Listing methods of grinding for {'Breath of the Void': 1}.
+(While grinding in the background for ['Echo'])
+503.86 actions (0.00 Breath of the Void per action) with 'Purchase the wax-sealed box on the counter':
+     Note: This grind uses Choice: Profession: Crooked-Cross.
+
+Bright Brass Skull
+Listing methods of grinding for {'Bright Brass Skull': 1}.
+(While grinding in the background for ['Echo'])
+12.70 actions (0.08 Bright Brass Skull per action) with 'Buy at Bazaar: Bright Brass Skull':
+
+Brilliant Soul
+Listing methods of grinding for {'Brilliant Soul': 1}.
+(While grinding in the background for ['Echo'])
+0.12 actions (8.14 Brilliant Soul per action) with 'The Diabolical Propagandist - Exceptional Ironic':
+
+Bundle of Investigation Notes
+Listing methods of grinding for {'Bundle of Investigation Notes': 1}.
+(While grinding in the background for ['Echo'])
+1.66 actions (0.60 Bundle of Investigation Notes per action) with 'Compose advice for an investigation, send it':
+
+Bundle of Ragged Clothing
+Listing methods of grinding for {'Bundle of Ragged Clothing': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (163.98 Bundle of Ragged Clothing per action) with 'Buy at Bazaar: Bundle of Ragged Clothing':
+
+CP Loss: In Corporate Debt
+Listing methods of grinding for {'CP Loss: In Corporate Debt': 1}.
+(While grinding in the background for ['Echo'])
+2.01 actions (0.50 CP Loss: In Corporate Debt per action) with 'Raise funds for the railway':
+
+CP Loss: Nightmares
+Listing methods of grinding for {'CP Loss: Nightmares': 1}.
+(While grinding in the background for ['Echo'])
+0.38 actions (2.63 CP Loss: Nightmares per action) with 'Allow them to watch over your rest (sincere, both party net changes)':
+
+CP Loss: Scandal
+Listing methods of grinding for {'CP Loss: Scandal': 1}.
+(While grinding in the background for ['Echo'])
+0.40 actions (2.50 CP Loss: Scandal per action) with 'Inform London's tastemakers of your friend's virtues (sincere, both party net changes)':
+
+CP Loss: Seeing Banditry in the Upper River
+Listing methods of grinding for {'CP Loss: Seeing Banditry in the Upper River': 1}.
+(While grinding in the background for ['Echo'])
+0.26 actions (3.79 CP Loss: Seeing Banditry in the Upper River per action) with 'Your reputation is tarnished':
+
+CP Loss: Suspicion
+Listing methods of grinding for {'CP Loss: Suspicion': 1}.
+(While grinding in the background for ['Echo'])
+0.24 actions (4.21 CP Loss: Suspicion per action) with 'Buy and Use the Ablution Absolution!':
+
+CP Loss: Tracklayers' Displeasure
+Listing methods of grinding for {"CP Loss: Tracklayers' Displeasure": 1}.
+(While grinding in the background for ['Echo'])
+0.27 actions (3.67 CP Loss: Tracklayers' Displeasure per action) with 'Lay an astonishing feast for the Tracklayers':
+
+CP Loss: Wounds
+Listing methods of grinding for {'CP Loss: Wounds': 1}.
+(While grinding in the background for ['Echo'])
+0.33 actions (3.00 CP Loss: Wounds per action) with 'Drink the medicine they bring':
+
+CP: A Scholar of the Correspondence
+Listing methods of grinding for {'CP: A Scholar of the Correspondence': 1}.
+(While grinding in the background for ['Echo'])
+2.79 actions (0.36 CP: A Scholar of the Correspondence per action) with '(Carefully) read a flame-proof missive':
+     Note: This grind uses Choice: Profession: Correspondent.
+
+CP: Advancing the Liberation of Night
+Listing methods of grinding for {'CP: Advancing the Liberation of Night': 1}.
+(While grinding in the background for ['Echo'])
+27.46 actions (0.04 CP: Advancing the Liberation of Night per action) with 'Trade favours with revolutionaries':
+
+CP: Approaching the Gates of the Garden
+Listing methods of grinding for {'CP: Approaching the Gates of the Garden': 1}.
+(While grinding in the background for ['Echo'])
+0.78 actions (1.28 CP: Approaching the Gates of the Garden per action) with 'Publish a paper on the subject and think no more about it':
+
+CP: Artisan of the Red Science
+Listing methods of grinding for {'CP: Artisan of the Red Science': 1}.
+(While grinding in the background for ['Echo'])
+23.85 actions (0.04 CP: Artisan of the Red Science per action) with 'Research: warbler resizing':
+     Note: This grind uses Choice: Profession: Licentiate.
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+CP: Casing...
+Listing methods of grinding for {'CP: Casing...': 1}.
+(While grinding in the background for ['Echo'])
+0.13 actions (7.45 CP: Casing... per action) with 'Parabola (Wrapper): Find weakness':
+
+CP: Connected: Benthic
+Listing methods of grinding for {'CP: Connected: Benthic': 1}.
+(While grinding in the background for ['Echo'])
+0.05 actions (20.78 CP: Connected: Benthic per action) with 'Direct a small grant to Benthic College':
+
+CP: Connected: Summerset
+Listing methods of grinding for {'CP: Connected: Summerset': 1}.
+(While grinding in the background for ['Echo'])
+0.05 actions (20.78 CP: Connected: Summerset per action) with 'Direct a small grant to Summerset College':
+
+CP: Connected: The Duchess
+Listing methods of grinding for {'CP: Connected: The Duchess': 1}.
+(While grinding in the background for ['Echo'])
+0.12 actions (8.31 CP: Connected: The Duchess per action) with 'Curry favour with the Duchess':
+
+CP: Connected: The Masters of the Bazaar
+Listing methods of grinding for {'CP: Connected: The Masters of the Bazaar': 1}.
+(While grinding in the background for ['Echo'])
+5.73 actions (0.17 CP: Connected: The Masters of the Bazaar per action) with 'Present it with the Curatorial Cocktail':
+
+CP: Connected: The Widow
+Listing methods of grinding for {'CP: Connected: The Widow': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+CP: Corresponding...
+Listing methods of grinding for {'CP: Corresponding...': 1}.
+(While grinding in the background for ['Echo'])
+1.29 actions (0.78 CP: Corresponding... per action) with 'Compile notes on the Correspondence, send it':
+     Note: This grind uses Choice: Profession: Correspondent.
+     Note: This grind uses Choice: Profession: Crooked-Cross.
+
+CP: Counting the Days
+Listing methods of grinding for {'CP: Counting the Days': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+CP: Deciphering...
+Listing methods of grinding for {'CP: Deciphering...': 1}.
+(While grinding in the background for ['Echo'])
+0.20 actions (5.00 CP: Deciphering... per action) with 'Crack a code':
+
+CP: Disappearing...
+Listing methods of grinding for {'CP: Disappearing...': 1}.
+(While grinding in the background for ['Echo'])
+0.14 actions (7.32 CP: Disappearing... per action) with 'Parabola (Wrapper): Find evidence':
+
+CP: Disgruntlement among the Students
+Listing methods of grinding for {'CP: Disgruntlement among the Students': 1}.
+(While grinding in the background for ['Echo'])
+0.86 actions (1.17 CP: Disgruntlement among the Students per action) with 'Work with your expert student':
+
+CP: Doing Business in Wilmot's End
+Listing methods of grinding for {"CP: Doing Business in Wilmot's End": 1}.
+(While grinding in the background for ['Echo'])
+0.67 actions (1.50 CP: Doing Business in Wilmot's End per action) with 'Carousel: Doing Business in Wilmot's End':
+
+CP: Dramatic Tension
+Listing methods of grinding for {'CP: Dramatic Tension': 1}.
+(While grinding in the background for ['Echo'])
+11.00 actions (0.09 CP: Dramatic Tension per action) with 'An old-fashioned hanging':
+
+CP: Engaged in a Scheme: a Salon
+Listing methods of grinding for {'CP: Engaged in a Scheme: a Salon': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+CP: Engaged in a Scheme: an Orphanage
+Listing methods of grinding for {'CP: Engaged in a Scheme: an Orphanage': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+CP: Fascinating...
+Listing methods of grinding for {'CP: Fascinating...': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+CP: Fighting a War of Assassins
+Listing methods of grinding for {'CP: Fighting a War of Assassins': 1}.
+(While grinding in the background for ['Echo'])
+1.00 actions (1.00 CP: Fighting a War of Assassins per action) with 'Carousel: Fighting a War of Assassins':
+
+CP: Hellfarer
+Listing methods of grinding for {'CP: Hellfarer': 1}.
+(While grinding in the background for ['Echo'])
+5.96 actions (0.17 CP: Hellfarer per action) with 'Tell him all you know and abandon your research':
+
+CP: Inspired...
+Listing methods of grinding for {'CP: Inspired...': 1}.
+(While grinding in the background for ['Echo'])
+0.06 actions (17.32 CP: Inspired... per action) with 'Seek out the music of dreams':
+
+CP: Investigating...
+Listing methods of grinding for {'CP: Investigating...': 1}.
+(While grinding in the background for ['Echo'])
+0.06 actions (15.80 CP: Investigating... per action) with 'Read a bundle of investigation notes':
+
+CP: Making Waves
+Listing methods of grinding for {'CP: Making Waves': 1}.
+(While grinding in the background for ['Echo'])
+0.21 actions (4.68 CP: Making Waves per action) with 'Helicon House Waves Grind with Biscuits':
+
+CP: Searching out a Missing Woman
+Listing methods of grinding for {'CP: Searching out a Missing Woman': 1}.
+(While grinding in the background for ['Echo'])
+0.67 actions (1.50 CP: Searching out a Missing Woman per action) with 'Carousel: The Missing Woman':
+
+CP: Seeing through the Eyes of Icarus
+Listing methods of grinding for {'CP: Seeing through the Eyes of Icarus': 1}.
+(While grinding in the background for ['Echo'])
+1.16 actions (0.86 CP: Seeing through the Eyes of Icarus per action) with 'Cancel your appointments and investigate the ideogram':
+
+CP: Someone is Coming
+Listing methods of grinding for {'CP: Someone is Coming': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+CP: Touched by Fingerwork
+Listing methods of grinding for {'CP: Touched by Fingerwork': 1}.
+(While grinding in the background for ['Echo'])
+0.30 actions (3.31 CP: Touched by Fingerwork per action) with 'Track down the Fidgeting Writer':
+
+CP: Walking the Falling Cities
+Listing methods of grinding for {'CP: Walking the Falling Cities': 1}.
+(While grinding in the background for ['Echo'])
+0.37 actions (2.67 CP: Walking the Falling Cities per action) with 'Smash it':
+
+Captivating Ballad
+Listing methods of grinding for {'Captivating Ballad': 1}.
+(While grinding in the background for ['Echo'])
+22.83 actions (0.04 Captivating Ballad per action) with 'The shaded estate on Hemlock Row, ...a Captivating Ballad':
+
+Carnival Ticket
+Listing methods of grinding for {'Carnival Ticket': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Cartographer's Hoard
+Listing methods of grinding for {"Cartographer's Hoard": 1}.
+(While grinding in the background for ['Echo'])
+123.73 actions (0.01 Cartographer's Hoard per action) with 'Complete your Hoard':
+
+Carved Ball of Stygian Ivory
+Listing methods of grinding for {'Carved Ball of Stygian Ivory': 1}.
+(While grinding in the background for ['Echo'])
+5.38 actions (0.19 Carved Ball of Stygian Ivory per action) with 'Reach towards the shore (Airs of Parabola 50-100)':
+
+Cave-Aged Code of Honour
+Listing methods of grinding for {'Cave-Aged Code of Honour': 1}.
+(While grinding in the background for ['Echo'])
+6.00 actions (0.17 Cave-Aged Code of Honour per action) with 'Dive + Study the evidence':
+
+Cellar of Wine
+Listing methods of grinding for {'Cellar of Wine': 1}.
+(While grinding in the background for ['Echo'])
+7.53 actions (0.13 Cellar of Wine per action) with 'Lay down a Cellar of Wine':
+
+Certifiable Scrap
+Listing methods of grinding for {'Certifiable Scrap': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Cheerful Goldfish
+Listing methods of grinding for {'Cheerful Goldfish': 1}.
+(While grinding in the background for ['Echo'])
+0.08 actions (12.30 Cheerful Goldfish per action) with 'Buy at Bazaar: Cheerful Goldfish':
+
+Chimerical Archive
+Listing methods of grinding for {'Chimerical Archive': 1}.
+(While grinding in the background for ['Echo'])
+22.74 actions (0.04 Chimerical Archive per action) with 'The shaded estate on Hemlock Row, ...a Chimerical Archive':
+
+Collection of Curiosities
+Listing methods of grinding for {'Collection of Curiosities': 1}.
+(While grinding in the background for ['Echo'])
+34.00 actions (0.03 Collection of Curiosities per action) with 'A few of your old things':
+
+Comprehensive Bribe
+Listing methods of grinding for {'Comprehensive Bribe': 1}.
+(While grinding in the background for ['Echo'])
+3.71 actions (0.27 Comprehensive Bribe per action) with 'Inspire her to imagine His Amused Lordship as a historical figure':
+
+Compromising Document
+Listing methods of grinding for {'Compromising Document': 1}.
+(While grinding in the background for ['Echo'])
+0.14 actions (7.31 Compromising Document per action) with 'Break into the offices of Baseborn & Fowlingpiece':
+
+Concentrate of Self
+Listing methods of grinding for {'Concentrate of Self': 1}.
+(While grinding in the background for ['Echo'])
+97.67 actions (0.01 Concentrate of Self per action) with 'Get + Extract concentrated sentiment from the Horrifying Confirmation that you were Right All Along':
+
+Confident Smile
+Listing methods of grinding for {'Confident Smile': 1}.
+(While grinding in the background for ['Echo'])
+0.50 actions (2.00 Confident Smile per action) with 'Enjoy a coffee and lighthearted conversation':
+
+Connected: Fingerkings
+Listing methods of grinding for {'Connected: Fingerkings': 1}.
+(While grinding in the background for ['Echo'])
+13.36 actions (0.07 Connected: Fingerkings per action) with 'Develop a more extensive connection with the Fingerkings':
+
+Consignment of Scintillack Snuff
+Listing methods of grinding for {'Consignment of Scintillack Snuff': 1}.
+(While grinding in the background for ['Echo'])
+3.75 actions (0.27 Consignment of Scintillack Snuff per action) with 'Create a double consignment of Scintillack Snuff':
+
+Corrective Historical Narrative
+Listing methods of grinding for {'Corrective Historical Narrative': 1}.
+(While grinding in the background for ['Echo'])
+4.23 actions (0.24 Corrective Historical Narrative per action) with 'Compose a Corrective Historical Narrative':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Correspondence Plaque
+Listing methods of grinding for {'Correspondence Plaque': 1}.
+(While grinding in the background for ['Echo'])
+0.14 actions (7.30 Correspondence Plaque per action) with 'Repeat a great many Maniac's Prayers':
+
+Coruscating Soul
+Listing methods of grinding for {'Coruscating Soul': 1}.
+(While grinding in the background for ['Echo'])
+140.96 actions (0.01 Coruscating Soul per action) with 'Look through the Lens':
+
+Cover Identity: Backstory
+Listing methods of grinding for {'Cover Identity: Backstory': 1}.
+(While grinding in the background for ['Echo'])
+0.56 actions (1.78 Cover Identity: Backstory per action) with 'Associate your cover identity with the leaders of a nascent democracy':
+
+Crate of Expedition Supplies
+Listing methods of grinding for {'Crate of Expedition Supplies': 1}.
+(While grinding in the background for ['Echo'])
+0.76 actions (1.32 Crate of Expedition Supplies per action) with 'Show us the money':
+
+Crate of Incorruptible Biscuits
+Listing methods of grinding for {'Crate of Incorruptible Biscuits': 1}.
+(While grinding in the background for ['Echo'])
+0.55 actions (1.82 Crate of Incorruptible Biscuits per action) with 'Burgle a Public House':
+
+Crustacean Pincer
+Listing methods of grinding for {'Crustacean Pincer': 1}.
+(While grinding in the background for ['Echo'])
+0.67 actions (1.48 Crustacean Pincer per action) with 'Take the pincers off a Deep-zee Catch':
+
+Cryptic Clue
+Listing methods of grinding for {'Cryptic Clue': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (162.61 Cryptic Clue per action) with 'Sell at Bazaar: Memory of Light':
+
+Crystallised Euphoria
+Listing methods of grinding for {'Crystallised Euphoria': 1}.
+(While grinding in the background for ['Echo'])
+5.00 actions (0.20 Crystallised Euphoria per action) with 'Get + Extract concentrated sentiment from the Obliviscere Mori (via London)':
+
+Culinary Ingredient Value
+Listing methods of grinding for {'Culinary Ingredient Value': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (366.98 Culinary Ingredient Value per action) with 'Pate + Prepare a Platter of Mixed Charcuterie':
+
+Dark-Dewed Cherry
+Listing methods of grinding for {'Dark-Dewed Cherry': 1}.
+(While grinding in the background for ['Echo'])
+0.24 actions (4.22 Dark-Dewed Cherry per action) with 'Trade (your dish) to the Canny Costermonger':
+
+Deal with a Devil
+Listing methods of grinding for {'Deal with a Devil': 1}.
+(While grinding in the background for ['Echo'])
+7.50 actions (0.13 Deal with a Devil per action) with 'Cancel your appointments and investigate the ideogram':
+
+Deep-zee Catch
+Listing methods of grinding for {'Deep-zee Catch': 1}.
+(While grinding in the background for ['Echo'])
+0.35 actions (2.87 Deep-zee Catch per action) with 'Go spear-fishing':
+
+Devilbone Die
+Listing methods of grinding for {'Devilbone Die': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Diary of the Dead
+Listing methods of grinding for {'Diary of the Dead': 1}.
+(While grinding in the background for ['Echo'])
+12.70 actions (0.08 Diary of the Dead per action) with 'Buy at Bazaar: Diary of the Dead':
+
+Direful Reflection
+Listing methods of grinding for {'Direful Reflection': 1}.
+(While grinding in the background for ['Echo'])
+6.01 actions (0.17 Direful Reflection per action) with 'Parabola (Wrapper): Hunt terror_bird':
+
+Discordant Soul
+Listing methods of grinding for {'Discordant Soul': 1}.
+(While grinding in the background for ['Echo'])
+37.99 actions (0.03 Discordant Soul per action) with 'Paint + Unveil your Painting (Equal Incendiary and Nostalgic, both at 3)':
+
+Distillation of Retribution
+Listing methods of grinding for {'Distillation of Retribution': 1}.
+(While grinding in the background for ['Echo'])
+100.34 actions (0.01 Distillation of Retribution per action) with 'Get + Extract concentrated sentiment from the Exhilaration from Achieving Justice':
+
+Doubled Skull
+Listing methods of grinding for {'Doubled Skull': 1}.
+(While grinding in the background for ['Echo'])
+26.19 actions (0.04 Doubled Skull per action) with 'Enter the woods + Wander the glades + try for the fox':
+
+Dreadful Surmise
+Listing methods of grinding for {'Dreadful Surmise': 1}.
+(While grinding in the background for ['Echo'])
+82.35 actions (0.01 Dreadful Surmise per action) with 'Sell the Academic a very elaborate cover identity':
+
+Drop of Prisoner's Honey
+Listing methods of grinding for {"Drop of Prisoner's Honey": 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (161.40 Drop of Prisoner's Honey per action) with 'Buy at Upper River: Drop of Prisoner's Honey':
+
+Dubious Testimony
+Listing methods of grinding for {'Dubious Testimony': 1}.
+(While grinding in the background for ['Echo'])
+0.50 actions (2.01 Dubious Testimony per action) with 'Watch a civil trial':
+
+Edicts of the First City
+Listing methods of grinding for {'Edicts of the First City': 1}.
+(While grinding in the background for ['Echo'])
+77.73 actions (0.01 Edicts of the First City per action) with 'Provide cover to a Chilly Legal Scholar':
+
+Esteem of the Guild
+Listing methods of grinding for {'Esteem of the Guild': 1}.
+(While grinding in the background for ['Echo'])
+3.80 actions (0.26 Esteem of the Guild per action) with 'Provide news from London':
+
+Expertise of the First City
+Listing methods of grinding for {'Expertise of the First City': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Expertise of the Second City
+Listing methods of grinding for {'Expertise of the Second City': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Extraordinary Implication
+Listing methods of grinding for {'Extraordinary Implication': 1}.
+(While grinding in the background for ['Echo'])
+0.70 actions (1.43 Extraordinary Implication per action) with 'The Militant Curate  - Exceptional Tragic':
+
+Eyeless Skull
+Listing methods of grinding for {'Eyeless Skull': 1}.
+(While grinding in the background for ['Echo'])
+150.61 actions (0.01 Eyeless Skull per action) with 'Seek a shrine of the Deep Blue Heaven + A Shrine of the Deep Blue Heaven':
+
+F.F. Gebrandt's Flame-Resilient Paper
+Listing methods of grinding for {"F.F. Gebrandt's Flame-Resilient Paper": 1}.
+(While grinding in the background for ['Echo'])
+0.12 actions (8.20 F.F. Gebrandt's Flame-Resilient Paper per action) with 'Buy at Bazaar: F.F. Gebrandt's Flame-Resilient Paper':
+
+F.F. Gebrandt's Tincture of Vigour
+Listing methods of grinding for {"F.F. Gebrandt's Tincture of Vigour": 1}.
+(While grinding in the background for ['Echo'])
+0.20 actions (4.92 F.F. Gebrandt's Tincture of Vigour per action) with 'Buy at Bazaar: F.F. Gebrandt's Tincture of Vigour':
+
+Fabulous Diamond
+Listing methods of grinding for {'Fabulous Diamond': 1}.
+(While grinding in the background for ['Echo'])
+81.34 actions (0.01 Fabulous Diamond per action) with 'Con a Seasoned Smuggler':
+
+False Hagiotoponym
+Listing methods of grinding for {'False Hagiotoponym': 1}.
+(While grinding in the background for ['Echo'])
+18.37 actions (0.05 False Hagiotoponym per action) with 'Construct a False Hagiotoponomy':
+
+Favour in High Places
+Listing methods of grinding for {'Favour in High Places': 1}.
+(While grinding in the background for ['Echo'])
+3.07 actions (0.33 Favour in High Places per action) with 'Join the Minister of State Affairs for a long afternoon':
+
+Femur of a Jurassic Beast
+Listing methods of grinding for {'Femur of a Jurassic Beast': 1}.
+(While grinding in the background for ['Echo'])
+1.27 actions (0.79 Femur of a Jurassic Beast per action) with 'A collection of Jurassic thighs':
+
+Femur of a Surface Deer
+Listing methods of grinding for {'Femur of a Surface Deer': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (25.00 Femur of a Surface Deer per action) with 'Help yourself to some venison bones':
+
+Fillip of Effervescence
+Listing methods of grinding for {'Fillip of Effervescence': 1}.
+(While grinding in the background for ['Echo'])
+6.00 actions (0.17 Fillip of Effervescence per action) with 'Collect the marked crate':
+
+Fin Bones, Collected
+Listing methods of grinding for {'Fin Bones, Collected': 1}.
+(While grinding in the background for ['Echo'])
+0.37 actions (2.69 Fin Bones, Collected per action) with 'Dissect the Pinewood Shark + Turn attention to its Skeleton':
+
+Final Breath
+Listing methods of grinding for {'Final Breath': 1}.
+(While grinding in the background for ['Echo'])
+0.14 actions (7.38 Final Breath per action) with 'The Exiled Antiquarian - Exceptional Cautionary':
+
+First City Coin
+Listing methods of grinding for {'First City Coin': 1}.
+(While grinding in the background for ['Echo'])
+0.11 actions (9.30 First City Coin per action) with 'Account for what remains (Falling Cities)':
+
+Fistful of Surface Currency
+Listing methods of grinding for {'Fistful of Surface Currency': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (81.99 Fistful of Surface Currency per action) with 'Buy at Bazaar: Fistful of Surface Currency':
+
+Flame-proof Missive
+Listing methods of grinding for {'Flame-proof Missive': 1}.
+(While grinding in the background for ['Echo'])
+1.79 actions (0.56 Flame-proof Missive per action) with 'Compile notes on the Correspondence, send it':
+     Note: This grind uses Choice: Profession: Correspondent.
+
+Flask of Abominable Salts
+Listing methods of grinding for {'Flask of Abominable Salts': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (24.60 Flask of Abominable Salts per action) with 'Buy at Bazaar: Flask of Abominable Salts':
+
+Flask of Waswood Wellspring Water
+Listing methods of grinding for {'Flask of Waswood Wellspring Water': 1}.
+(While grinding in the background for ['Echo'])
+6.70 actions (0.15 Flask of Waswood Wellspring Water per action) with 'Moulin: Expedition with Navigator and Claw to the Wellspring, return via parabola':
+
+Flawed Diamond
+Listing methods of grinding for {'Flawed Diamond': 1}.
+(While grinding in the background for ['Echo'])
+0.03 actions (30.56 Flawed Diamond per action) with 'Seize a jewel smuggler's boat':
+
+Flourishing Ribcage
+Listing methods of grinding for {'Flourishing Ribcage': 1}.
+(While grinding in the background for ['Echo'])
+12.04 actions (0.08 Flourishing Ribcage per action) with 'Create a Flourishing Ribcage':
+
+Focused Albatross
+Listing methods of grinding for {'Focused Albatross': 1}.
+(While grinding in the background for ['Echo'])
+5.22 actions (0.19 Focused Albatross per action) with 'Parabola (Wrapper): Hunt albatross':
+
+Forged Justificande Coin
+Listing methods of grinding for {'Forged Justificande Coin': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Forty-Nine-Voiced Warbler
+Listing methods of grinding for {'Forty-Nine-Voiced Warbler': 1}.
+(While grinding in the background for ['Echo'])
+6.21 actions (0.16 Forty-Nine-Voiced Warbler per action) with 'Offer a habitation to seven very small Fingerkings':
+
+Fossilised Forelimb
+Listing methods of grinding for {'Fossilised Forelimb': 1}.
+(While grinding in the background for ['Echo'])
+5.16 actions (0.19 Fossilised Forelimb per action) with 'Buy at Upper River: Fossilised Forelimb':
+
+Foxfire Candle Stub
+Listing methods of grinding for {'Foxfire Candle Stub': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (169.69 Foxfire Candle Stub per action) with 'An Epic of Far-Off Lands':
+
+Fragment of the Tragedy Procedures
+Listing methods of grinding for {'Fragment of the Tragedy Procedures': 1}.
+(While grinding in the background for ['Echo'])
+22.83 actions (0.04 Fragment of the Tragedy Procedures per action) with 'The shaded estate on Hemlock Row, ...a Fragment of the Tragedy Procedures':
+
+Glass Gazette
+Listing methods of grinding for {'Glass Gazette': 1}.
+(While grinding in the background for ['Echo'])
+1.00 actions (1.00 Glass Gazette per action) with 'Explore the dreams of the Church in the Wild':
+     Note: This grind uses Choice: A Church in the Wild: Wild.
+
+Glimpse of Something Larger
+Listing methods of grinding for {'Glimpse of Something Larger': 1}.
+(While grinding in the background for ['Echo'])
+3.97 actions (0.25 Glimpse of Something Larger per action) with 'Track down the Fidgeting Writer':
+
+Godly Missive
+Listing methods of grinding for {'Godly Missive': 1}.
+(While grinding in the background for ['Echo'])
+2.53 actions (0.40 Godly Missive per action) with 'Compose a letter to spread the Good Word, send it':
+
+Halcyonic Tonic
+Listing methods of grinding for {'Halcyonic Tonic': 1}.
+(While grinding in the background for ['Echo'])
+6.00 actions (0.17 Halcyonic Tonic per action) with 'Collect the marked crate':
+
+Hand-picked Peppercaps
+Listing methods of grinding for {'Hand-picked Peppercaps': 1}.
+(While grinding in the background for ['Echo'])
+0.22 actions (4.47 Hand-picked Peppercaps per action) with 'Helicon House Waves Grind with Solancefruit':
+
+Hard-Earned Lesson
+Listing methods of grinding for {'Hard-Earned Lesson': 1}.
+(While grinding in the background for ['Echo'])
+1.00 actions (1.00 Hard-Earned Lesson per action) with 'Allow them to bandage you':
+
+Hastily Scrawled Warning Note
+Listing methods of grinding for {'Hastily Scrawled Warning Note': 1}.
+(While grinding in the background for ['Echo'])
+0.60 actions (1.67 Hastily Scrawled Warning Note per action) with 'Learn Shadowy lessons from your surveillance':
+
+Headless Skeleton
+Listing methods of grinding for {'Headless Skeleton': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Helical Thighbone
+Listing methods of grinding for {'Helical Thighbone': 1}.
+(While grinding in the background for ['Echo'])
+2.11 actions (0.47 Helical Thighbone per action) with 'An amalgamous interment':
+
+Hiding Place of a Peculiar Item
+Listing methods of grinding for {'Hiding Place of a Peculiar Item': 1}.
+(While grinding in the background for ['Echo'])
+11.15 actions (0.09 Hiding Place of a Peculiar Item per action) with 'Parabola (Wrapper): Find hiding_place':
+
+Hillmover
+Listing methods of grinding for {'Hillmover': 1}.
+(While grinding in the background for ['Echo'])
+5.63 actions (0.18 Hillmover per action) with 'Parabola (Wrapper): Search Nest of warbler':
+
+Hinterland Scrip
+Listing methods of grinding for {'Hinterland Scrip': 1}.
+(While grinding in the background for ['Echo'])
+0.10 actions (9.68 Hinterland Scrip per action) with 'Ambush a courier':
+
+Holy Relic of the Thigh of Saint Fiacre
+Listing methods of grinding for {'Holy Relic of the Thigh of Saint Fiacre': 1}.
+(While grinding in the background for ['Echo'])
+7.94 actions (0.13 Holy Relic of the Thigh of Saint Fiacre per action) with 'Enter the woods + Find Red Deer + Report (with 8 time)':
+
+Honey-Mazed Bear
+Listing methods of grinding for {'Honey-Mazed Bear': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Horned Skull
+Listing methods of grinding for {'Horned Skull': 1}.
+(While grinding in the background for ['Echo'])
+4.16 actions (0.24 Horned Skull per action) with 'Duplicate the skull of an Aurochs':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Horsehead Amulet
+Listing methods of grinding for {'Horsehead Amulet': 1}.
+(While grinding in the background for ['Echo'])
+1244.88 actions (0.00 Horsehead Amulet per action) with 'Convert Unpredictable Treasure 0-160':
+
+Human Arm
+Listing methods of grinding for {'Human Arm': 1}.
+(While grinding in the background for ['Echo'])
+1.00 actions (1.00 Human Arm per action) with 'Perform outreach for the church':
+     Note: This grind uses Choice: A Church in the Wild: Hell.
+
+Human Ribcage
+Listing methods of grinding for {'Human Ribcage': 1}.
+(While grinding in the background for ['Echo'])
+4.40 actions (0.23 Human Ribcage per action) with 'Charter a barge to the Octagonal Tomb + Leave the barge':
+
+Incisive Observation
+Listing methods of grinding for {'Incisive Observation': 1}.
+(While grinding in the background for ['Echo'])
+0.16 actions (6.23 Incisive Observation per action) with 'Sell her an Albatross Wing':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Infernal Contract
+Listing methods of grinding for {'Infernal Contract': 1}.
+(While grinding in the background for ['Echo'])
+0.08 actions (12.30 Infernal Contract per action) with 'Buy at Bazaar: Infernal Contract':
+
+Infernal Machine
+Listing methods of grinding for {'Infernal Machine': 1}.
+(While grinding in the background for ['Echo'])
+25.98 actions (0.04 Infernal Machine per action) with 'Finish your Machine of Industry':
+
+Infernal Sharpshooter's Rifle
+Listing methods of grinding for {"Infernal Sharpshooter's Rifle": 1}.
+(While grinding in the background for ['Echo'])
+85.09 actions (0.01 Infernal Sharpshooter's Rifle per action) with 'Disguise your Ancient Hunting Rifle as a valuable antique':
+
+Inkling of Identity
+Listing methods of grinding for {'Inkling of Identity': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (27.41 Inkling of Identity per action) with 'Study an armful of forbidden books':
+
+Intriguing Snippet
+Listing methods of grinding for {'Intriguing Snippet': 1}.
+(While grinding in the background for ['Echo'])
+0.10 actions (10.46 Intriguing Snippet per action) with 'Spend a week decoding encrypted letters':
+
+Ivory Femur
+Listing methods of grinding for {'Ivory Femur': 1}.
+(While grinding in the background for ['Echo'])
+19.68 actions (0.05 Ivory Femur per action) with 'Convince her to produce an elaborate forgery':
+
+Ivory Humerus
+Listing methods of grinding for {'Ivory Humerus': 1}.
+(While grinding in the background for ['Echo'])
+6.87 actions (0.15 Ivory Humerus per action) with 'Inquire about her willingness to supply a forgery':
+
+Jade Fragment
+Listing methods of grinding for {'Jade Fragment': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (245.98 Jade Fragment per action) with 'Buy at Bazaar: Jade Fragment':
+
+Jasmine Leaves
+Listing methods of grinding for {'Jasmine Leaves': 1}.
+(While grinding in the background for ['Echo'])
+0.03 actions (37.23 Jasmine Leaves per action) with 'Burgle a Public House':
+
+Jet Black Stinger
+Listing methods of grinding for {'Jet Black Stinger': 1}.
+(While grinding in the background for ['Echo'])
+4.60 actions (0.22 Jet Black Stinger per action) with 'Dig near the Magistracy of the Evenlode':
+
+Journal of Infamy
+Listing methods of grinding for {'Journal of Infamy': 1}.
+(While grinding in the background for ['Echo'])
+0.17 actions (5.82 Journal of Infamy per action) with 'Spend a night with the cats of the Duchess':
+     Note: This grind uses Choice: Profession: Correspondent.
+     Note: This grind uses Choice: Profession: Crooked-Cross.
+
+Judgements' Egg
+Listing methods of grinding for {"Judgements' Egg": 1}.
+(While grinding in the background for ['Echo'])
+21.28 actions (0.05 Judgements' Egg per action) with 'The Tomb of the Silken Thread':
+
+Justificande Coin
+Listing methods of grinding for {'Justificande Coin': 1}.
+(While grinding in the background for ['Echo'])
+21.30 actions (0.05 Justificande Coin per action) with 'The home of an Admiral's Widow, The Widow's Bedchamber':
+
+Knob of Scintillack
+Listing methods of grinding for {'Knob of Scintillack': 1}.
+(While grinding in the background for ['Echo'])
+0.69 actions (1.45 Knob of Scintillack per action) with 'The Disgraced Diplomat - Exceptional Tragic':
+
+Knotted Humerus
+Listing methods of grinding for {'Knotted Humerus': 1}.
+(While grinding in the background for ['Echo'])
+1.10 actions (0.91 Knotted Humerus per action) with 'Ambush an Inattentive Scholar':
+
+Laboratory Research
+Listing methods of grinding for {'Laboratory Research': 1}.
+(While grinding in the background for ['Echo'])
+0.05 actions (22.00 Laboratory Research per action) with 'Work with your expert student':
+
+Last Hope of a Fidgeting Writer
+Listing methods of grinding for {'Last Hope of a Fidgeting Writer': 1}.
+(While grinding in the background for ['Echo'])
+32.50 actions (0.03 Last Hope of a Fidgeting Writer per action) with 'Visit him regularly and ask the Manager about his stay':
+
+Legal Document
+Listing methods of grinding for {'Legal Document': 1}.
+(While grinding in the background for ['Echo'])
+2.64 actions (0.38 Legal Document per action) with 'Break into the offices of Baseborn & Fowlingpiece':
+
+Legenda Cosmogone
+Listing methods of grinding for {'Legenda Cosmogone': 1}.
+(While grinding in the background for ['Echo'])
+78.13 actions (0.01 Legenda Cosmogone per action) with 'Steal a precious manuscript':
+
+Lens of Black Glass
+Listing methods of grinding for {'Lens of Black Glass': 1}.
+(While grinding in the background for ['Echo'])
+68.81 actions (0.01 Lens of Black Glass per action) with 'Make him dream and see what he sees':
+
+Leviathan Frame
+Listing methods of grinding for {'Leviathan Frame': 1}.
+(While grinding in the background for ['Echo'])
+158.37 actions (0.01 Leviathan Frame per action) with 'The torso of a Leviathan!':
+
+Live Specimen
+Listing methods of grinding for {'Live Specimen': 1}.
+(While grinding in the background for ['Echo'])
+5.84 actions (0.17 Live Specimen per action) with 'The Envoy's Study, Deliver the documents to the Glass':
+
+London Street Sign
+Listing methods of grinding for {'London Street Sign': 1}.
+(While grinding in the background for ['Echo'])
+1.02 actions (0.98 London Street Sign per action) with 'Buy at Bazaar: London Street Sign':
+
+Lucky Weasel
+Listing methods of grinding for {'Lucky Weasel': 1}.
+(While grinding in the background for ['Echo'])
+0.08 actions (12.30 Lucky Weasel per action) with 'Buy at Bazaar: Lucky Weasel':
+
+Lump of Lamplighter Beeswax
+Listing methods of grinding for {'Lump of Lamplighter Beeswax': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (245.98 Lump of Lamplighter Beeswax per action) with 'Buy at Bazaar: Lump of Lamplighter Beeswax':
+
+Magisterial Lager
+Listing methods of grinding for {'Magisterial Lager': 1}.
+(While grinding in the background for ['Echo'])
+0.10 actions (9.68 Magisterial Lager per action) with 'Buy at Upper River: Magisterial Lager':
+
+Magnificent Diamond
+Listing methods of grinding for {'Magnificent Diamond': 1}.
+(While grinding in the background for ['Echo'])
+2.64 actions (0.38 Magnificent Diamond per action) with 'Seize a jewel smuggler's boat':
+
+Mammoth Ribcage
+Listing methods of grinding for {'Mammoth Ribcage': 1}.
+(While grinding in the background for ['Echo'])
+11.67 actions (0.09 Mammoth Ribcage per action) with 'Enter the woods + Find Red Deer + Report (with 8 time)':
+
+Maniac's Prayer
+Listing methods of grinding for {"Maniac's Prayer": 1}.
+(While grinding in the background for ['Echo'])
+0.03 actions (37.34 Maniac's Prayer per action) with 'The Militant Curate - Exceptional Cautionary':
+
+Map Scrap
+Listing methods of grinding for {'Map Scrap': 1}.
+(While grinding in the background for ['Echo'])
+0.07 actions (15.23 Map Scrap per action) with 'Trade a sack of glim':
+
+Mark of Credit Page
+Listing methods of grinding for {'Mark of Credit Page': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Memento of Silence
+Listing methods of grinding for {'Memento of Silence': 1}.
+(While grinding in the background for ['Echo'])
+1.69 actions (0.59 Memento of Silence per action) with 'Write some case notes into a letter, send it':
+     Note: This grind uses Choice: Profession: Midnighter.
+
+Memento of Violence
+Listing methods of grinding for {'Memento of Violence': 1}.
+(While grinding in the background for ['Echo'])
+9.39 actions (0.11 Memento of Violence per action) with 'Parabola (Wrapper): Hunt shark':
+
+Memory of Distant Shores
+Listing methods of grinding for {'Memory of Distant Shores': 1}.
+(While grinding in the background for ['Echo'])
+0.14 actions (7.06 Memory of Distant Shores per action) with 'The Exiled Antiquarian - Exceptional Tragic':
+
+Memory of Light
+Listing methods of grinding for {'Memory of Light': 1}.
+(While grinding in the background for ['Echo'])
+0.15 actions (6.50 Memory of Light per action) with 'Confront certain stage performers CC':
+
+Memory of a Much Lesser Self
+Listing methods of grinding for {'Memory of a Much Lesser Self': 1}.
+(While grinding in the background for ['Echo'])
+1.38 actions (0.72 Memory of a Much Lesser Self per action) with 'Let it study you':
+
+Midnight Matriarch
+Listing methods of grinding for {'Midnight Matriarch': 1}.
+(While grinding in the background for ['Echo'])
+81.31 actions (0.01 Midnight Matriarch per action) with 'Buy at Bazaar: Midnight Matriarch':
+
+Moon-pearl
+Listing methods of grinding for {'Moon-pearl': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (176.29 Moon-pearl per action) with 'A Carnelian work':
+
+Moonlight Scales
+Listing methods of grinding for {'Moonlight Scales': 1}.
+(While grinding in the background for ['Echo'])
+0.21 actions (4.82 Moonlight Scales per action) with 'Charter a barge to the Persephone + Leave the barge':
+
+Moonlit
+Listing methods of grinding for {'Moonlit': 1}.
+(While grinding in the background for ['Echo'])
+0.98 actions (1.02 Moonlit per action) with 'Wander the moonlit woods':
+
+Mortification of a Great Power
+Listing methods of grinding for {'Mortification of a Great Power': 1}.
+(While grinding in the background for ['Echo'])
+16.16 actions (0.06 Mortification of a Great Power per action) with 'Dive + Breathe an ancient air':
+
+Mourning Candle
+Listing methods of grinding for {'Mourning Candle': 1}.
+(While grinding in the background for ['Echo'])
+0.80 actions (1.25 Mourning Candle per action) with 'The Charismatic Tracklayer - Exceptional Tragic':
+
+Moves in the Great Game
+Listing methods of grinding for {'Moves in the Great Game': 1}.
+(While grinding in the background for ['Echo'])
+0.10 actions (9.68 Moves in the Great Game per action) with 'Ambush a courier':
+
+Muscaria Brandy
+Listing methods of grinding for {'Muscaria Brandy': 1}.
+(While grinding in the background for ['Echo'])
+0.66 actions (1.52 Muscaria Brandy per action) with 'The Diabolical Propagandist - Exceptional Cautionary':
+
+Mystery of the Elder Continent
+Listing methods of grinding for {'Mystery of the Elder Continent': 1}.
+(While grinding in the background for ['Echo'])
+0.16 actions (6.16 Mystery of the Elder Continent per action) with 'Speak of far-away places CC':
+
+Name Written in Gant
+Listing methods of grinding for {'Name Written in Gant': 1}.
+(While grinding in the background for ['Echo'])
+5.05 actions (0.20 Name Written in Gant per action) with 'Write down a name in Gant, send it':
+     Note: This grind uses Choice: Profession: Licentiate.
+
+Nevercold Brass Sliver
+Listing methods of grinding for {'Nevercold Brass Sliver': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (163.98 Nevercold Brass Sliver per action) with 'Buy at Bazaar: Nevercold Brass Sliver':
+
+Nicatorean Relic
+Listing methods of grinding for {'Nicatorean Relic': 1}.
+(While grinding in the background for ['Echo'])
+1.08 actions (0.93 Nicatorean Relic per action) with 'Account for what remains (Across the Zee)':
+
+Night on the Town
+Listing methods of grinding for {'Night on the Town': 1}.
+(While grinding in the background for ['Echo'])
+11.10 actions (0.09 Night on the Town per action) with 'Arrange a Night on the Town':
+
+Night-Whisper
+Listing methods of grinding for {'Night-Whisper': 1}.
+(While grinding in the background for ['Echo'])
+15.34 actions (0.07 Night-Whisper per action) with 'Enjoy a bubbling hookah with the Minister of Culture':
+
+Nightsoil of the Bazaar
+Listing methods of grinding for {'Nightsoil of the Bazaar': 1}.
+(While grinding in the background for ['Echo'])
+0.13 actions (7.57 Nightsoil of the Bazaar per action) with 'The Fidgeting Factor - Exceptional Cautionary':
+
+Nodule of Deep Amber
+Listing methods of grinding for {'Nodule of Deep Amber': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (163.98 Nodule of Deep Amber per action) with 'Buy at Bazaar: Nodule of Deep Amber':
+
+Nodule of Fecund Amber
+Listing methods of grinding for {'Nodule of Fecund Amber': 1}.
+(While grinding in the background for ['Echo'])
+78.13 actions (0.01 Nodule of Fecund Amber per action) with 'Con an Eccentric Philosopher':
+
+Nodule of Pulsating Amber
+Listing methods of grinding for {'Nodule of Pulsating Amber': 1}.
+(While grinding in the background for ['Echo'])
+20.33 actions (0.05 Nodule of Pulsating Amber per action) with 'Buy at Bazaar: Nodule of Pulsating Amber':
+
+Nodule of Trembling Amber
+Listing methods of grinding for {'Nodule of Trembling Amber': 1}.
+(While grinding in the background for ['Echo'])
+2.71 actions (0.37 Nodule of Trembling Amber per action) with 'Burgle a Public House':
+
+Nodule of Warm Amber
+Listing methods of grinding for {'Nodule of Warm Amber': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (27.90 Nodule of Warm Amber per action) with 'Build Bi-cranial Crone Crane and sell to Zailor':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Oil of Companionship
+Listing methods of grinding for {'Oil of Companionship': 1}.
+(While grinding in the background for ['Echo'])
+27.85 actions (0.04 Oil of Companionship per action) with 'Get + Extract concentrated sentiment from the Elation at Feline Oration':
+
+Ostentatious Diamond
+Listing methods of grinding for {'Ostentatious Diamond': 1}.
+(While grinding in the background for ['Echo'])
+1.15 actions (0.87 Ostentatious Diamond per action) with 'Pick out a diamond':
+
+Page of Cryptopalaeontological Notes
+Listing methods of grinding for {'Page of Cryptopalaeontological Notes': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (23.46 Page of Cryptopalaeontological Notes per action) with 'Consult your current work':
+
+Page of Prelapsarian Archaeological Notes
+Listing methods of grinding for {'Page of Prelapsarian Archaeological Notes': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (23.46 Page of Prelapsarian Archaeological Notes per action) with 'Consult your current work':
+
+Page of Theosophistical Notes
+Listing methods of grinding for {'Page of Theosophistical Notes': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (23.47 Page of Theosophistical Notes per action) with 'Consult your current work':
+
+Painter's Progress
+Listing methods of grinding for {"Painter's Progress": 1}.
+(While grinding in the background for ['Echo'])
+2.96 actions (0.34 Painter's Progress per action) with 'Paint with Moonlight':
+
+Palaeontological Discovery
+Listing methods of grinding for {'Palaeontological Discovery': 1}.
+(While grinding in the background for ['Echo'])
+6.33 actions (0.16 Palaeontological Discovery per action) with 'Dig near Moulin':
+
+Palimpsest Scrap
+Listing methods of grinding for {'Palimpsest Scrap': 1}.
+(While grinding in the background for ['Echo'])
+0.15 actions (6.54 Palimpsest Scrap per action) with 'Ambush an Amnesiac Theologian':
+
+Parabola-Linen Frock
+Listing methods of grinding for {'Parabola-Linen Frock': 1}.
+(While grinding in the background for ['Echo'])
+95.54 actions (0.01 Parabola-Linen Frock per action) with 'Buy at Bazaar: Parabola-Linen Frock':
+
+Parabola-Linen Scrap
+Listing methods of grinding for {'Parabola-Linen Scrap': 1}.
+(While grinding in the background for ['Echo'])
+15.08 actions (0.07 Parabola-Linen Scrap per action) with 'Paint + Unveil your Painting (Mostly Luminosity, at least 4)':
+
+Parabola-Linen Suit
+Listing methods of grinding for {'Parabola-Linen Suit': 1}.
+(While grinding in the background for ['Echo'])
+95.54 actions (0.01 Parabola-Linen Suit per action) with 'Buy at Bazaar: Parabola-Linen Suit':
+
+Parabolan Orange-apple
+Listing methods of grinding for {'Parabolan Orange-apple': 1}.
+(While grinding in the background for ['Echo'])
+5.13 actions (0.19 Parabolan Orange-apple per action) with 'Pick a fruit from the tree':
+
+Parabolan Research
+Listing methods of grinding for {'Parabolan Research': 1}.
+(While grinding in the background for ['Echo'])
+0.07 actions (14.00 Parabolan Research per action) with 'Employ a Cloud of Thoughts That Will Not Settle Down':
+
+Parabolan Tree Season
+Listing methods of grinding for {'Parabolan Tree Season': 1}.
+(While grinding in the background for ['Echo'])
+4.31 actions (0.23 Parabolan Tree Season per action) with 'Fertilise the tree with bone':
+
+Partial Map
+Listing methods of grinding for {'Partial Map': 1}.
+(While grinding in the background for ['Echo'])
+1.20 actions (0.84 Partial Map per action) with 'Recover lost works':
+
+Patent Scrutinizer
+Listing methods of grinding for {'Patent Scrutinizer': 1}.
+(While grinding in the background for ['Echo'])
+4.78 actions (0.21 Patent Scrutinizer per action) with 'The Radical Factotum will take them off your hands':
+
+Perfumed Gunpowder
+Listing methods of grinding for {'Perfumed Gunpowder': 1}.
+(While grinding in the background for ['Echo'])
+0.73 actions (1.37 Perfumed Gunpowder per action) with 'Create a lot of Perfumed Gunpowder':
+
+Personal Recommendation
+Listing methods of grinding for {'Personal Recommendation': 1}.
+(While grinding in the background for ['Echo'])
+29.39 actions (0.03 Personal Recommendation per action) with 'Arrange for a Personal Recommendation':
+
+Phosphorescent Scarab
+Listing methods of grinding for {'Phosphorescent Scarab': 1}.
+(While grinding in the background for ['Echo'])
+0.05 actions (20.73 Phosphorescent Scarab per action) with 'Offload a great quantity of wax':
+
+Piece of Rostygold
+Listing methods of grinding for {'Piece of Rostygold': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (163.98 Piece of Rostygold per action) with 'Buy at Bazaar: Piece of Rostygold':
+
+Plaster Tail Bones
+Listing methods of grinding for {'Plaster Tail Bones': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Plated Skull
+Listing methods of grinding for {'Plated Skull': 1}.
+(While grinding in the background for ['Echo'])
+7.62 actions (0.13 Plated Skull per action) with 'Duplicate the skull of a Plated Seal':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Poetic Missive
+Listing methods of grinding for {'Poetic Missive': 1}.
+(While grinding in the background for ['Echo'])
+1.83 actions (0.55 Poetic Missive per action) with 'Compose a poem (from An Identity Uncovered!), send it':
+
+Portfolio of Souls
+Listing methods of grinding for {'Portfolio of Souls': 1}.
+(While grinding in the background for ['Echo'])
+18.94 actions (0.05 Portfolio of Souls per action) with 'Ask the Curatorial Devil to curate some souls':
+
+Possessed Goldfish
+Listing methods of grinding for {'Possessed Goldfish': 1}.
+(While grinding in the background for ['Echo'])
+1.08 actions (0.92 Possessed Goldfish per action) with 'Offer a habitation to one of the smaller Fingerkings':
+
+Pot of Venison Marrow
+Listing methods of grinding for {'Pot of Venison Marrow': 1}.
+(While grinding in the background for ['Echo'])
+0.24 actions (4.17 Pot of Venison Marrow per action) with 'Buy a supply of Venison Marrow':
+
+Powder of Renewal
+Listing methods of grinding for {'Powder of Renewal': 1}.
+(While grinding in the background for ['Echo'])
+388.16 actions (0.00 Powder of Renewal per action) with 'Get + Extract concentrated sentiment from the Unthinkable Hope':
+
+Presbyterate Passphrase
+Listing methods of grinding for {'Presbyterate Passphrase': 1}.
+(While grinding in the background for ['Echo'])
+0.69 actions (1.45 Presbyterate Passphrase per action) with 'The Genteel Elder - Exceptional Tragic':
+
+Preserved Surface Blooms
+Listing methods of grinding for {'Preserved Surface Blooms': 1}.
+(While grinding in the background for ['Echo'])
+1.00 actions (1.00 Preserved Surface Blooms per action) with 'Intercept a shipment':
+
+Primaeval Hint
+Listing methods of grinding for {'Primaeval Hint': 1}.
+(While grinding in the background for ['Echo'])
+15.34 actions (0.07 Primaeval Hint per action) with 'Enjoy an extended walk through the fungal jungle with the Minister of War':
+
+Primordial Shriek
+Listing methods of grinding for {'Primordial Shriek': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (122.99 Primordial Shriek per action) with 'Buy at Bazaar: Primordial Shriek':
+
+Prismatic Frame
+Listing methods of grinding for {'Prismatic Frame': 1}.
+(While grinding in the background for ['Echo'])
+78.13 actions (0.01 Prismatic Frame per action) with 'Con a Palaeontological Yank':
+
+Proscribed Material
+Listing methods of grinding for {'Proscribed Material': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (88.33 Proscribed Material per action) with 'Account for what remains (Campaign of '68')':
+
+Puzzle-Damask Scrap
+Listing methods of grinding for {'Puzzle-Damask Scrap': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Puzzling Map
+Listing methods of grinding for {'Puzzling Map': 1}.
+(While grinding in the background for ['Echo'])
+8.28 actions (0.12 Puzzling Map per action) with 'Speak with your consulting cartographer':
+
+Queer Soul
+Listing methods of grinding for {'Queer Soul': 1}.
+(While grinding in the background for ['Echo'])
+0.67 actions (1.49 Queer Soul per action) with 'Rob the Museum of Souls':
+
+Railway Steel
+Listing methods of grinding for {'Railway Steel': 1}.
+(While grinding in the background for ['Echo'])
+3.49 actions (0.29 Railway Steel per action) with 'Involve the Clay Highwayman's gang in industrial steel robbery':
+
+Rat on a String
+Listing methods of grinding for {'Rat on a String': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (245.98 Rat on a String per action) with 'Buy at Bazaar: Rat on a String':
+
+Ratwork Watch
+Listing methods of grinding for {'Ratwork Watch': 1}.
+(While grinding in the background for ['Echo'])
+93.50 actions (0.01 Ratwork Watch per action) with 'Buy at Bazaar: Ratwork Watch':
+
+Ray-Drenched Cinder
+Listing methods of grinding for {'Ray-Drenched Cinder': 1}.
+(While grinding in the background for ['Echo'])
+763.54 actions (0.00 Ray-Drenched Cinder per action) with 'A fair exchange':
+
+Relic of the Fourth City
+Listing methods of grinding for {'Relic of the Fourth City': 1}.
+(While grinding in the background for ['Echo'])
+0.02 actions (49.20 Relic of the Fourth City per action) with 'Buy at Bazaar: Relic of the Fourth City':
+
+Relic of the Second City
+Listing methods of grinding for {'Relic of the Second City': 1}.
+(While grinding in the background for ['Echo'])
+0.06 actions (16.40 Relic of the Second City per action) with 'Buy at Bazaar: Relic of the Second City':
+
+Relic of the Third City
+Listing methods of grinding for {'Relic of the Third City': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (24.60 Relic of the Third City per action) with 'Buy at Bazaar: Relic of the Third City':
+
+Remains of a Pinewood Shark
+Listing methods of grinding for {'Remains of a Pinewood Shark': 1}.
+(While grinding in the background for ['Echo'])
+9.39 actions (0.11 Remains of a Pinewood Shark per action) with 'Parabola (Wrapper): Hunt shark':
+
+Reported Location of a One-Time Prince of Hell
+Listing methods of grinding for {'Reported Location of a One-Time Prince of Hell': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Reprehensible Lizard
+Listing methods of grinding for {'Reprehensible Lizard': 1}.
+(While grinding in the background for ['Echo'])
+0.08 actions (12.30 Reprehensible Lizard per action) with 'Buy at Bazaar: Reprehensible Lizard':
+
+Revisionist Historical Narrative
+Listing methods of grinding for {'Revisionist Historical Narrative': 1}.
+(While grinding in the background for ['Echo'])
+4.51 actions (0.22 Revisionist Historical Narrative per action) with 'Compose a Revisionist History':
+
+Ribcage with a Bouquet of Eight Spines
+Listing methods of grinding for {'Ribcage with a Bouquet of Eight Spines': 1}.
+(While grinding in the background for ['Echo'])
+76.60 actions (0.01 Ribcage with a Bouquet of Eight Spines per action) with 'Create a Ribcage with a Bouquet of Eight Spines':
+
+Romantic Notion
+Listing methods of grinding for {'Romantic Notion': 1}.
+(While grinding in the background for ['Echo'])
+0.04 actions (25.62 Romantic Notion per action) with 'Sponsor a dream-expedition for lovers':
+
+Room Number at the Royal Beth
+Listing methods of grinding for {'Room Number at the Royal Beth': 1}.
+(While grinding in the background for ['Echo'])
+14.57 actions (0.07 Room Number at the Royal Beth per action) with 'Make a counter-offer.':
+
+Royal-Blue Feather
+Listing methods of grinding for {'Royal-Blue Feather': 1}.
+(While grinding in the background for ['Echo'])
+0.13 actions (7.57 Royal-Blue Feather per action) with 'The Genteel Elder - Exceptional Cautionary':
+
+Rumourmonger's Network
+Listing methods of grinding for {"Rumourmonger's Network": 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Rumours of the Upper River
+Listing methods of grinding for {'Rumours of the Upper River': 1}.
+(While grinding in the background for ['Echo'])
+1.00 actions (1.00 Rumours of the Upper River per action) with 'Travel by railway':
+
+Rusted Stirrup
+Listing methods of grinding for {'Rusted Stirrup': 1}.
+(While grinding in the background for ['Echo'])
+0.03 actions (29.70 Rusted Stirrup per action) with 'Account for what remains (Across the Zee)':
+
+Sabre-toothed Skull
+Listing methods of grinding for {'Sabre-toothed Skull': 1}.
+(While grinding in the background for ['Echo'])
+13.91 actions (0.07 Sabre-toothed Skull per action) with 'Buy a Sabre-toothed Skull off him':
+
+Salve of Righteousness
+Listing methods of grinding for {'Salve of Righteousness': 1}.
+(While grinding in the background for ['Echo'])
+24.44 actions (0.04 Salve of Righteousness per action) with 'Get + Extract concentrated sentiment from the Vindication of Faith':
+
+Sapphire
+Listing methods of grinding for {'Sapphire': 1}.
+(While grinding in the background for ['Echo'])
+1.46 actions (0.68 Sapphire per action) with 'Pick out a sapphire':
+
+Sausage About Which No One Complains
+Listing methods of grinding for {'Sausage About Which No One Complains': 1}.
+(While grinding in the background for ['Echo'])
+5.07 actions (0.20 Sausage About Which No One Complains per action) with 'Buy the Sausage About Which No One Complains':
+
+Scrap of Incendiary Gossip
+Listing methods of grinding for {'Scrap of Incendiary Gossip': 1}.
+(While grinding in the background for ['Echo'])
+0.18 actions (5.60 Scrap of Incendiary Gossip per action) with 'Speak at a salon on the nature of the Elder Continent CC':
+
+Scrap of Ivory Organza
+Listing methods of grinding for {'Scrap of Ivory Organza': 1}.
+(While grinding in the background for ['Echo'])
+84.15 actions (0.01 Scrap of Ivory Organza per action) with 'Con an Inconvenient Royal':
+
+Searing Enigma
+Listing methods of grinding for {'Searing Enigma': 1}.
+(While grinding in the background for ['Echo'])
+15.34 actions (0.07 Searing Enigma per action) with 'Join the Minister of Enigmas for teatime':
+
+Secluded Address
+Listing methods of grinding for {'Secluded Address': 1}.
+(While grinding in the background for ['Echo'])
+0.50 actions (2.01 Secluded Address per action) with 'Watch a criminal trial':
+
+Sense of Déjà Vu
+Listing methods of grinding for {'Sense of Déjà Vu': 1}.
+(While grinding in the background for ['Echo'])
+1.63 actions (0.61 Sense of Déjà Vu per action) with 'There's something familiar about this tale...':
+
+Set of Workman's Clothes
+Listing methods of grinding for {"Set of Workman's Clothes": 1}.
+(While grinding in the background for ['Echo'])
+0.03 actions (32.28 Set of Workman's Clothes per action) with 'Buy at Upper River: Set of Workman's Clothes':
+
+Seven-Throated Warbler
+Listing methods of grinding for {'Seven-Throated Warbler': 1}.
+(While grinding in the background for ['Echo'])
+5.21 actions (0.19 Seven-Throated Warbler per action) with 'Parabola (Wrapper): Hunt warbler':
+
+Shard of Glim
+Listing methods of grinding for {'Shard of Glim': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (169.69 Shard of Glim per action) with 'A Thunderstorm of Morality':
+
+Silent Soul
+Listing methods of grinding for {'Silent Soul': 1}.
+(While grinding in the background for ['Echo'])
+2.62 actions (0.38 Silent Soul per action) with 'Rob the Museum of Souls':
+
+Silk Scrap
+Listing methods of grinding for {'Silk Scrap': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (245.98 Silk Scrap per action) with 'Buy at Bazaar: Silk Scrap':
+
+Silvered Cat's Claw
+Listing methods of grinding for {"Silvered Cat's Claw": 1}.
+(While grinding in the background for ['Echo'])
+0.03 actions (33.49 Silvered Cat's Claw per action) with 'Account for what remains (Parabolan artefacts)':
+
+Skeleton with Seven Necks
+Listing methods of grinding for {'Skeleton with Seven Necks': 1}.
+(While grinding in the background for ['Echo'])
+12.71 actions (0.08 Skeleton with Seven Necks per action) with 'Enter the woods + Wander glades + adept to luck':
+
+Skull in Coral
+Listing methods of grinding for {'Skull in Coral': 1}.
+(While grinding in the background for ['Echo'])
+6.91 actions (0.14 Skull in Coral per action) with 'Charter a barge to the Persephone + Leave the barge':
+
+Slighted!
+Listing methods of grinding for {'Slighted!': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Slim Volume of Bazaarine Poetry
+Listing methods of grinding for {'Slim Volume of Bazaarine Poetry': 1}.
+(While grinding in the background for ['Echo'])
+0.67 actions (1.49 Slim Volume of Bazaarine Poetry per action) with 'The Wistful Stoker - Exceptional Ironic':
+
+Sober Dress
+Listing methods of grinding for {'Sober Dress': 1}.
+(While grinding in the background for ['Echo'])
+0.03 actions (32.28 Sober Dress per action) with 'Buy at Upper River: Sober Dress':
+
+Solacefruit
+Listing methods of grinding for {'Solacefruit': 1}.
+(While grinding in the background for ['Echo'])
+0.12 actions (8.14 Solacefruit per action) with 'The Genteel Elder - Exceptional Ironic':
+
+Soul
+Listing methods of grinding for {'Soul': 1}.
+(While grinding in the background for ['Echo'])
+0.01 actions (122.99 Soul per action) with 'Buy at Bazaar: Soul':
+
+Starveling Cat
+Listing methods of grinding for {'Starveling Cat': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Stolen Correspondence
+Listing methods of grinding for {'Stolen Correspondence': 1}.
+(While grinding in the background for ['Echo'])
+0.02 actions (49.20 Stolen Correspondence per action) with 'Buy at Bazaar: Stolen Correspondence':
+
+Stolen Kiss
+Listing methods of grinding for {'Stolen Kiss': 1}.
+(While grinding in the background for ['Echo'])
+1.66 actions (0.60 Stolen Kiss per action) with 'A romantic sort of compromise':
+
+Storm-Threnody
+Listing methods of grinding for {'Storm-Threnody': 1}.
+(While grinding in the background for ['Echo'])
+126.99 actions (0.01 Storm-Threnody per action) with 'Convert Unpredictable Treasure 0-160':
+
+Storm-bird
+Listing methods of grinding for {'Storm-bird': 1}.
+(While grinding in the background for ['Echo'])
+8.92 actions (0.11 Storm-bird per action) with 'Parabola (Wrapper): Hunt storm-bird':
+
+Strong-Backed Labour
+Listing methods of grinding for {'Strong-Backed Labour': 1}.
+(While grinding in the background for ['Echo'])
+1.41 actions (0.71 Strong-Backed Labour per action) with 'Recruit Clay Man labour':
+
+Sudden Insight
+Listing methods of grinding for {'Sudden Insight': 1}.
+(While grinding in the background for ['Echo'])
+1.90 actions (0.53 Sudden Insight per action) with 'Talk through your troubles with them':
+
+Surface-Silk Scrap
+Listing methods of grinding for {'Surface-Silk Scrap': 1}.
+(While grinding in the background for ['Echo'])
+0.05 actions (20.73 Surface-Silk Scrap per action) with 'Swap a great deal of silk':
+
+Survey of the Neath's Bones
+Listing methods of grinding for {"Survey of the Neath's Bones": 1}.
+(While grinding in the background for ['Echo'])
+0.24 actions (4.11 Survey of the Neath's Bones per action) with 'Research: Survey of the Neath's Bones':
+
+Sworn Statement
+Listing methods of grinding for {'Sworn Statement': 1}.
+(While grinding in the background for ['Echo'])
+0.76 actions (1.31 Sworn Statement per action) with 'Ambush an Aging Detective':
+
+Tale of Terror!!
+Listing methods of grinding for {'Tale of Terror!!': 1}.
+(While grinding in the background for ['Echo'])
+0.14 actions (7.14 Tale of Terror!! per action) with 'Free the souls in exchange for secrets CC':
+
+The Prestige of your Laboratory
+Listing methods of grinding for {'The Prestige of your Laboratory': 1}.
+(While grinding in the background for ['Echo'])
+3.31 actions (0.30 The Prestige of your Laboratory per action) with 'Research: Discover the background of this bone .. true background':
+
+Thirsty Bombazine Scrap
+Listing methods of grinding for {'Thirsty Bombazine Scrap': 1}.
+(While grinding in the background for ['Echo'])
+0.67 actions (1.49 Thirsty Bombazine Scrap per action) with 'The Charismatic Tracklayer - Exceptional Cautionary':
+
+Thorned Ribcage
+Listing methods of grinding for {'Thorned Ribcage': 1}.
+(While grinding in the background for ['Echo'])
+6.33 actions (0.16 Thorned Ribcage per action) with 'Two thorned ribcages':
+
+Time Remaining in the Woods
+Listing methods of grinding for {'Time Remaining in the Woods': 1}.
+(While grinding in the background for ['Echo'])
+0.90 actions (1.12 Time Remaining in the Woods per action) with 'Flatter the Ghillie into extending your visit':
+
+Tin of Zzoup
+Listing methods of grinding for {'Tin of Zzoup': 1}.
+(While grinding in the background for ['Echo'])
+0.52 actions (1.94 Tin of Zzoup per action) with 'Buy at Upper River: Tin of Zzoup':
+
+Tinned Ham
+Listing methods of grinding for {'Tinned Ham': 1}.
+(While grinding in the background for ['Echo'])
+12.91 actions (0.08 Tinned Ham per action) with 'Buy at Upper River: Tinned Ham':
+
+Tomb-Lion's Tail
+Listing methods of grinding for {"Tomb-Lion's Tail": 1}.
+(While grinding in the background for ['Echo'])
+1.66 actions (0.60 Tomb-Lion's Tail per action) with 'Duplicate the tail of a Tomb-Lion':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Touching Love Story
+Listing methods of grinding for {'Touching Love Story': 1}.
+(While grinding in the background for ['Echo'])
+1.52 actions (0.66 Touching Love Story per action) with 'The shaded estate on Hemlock Row, ...a Captivating Ballad':
+
+Trace of Viric
+Listing methods of grinding for {'Trace of Viric': 1}.
+(While grinding in the background for ['Echo'])
+0.20 actions (4.92 Trace of Viric per action) with 'Account for what remains (Parabolan artefacts)':
+
+Trace of the First City
+Listing methods of grinding for {'Trace of the First City': 1}.
+(While grinding in the background for ['Echo'])
+0.22 actions (4.57 Trace of the First City per action) with 'Account for what remains (Falling Cities)':
+
+Tribute
+Listing methods of grinding for {'Tribute': 1}.
+(While grinding in the background for ['Echo'])
+0.57 actions (1.76 Tribute per action) with 'Offer a winsome dispossessed orphan (64.8E, 25 x Tribute)':
+
+Uncanny Incunabulum
+Listing methods of grinding for {'Uncanny Incunabulum': 1}.
+(While grinding in the background for ['Echo'])
+3.60 actions (0.28 Uncanny Incunabulum per action) with 'Benthic's Press':
+
+Unearthly Fossil
+Listing methods of grinding for {'Unearthly Fossil': 1}.
+(While grinding in the background for ['Echo'])
+3.87 actions (0.26 Unearthly Fossil per action) with 'Emancipate a Clay Man':
+
+Unidentified Thigh Bone
+Listing methods of grinding for {'Unidentified Thigh Bone': 1}.
+(While grinding in the background for ['Echo'])
+0.21 actions (4.84 Unidentified Thigh Bone per action) with 'Buy at Upper River: Unidentified Thigh Bone':
+
+Unlawful Device
+Listing methods of grinding for {'Unlawful Device': 1}.
+(While grinding in the background for ['Echo'])
+6.06 actions (0.17 Unlawful Device per action) with 'Account for what remains (Campaign of '68')':
+
+Unprovenanced Artefact
+Listing methods of grinding for {'Unprovenanced Artefact': 1}.
+(While grinding in the background for ['Echo'])
+0.63 actions (1.59 Unprovenanced Artefact per action) with 'The Exiled Antiquarian - Exceptional Ironic':
+
+Unusual Love Story
+Listing methods of grinding for {'Unusual Love Story': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Use of Villains
+Listing methods of grinding for {'Use of Villains': 1}.
+(While grinding in the background for ['Echo'])
+8.53 actions (0.12 Use of Villains per action) with 'Obtain the Use of Villains':
+     Note: This grind uses Choice: Profession: Correspondent.
+     Note: This grind uses Choice: Profession: Crooked-Cross.
+
+Venge-Rat Corpse
+Listing methods of grinding for {'Venge-Rat Corpse': 1}.
+(While grinding in the background for ['Echo'])
+2.98 actions (0.34 Venge-Rat Corpse per action) with 'Quietly does it':
+
+Venom-ruby
+Listing methods of grinding for {'Venom-ruby': 1}.
+(While grinding in the background for ['Echo'])
+1.46 actions (0.68 Venom-ruby per action) with 'Pick out a venom-ruby':
+
+Verse of Counter-Creed
+Listing methods of grinding for {'Verse of Counter-Creed': 1}.
+(While grinding in the background for ['Echo'])
+3.93 actions (0.25 Verse of Counter-Creed per action) with 'Charter a barge to the Cedarwood + Leave the barge':
+
+Vial of Masters' Blood
+Listing methods of grinding for {"Vial of Masters' Blood": 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Vial of Tears of the Bazaar
+Listing methods of grinding for {'Vial of Tears of the Bazaar': 1}.
+(While grinding in the background for ['Echo'])
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.
+Vienna Opening
+Listing methods of grinding for {'Vienna Opening': 1}.
+(While grinding in the background for ['Echo'])
+0.60 actions (1.68 Vienna Opening per action) with 'Recognize an opening':
+
+Viric Frock
+Listing methods of grinding for {'Viric Frock': 1}.
+(While grinding in the background for ['Echo'])
+99.64 actions (0.01 Viric Frock per action) with 'Steep your gown in the colours of the Viric jungle':
+
+Viric Lizard
+Listing methods of grinding for {'Viric Lizard': 1}.
+(While grinding in the background for ['Echo'])
+1.08 actions (0.92 Viric Lizard per action) with 'Furnish the Fingerkings with a Lizard':
+
+Viric Suit
+Listing methods of grinding for {'Viric Suit': 1}.
+(While grinding in the background for ['Echo'])
+99.64 actions (0.01 Viric Suit per action) with 'Steep your suit in the colours of the Viric jungle':
+
+Vision of the Surface
+Listing methods of grinding for {'Vision of the Surface': 1}.
+(While grinding in the background for ['Echo'])
+0.15 actions (6.49 Vision of the Surface per action) with 'Give your Correspondence Plaques to Surface travellers CC':
+
+Vital Intelligence
+Listing methods of grinding for {'Vital Intelligence': 1}.
+(While grinding in the background for ['Echo'])
+2.58 actions (0.39 Vital Intelligence per action) with 'Ambush a courier':
+
+Volume of Collated Research
+Listing methods of grinding for {'Volume of Collated Research': 1}.
+(While grinding in the background for ['Echo'])
+0.71 actions (1.42 Volume of Collated Research per action) with 'The Wistful Stoker - Exceptional Cautionary':
+
+Wages of a Dig
+Listing methods of grinding for {'Wages of a Dig': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (369.28 Wages of a Dig per action) with 'Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return':
+
+Warbler Skeleton
+Listing methods of grinding for {'Warbler Skeleton': 1}.
+(While grinding in the background for ['Echo'])
+1.46 actions (0.69 Warbler Skeleton per action) with 'Extract the skeleton of a Seven-Throated Warbler':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Weasel of Social Discomfiture
+Listing methods of grinding for {'Weasel of Social Discomfiture': 1}.
+(While grinding in the background for ['Echo'])
+1.08 actions (0.92 Weasel of Social Discomfiture per action) with 'Offer a habitation to a moderate-sized Fingerking':
+
+Well-Placed Pawn
+Listing methods of grinding for {'Well-Placed Pawn': 1}.
+(While grinding in the background for ['Echo'])
+0.06 actions (16.00 Well-Placed Pawn per action) with 'Grind Pawns via Epaulette Mates (sold, optimistic analysis)':
+
+Whirring Contraption
+Listing methods of grinding for {'Whirring Contraption': 1}.
+(While grinding in the background for ['Echo'])
+5.50 actions (0.18 Whirring Contraption per action) with 'The carpet bag':
+
+Whisper-Satin Scrap
+Listing methods of grinding for {'Whisper-Satin Scrap': 1}.
+(While grinding in the background for ['Echo'])
+0.20 actions (4.94 Whisper-Satin Scrap per action) with 'Supply the Royal Bethlehem Hotel with absinthe CC':
+
+Whispered Hint
+Listing methods of grinding for {'Whispered Hint': 1}.
+(While grinding in the background for ['Echo'])
+0.00 actions (245.98 Whispered Hint per action) with 'Buy at Bazaar: Whispered Hint':
+
+Wing of a Young Terror Bird
+Listing methods of grinding for {'Wing of a Young Terror Bird': 1}.
+(While grinding in the background for ['Echo'])
+1.00 actions (1.00 Wing of a Young Terror Bird per action) with 'Take the Bishop of Southwark hunting':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Winsome Dispossessed Orphan
+Listing methods of grinding for {'Winsome Dispossessed Orphan': 1}.
+(While grinding in the background for ['Echo'])
+13.17 actions (0.08 Winsome Dispossessed Orphan per action) with 'Buy at Bazaar: Winsome Dispossessed Orphan':
+
+Withered Tentacle
+Listing methods of grinding for {'Withered Tentacle': 1}.
+(While grinding in the background for ['Echo'])
+0.46 actions (2.18 Withered Tentacle per action) with 'Draw tentacles from the cauldron':
+     Note: This grind uses Choice: A Church in the Wild: Anglican.
+
+Zee-Ztory
+Listing methods of grinding for {'Zee-Ztory': 1}.
+(While grinding in the background for ['Echo'])
+0.17 actions (5.87 Zee-Ztory per action) with 'Swap tales at the Admiralty CC':
+
+results were written to _gen_actioncosts.py

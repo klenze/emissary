@@ -1,0 +1,934 @@
++
+#Unfinished Business in Ladybones Road
+The anatomy of a secret
+ Whispered  You've gained 1-220 x Whispered Hint
+  You've lost 1 x Appalling Secret
+Mischief and brass
+ Action Cost: 5
+ You've gained 101-1000 x Nevercold Brass Sliver
+The study of antiquities
+ You've gained 21-60 x Relic of the Fourth City
+A lovely thought
+ You've gained 51-150 x Lump of Lamplighter Beeswax
+A tradition developed after the Fall
+ You've gained 50 x Bottle of Greyfields 1882
+Debate the nature of Primordial Shrieks
+  You've gained 50 x Primordial Shriek
+# Unfinished Business in Spite
+Encourage the honest folk of Spite to give you 'gifts'
+ Action Cost: 5
+  You've gained 101-400 x Silk Scrap
+  You've gained 16-55 x Surface-Silk Scrap
+Keep your hands quick
+ You've gained 11–210 x Rat on a String
+The fellow in the corner
+  You've gained 11 x Relic of the Third City
+  You've lost 10 x Piece of Rostygold
+Eavesdropping
+  You've gained 1-120 x Cryptic Clue
+Rob a glim shipment
+  You've gained 100-120 x Shard of Glim
+The prince of...
+  You've gained 1-120 x Soul
+Ambush a few couriers for old times' sake
+ Action Cost: 2
+  You've gained 40 x Stolen Correspondence
+# Unfinished Business in Veilgarden
+Take a consignment of old props
+ Action Cost: 2
+  You've gained 26-150 x Drop of Prisoner's Honey
+Your crowd of admirers
+ Action Cost: 5
+  You've gained 101–1000 x Bottle of Greyfields 1879
+Shake down your agent
+ Action Cost: 6
+ Currency3  You've gained 100-400 x Fistful of Surface Currency
+Get in on a card game
+  You've gained 100 x Nodule of Deep Amber
+An admirer among the clergy
+  You've gained 1–200 x Foxfire Candle Stub
+Doing the decent thing.
+  You've gained 50 x Drop of Prisoner's Honey
+# https://fallenlondon.fandom.com/wiki/Unfinished_Business_in_Watchmaker%27s_Hill
+A spot of footpadry
+  You've gained 51–150 x Moon-pearl
+A sure bet
+ Action Cost: 2
+  You've gained 51-450 x Jade Fragment
+Wade into the Ring Fights
+ Action Cost: 5
+ Red  You've gained 101–1100 x Piece of Rostygold
+A literary sort of fist-fight
+  You've gained 6-45 x Proscribed Material
+Contracts and legs
+  You've gained 5 x Infernal Contract
+#
+#
++ Wines
+# Wines conversion
+Help out with the harvest festival
+ You've lost 500 x Bottle of Greyfields 1882
+  You've gained 105 x Bottle of Morelways 1872
+Trade them off to the Portly Sommelier
+  You've lost 500 x Bottle of Morelways 1872
+  You've gained 105 x Bottle of Strangling Willow Absinthe
+Interrupt the Affable Monsignor's reading
+  You've lost 50 x Bottle of Strangling Willow Absinthe
+  You've gained 10 x Bottle of Broken Giant 1844
+  You've lost 1 x Favours: The Church
+The Affable Monsignor has a particular taste for the '44
+  You've lost 25 x Bottle of Broken Giant 1844
+  You've gained 5 x Cellar of Wine
+  You've lost 1 x Favours: The Church
++ Elder
+Buy out a shop of antiquities with your jade
+  You've lost 1000 x Jade Fragment
+  You've gained 105 x Relic of the Third City
+Sell your relics to Feducci
+  You've lost 500 x Relic of the Third City
+  You've gained 105 x Mystery of the Elder Continent
+Distressing bird
+  You've lost 50 x Mystery of the Elder Continent
+  You've lost 1 x Favours: Tomb-Colonies
+  You've gained 10 x Presbyterate Passphrase
+Discuss matters with the Travel-Worn Antiquarian and his guest
+  You've lost 25 x Presbyterate Passphrase
+  You've lost 1 x Favours: Tomb-Colonies
+  You've gained 5 x Antique Mystery
+Enter into correspondence with the Department of Cryptospelunking and Portable Antiquities
+  You've lost 7 x Antique Mystery
+  Connected: Benthic is dropping… (-15 CP)
+  You've gained 1 x Primaeval Hint
++Luminosity
+Offload a great quantity of wax
+ Lamplighter  You've lost 1000 x Lump of Lamplighter Beeswax
+  You've gained 105 x Phosphorescent Scarab
+Enough! Burn them!
+  You've lost 500 x Phosphorescent Scarab
+  You've gained 105 x Memory of Light
+Trying to remember
+  You've lost 50 x Memory of Light
+  You've gained 10 x Mourning Candle
+  You've lost 1 x Favours: Revolutionaries
+The Radical Factotum will take them off your hands
+  You've lost 25 x Mourning Candle
+  You've gained 5 x Patent Scrutinizer
+  You've lost 1 x Favours: Revolutionaries
+A fair exchange
+  You've lost 1 x Favours: Revolutionaries
+  You've gained 1 x Ray-Drenched Cinder
+  You've lost 5 x Eyeless Skull
++
+# A Presumptuous Little Opportunity
+Ten cases of Morelways
+ Card: A Presumptuous Little Opportunity
+  You've lost 1000 x Bottle of Greyfields 1882
+  You've gained 240 x Bottle of Morelways 1872
+An alarming amount of Strangling Willow Absinthe
+ Card: A Presumptuous Little Opportunity
+ You've gained 96 x Bottle of Strangling Willow Absinthe
+ You've lost 400 x Bottle of Morelways 1872
+Perhaps you're interested in an exceptional vintage?
+ Card: A Presumptuous Little Opportunity
+ Action Cost: 3 
+ You've gained 24 x Bottle of Broken Giant 1844
+ You've lost 5000 x Bottle of Greyfields 1879
+An improbable exchange
+ Card: A Presumptuous Little Opportunity
+ You've gained 1 x Bottle of Fourth City Airag: Year of the Tortoise
+ You've gained 5 x First City Coin
+  You've lost 5 x Cellar of Wine
+A potent possibility
+ Card: A Presumptuous Little Opportunity
+ You've lost 7 x Bottle of Fourth City Airag: Year of the Tortoise
+ You've gained 1 x Vial of Tears of the Bazaar
+A dangerous deal
+ You've lost 5 x Vial of Tears of the Bazaar
+# You've lost 1 x Meta: Notability7
+  You've lost 1 x Meta: Impossible
+#TODO
+  You've gained 1 x Vial of Masters' Blood
+# Mr Wines is holding a sale!
+A discount for purchase in bulk
+ Card: Mr Wines is holding a sale!
+ You've lost 80 x Romantic Notion
+ You've gained 900 x Bottle of Greyfields 1879
+The unlabelled box
+ Card: Mr Wines is holding a sale!
+  You've gained 0.5 x Bottle of Greyfields 1868 First Sporing
+  You've gained 2.5 x Bottle of Morelways 1872
+  You've gained 0.5 x Bottle of Broken Giant 1844
+  You've gained 0.5 x Bottle of Black Wings Absinthe
+  You've lost 1 x Touching Love Story
++ Rag Trade
+Swap a great deal of silk
+  You've lost 1000 x Silk Scrap
+  You've gained 105 x Surface-Silk Scrap
+Take an armful of bolts to the Marred Mercer
+  You've lost 500 x Surface-Silk Scrap
+  You've gained 105 x Whisper-Satin Scrap
+Trade them to the Marred Mercer
+  You've lost 50 x Whisper-Satin Scrap
+  You've lost 1 x Favours: Criminals
+  You've gained 10 x Thirsty Bombazine Scrap
+The Marred Mercer will happily take your Bombazine
+  You've lost 25 x Thirsty Bombazine Scrap
+  You've lost 1 x Favours: Criminals
+  You've gained 5 x Puzzle-Damask Scrap
++ Academic
+Make a substantial donation to F.F. Gebrandt's church
+  You've lost 1000 x Foxfire Candle Stub
+  You've gained 105 x Flask of Abominable Salts
+Sell your poison to zailors bound for the Elder Continent
+  You've lost 500 x Flask of Abominable Salts
+  You've gained 105 x Memory of Distant Shores
+Dealing with the deviless
+  Connected: Benthic is dropping… (-5 CP)
+  You've lost 50 x Memory of Distant Shores
+  You've gained 10 x Volume of Collated Research
+  Making Waves is increasing… (+1-15 CP)
+Under the counter
+  You've lost 1 x Portfolio of Souls
+  You've lost 50 x Memory of Distant Shores
+  You've gained 10 x Volume of Collated Research
+  Making Waves is increasing… (+1-15 CP)
++ Cartography
+Trade a sack of glim
+  You've lost 1000 x Shard of Glim
+  You've gained 105 x Map Scrap
+Show your map scraps to a gathering of zee-captains
+  You've lost 500 x Map Scrap
+  You've gained 105 x Zee-Ztory
+Tell tall tales with the Salty Fabulist
+  You've lost 50 x Zee-Ztory
+  You've lost 1 x Favours: The Docks
+  You've gained 10 x Partial Map
+  Making Waves is increasing… (+1 CP)
+Speak with your consulting cartographer
+  You've lost 25 x Partial Map
+  You've gained 5 x Puzzling Map
+  You've lost 1 x Favours: The Docks
++ Nostalgia
+Sponsor a dream-expedition for lovers
+  You've lost 500 x Drop of Prisoner's Honey
+  You've gained 105 x Romantic Notion
+Hold a salon dedicated to nostalgia for the Surface
+  You've lost 500 x Romantic Notion
+  You've gained 105 x Vision of the Surface
+  Making Waves is increasing… (+2-9 CP) (random)
+Speak with bohemians about lost loves and the Surface
+  You've lost 50 x Vision of the Surface
+  You've lost 1 x Favours: Bohemians
+  You've gained 10 x Touching Love Story
+  Making Waves is increasing… (+1 CP)
+A rare business
+  You've lost 25 x Touching Love Story
+  You've lost 1 x Favours: Bohemians
+  You've gained 5 x Bazaar Permit
++ Wild words
+Let your shrieks loose on the Square of Lofty Words
+  You've lost 500 x Primordial Shriek
+  You've gained 105 x Maniac's Prayer
+Repeat a great many Maniac's Prayers
+  You've lost 500 x Maniac's Prayer
+  You've gained 105 x Correspondence Plaque
+Unlikely customers
+  You've lost 1 x Favours: Urchins
+  You've lost 50 x Correspondence Plaque
+  You've gained 10 x Aeolian Scream
+Take your Aeolian Screams somewhere high
+  You've lost 25 x Aeolian Scream
+  You've gained 5 x Storm-Threnody
+  You've lost 1 x Favours: Urchins
++ Infernal
+Offer a great many souls to the Embassy
+  You've lost 500 x Soul
+  You've gained 105 x Amanita Sherry
+Poison a gathering of spirifers
+  You've lost 500 x Amanita Sherry
+  You've gained 105 x Brilliant Soul
+Exchange your souls for brandy
+  You've lost 50 x Brilliant Soul
+  You've lost 1 x Favours: Hell
+  You've gained 10 x Muscaria Brandy
+Trade it to the Infernal Sommelier
+  You've lost 25 x Muscaria Brandy
+  You've gained 5 x Brass Ring
+  You've lost 1 x Favours: Hell
++ Mysteries
+Combine 500 Whispered Hints into 200 Cryptic Clues
+  You've gained 200 x Cryptic Clue
+ Whispered  You've lost 500 x Whispered Hint
+Trade a great many Cryptic Clues
+  You've lost 500 x Cryptic Clue
+  You've gained 70 x Appalling Secret
+Spend a night with the cats of the Duchess
+  You've lost 333 x Appalling Secret
+  You've gained 105 x Journal of Infamy
+Correspond with a trio of sisters
+  You've lost 333 x Appalling Secret
+  You've gained 105 x Tale of Terror!!
+Read out your Tales of Terror at a Summerset College Senior Common Room
+  Connected: Summerset is dropping… (-5 CP)
+  You've lost 50 x Tale of Terror!!
+  You've gained 10 x Extraordinary Implication
+  Making Waves is increasing… (+5 CP)
+  Nightmares is increasing… (+1 CP)
+Study your journals with a learned colleague
+  You've lost 50 x Journal of Infamy
+  Connected: Benthic is dropping… (-5 CP)
+  You've gained 10 x Extraordinary Implication
+Benthic's Press
+  Connected: Benthic is dropping… (-20 CP)
+  You've lost 25 x Extraordinary Implication
+  You've gained 5 x Uncanny Incunabulum
+  Making Waves is increasing… (random, 1-20 CP)
++ Influence
+Spend a week decoding encrypted letters
+  You've lost 200 x Stolen Correspondence
+  You've gained 53 x Intriguing Snippet
+Just write the things down
+  You've lost 250 x Intriguing Snippet
+  You've gained 105 x Compromising Document
+A romantic sort of compromise
+  You've lost 50 x Compromising Document
+  You've gained 10 x Stolen Kiss
+  Making Waves is increasing… (+ 1-4 CP (random))
+  You've lost 1 x Favours: The Great Game
+Ask the Muffled Intriguer to broker your Stolen Kisses
+  You've lost 25 x Stolen Kiss
+  You've gained 5 x Favour in High Places
+  Making Waves is increasing… (+ 1-35 CP (random))
+  You've lost 1 x Favours: The Great Game
++ Rumor
+Study an armful of forbidden books
+  You've lost 250 x Proscribed Material
+  You've gained 105 x Inkling of Identity
+Agree to forget an identity you've confirmed
+  You've lost 500 x Inkling of Identity
+  You've gained 105 x Scrap of Incendiary Gossip
+Speculate on the identity of certain parties at a salon
+  You've lost 50 x Scrap of Incendiary Gossip
+  You've gained 10 x An Identity Uncovered!
+  Making Waves is increasing… (+2-16 CP)
+  You've lost 1 x Favours: Society
+Speak with an experienced blackmailer at a polite salon
+  You've lost 25 x An Identity Uncovered!
+  You've lost 1 x Favours: Society
+  You've gained 5 x Blackmail Material
+  Scandal is increasing… (+2 CP)
+# cross category conversions
++
+Free the souls in exchange for secrets CC
+  You've lost 50 x Brilliant Soul
+  You've gained 51 x Tale of Terror!!
+Tell your Tales at the fireside CC
+  You've lost 50 x Tale of Terror!!
+  You've gained 51 x Compromising Document
+  Making Waves is increasing… (+1-10 CP)
+Confront certain stage performers CC
+  You've lost 50 x Compromising Document
+  You've gained 51 x Memory of Light
+Swap tales at the Admiralty CC
+  You've lost 50 x Memory of Light
+  You've gained 51 x Zee-Ztory
+Go drinking with His Amused Lordship CC
+  You've lost 50 x Zee-Ztory
+  You've gained 51 x Bottle of Strangling Willow Absinthe
+  Making Waves is increasing… (+1-10 CP)
+Supply the Royal Bethlehem Hotel with absinthe CC
+  You've lost 50 x Bottle of Strangling Willow Absinthe
+  You've gained 51 x Whisper-Satin Scrap
+Even blackmailers like nice dresses CC
+  You've lost 50 x Whisper-Satin Scrap
+  You've gained 51 x Journal of Infamy
+Blackmail a Special Constable CC
+  You've lost 50 x Journal of Infamy
+  You've gained 51 x Correspondence Plaque
+Give your Correspondence Plaques to Surface travellers CC
+  You've lost 50 x Correspondence Plaque
+  You've gained 51 x Vision of the Surface
+Speak of far-away places CC
+  You've lost 50 x Vision of the Surface
+  You've gained 51 x Mystery of the Elder Continent
+  Making Waves is increasing… (+1-10 CP)
+Speak at a salon on the nature of the Elder Continent CC
+  You've lost 50 x Mystery of the Elder Continent
+  You've gained 51 x Scrap of Incendiary Gossip
+Share tall tales with zailors CC
+  You've lost 50 x Scrap of Incendiary Gossip
+  You've gained 51 x Memory of Distant Shores
+  Making Waves is increasing… (+1–10 CP)
+Uncover a cache of souls CC
+  You've lost 50 x Memory of Distant Shores
+  You've gained 51 x Brilliant Soul
++
+# gain connected:
+Direct a small grant to Benthic College
+ Action Cost: 3
+  You've lost 15 x Flask of Abominable Salts
+  Connected: Benthic is increasing… (+75 CP)
+Direct a small grant to Summerset College
+ Action Cost: 3
+  You've lost 15 x Flask of Abominable Salts
+  Connected: Summerset is increasing… (+75 CP)
+Send him out for a little more honey
+ You've gained 125 x Drop of Prisoner's Honey
+#
+#
+# Call in favours in the Forgotten Quarter
+The dead men's chest
+￼ You've gained 210 x Primordial Shriek
+￼ You've lost 1 x Favours: Tomb-Colonies
+A curious knot
+￼ You've gained 420 x Nodule of Deep Amber
+￼ You've lost 1 x Favours: Rubbery Men
+A soothing sight
+￼ You've gained 420 x Nevercold Brass Sliver
+￼ You've lost 1 x Favours: Hell
+# Call in favours at the Shuttered Palace
+Call on your Bohemian friends to return a favour
+￼ You've gained 210 x Drop of Prisoner's Honey
+￼ You've lost 1 x Favours: Bohemians
+A boon from a Lady-in-Waiting
+￼ You've gained 210 x Bottle of Greyfields 1882
+￼ You've lost 1 x Favours: Society
+A conversation with the Commissioner of Police
+￼ You've gained 140 x Fistful of Surface Currency
+￼ You've lost 1 x Favours: Constables
+An arrangement with the Vicar-General
+￼ You've lost 1 x Favours: The Church
+￼ You've gained 420 x Foxfire Candle Stub
+Curry favour with the Duchess
+￼ Connected: The Duchess is increasing… (+50 CP)
+￼ You've lost 1 x Favours: Society
+A longer conversation with the Commissioner of Police
+￼ You've lost 5 x Favours: Constables
+￼ You've gained 1 x Human Ribcage
+# Call in favours in the Wolfstack Docks
+A meeting with one of the Widow's representatives
+￼ Connected: The Widow is dropping… (-120 CP)
+￼ You've gained 240 x Jade Fragment
+An elliptical conversation
+￼ You've gained 210 x Cryptic Clue
+￼ You've lost 1 x Favours: The Great Game
+A round of well-intentioned backslapping
+￼ You've gained 420 x Shard of Glim
+￼ You've lost 1 x Favours: The Docks
+# The Empress' Court -- call in fav
+Exchange a considerable quantity of Connections for London Street Signs
+￼ You've gained 5 x London Street Sign
+￼ You've lost 3 x Favours: Society
+￼ Suspicion is increasing… (+1 CP)
+# Call in favours in the Flit
+Trade favours with criminals
+￼ You've lost 3 x Favours: Criminals
+￼ You've gained 1200 x Moon-pearl
+Trade favours with revolutionaries
+￼ You've gained 315 x Proscribed Material
+￼ Advancing the Liberation of Night is increasing… (+1 CP)
+￼ You've lost 3 x Favours: Revolutionaries
+￼ Suspicion is increasing… (+2 CP)
+Trade favours with urchins
+￼ You've lost 3 x Favours: Urchins
+￼ You've gained 25 x Certifiable Scrap
+￼ You've gained 1 x Meta: Opening a Bundle of Oddities 1-230
+# Acquire human remains from the criminals -> bones.txt
+## Favor Cards:
+One stone in a thousand
+  Card:  An Implausible Penance
+￼ You've gained 210 x Soul
+￼ You've lost 1 x Favours: Criminals
+Try to glimpse a notorious smuggler
+  Card: An Implausible Penance
+￼ You've gained 20 x Bundle of Ragged Clothing
+￼ You've gained 7 x Appalling Secret
+￼ You've gained 1 x Tale of Terror!!
+￼ You've gained 270 x Piece of Rostygold
+￼ You've lost 1 x Favours: Criminals
+Take your chances with the gallery of ruffians and bruisers
+  Card: An Implausible Penance
+￼ You've gained 420 x Piece of Rostygold
+￼ You've lost 1 x Favours: Criminals
+Take on the local champion
+  Card: An Implausible Penance
+￼ You've gained 420 x Piece of Rostygold
+￼ You've lost 1 x Favours: Criminals
+￼ Suspicion is increasing… (+1 CP)
+Offer a less lethal solution/Drown her beneath oily grey waters
+  Card: An Implausible Penance
+￼ You've gained 420 x Piece of Rostygold
+￼ You've lost 1 x Favours: Criminals
+Tip the squatters off
+  Card: An Implausible Penance
+￼ You've gained 600 x Moon-pearl
+￼ You've lost 3 x Favours: Criminals
+￼ You've gained 1 x Favours: Urchins (up to 7)
+Burn it down
+  Card: An Implausible Penance
+￼ You've gained 600 x Moon-pearl
+￼ You've gained 100 x Primordial Shriek
+￼ You've gained 2 x Dubious Testimony
+￼ You've lost 3 x Favours: Criminals
+Not entirely out of respect
+  Card: An Implausible Penance
+￼ You've gained 60 x Flawed Diamond
+￼ You've gained 10 x Ostentatious Diamond
+￼ You've lost 3 x Favours: Criminals
+A lack of entanglements
+  Card: An Implausible Penance
+￼ You've gained 1800 x Shard of Glim
+￼ Connected: The Widow is increasing… (+15 CP)
+￼ You've lost 5 x Favours: Criminals
+# Cheat the Widow # not used due to Broad, ￼ Shadowy 300 check
+Just fence a few casks for now, while you get to know your new colleagues
+  Card: An Implausible Penance
+￼ You've gained 900 x Bottle of Greyfields 1882
+￼ You've lost 5 x Favours: Criminals
+The gang could use an extra hand or three tonight
+  Card: An Implausible Penance
+￼ You've gained 800 x Bottle of Greyfields 1882
+￼ You've gained 200 x Shard of Glim
+￼ You've lost 5 x Favours: Criminals
+Join the salvage party
+  Card: An Implausible Penance
+￼ You've gained 1000 x Shard of Glim
+￼ Wounds is increasing… (+3 CP)
+￼ You've lost 7 x Favours: Criminals
+￼ You've gained 100 x Bottle of Morelways 1872
+￼ You've gained 2 x Bottle of Broken Giant 1844
+Someone stole his fiddle?
+  Card: An Implausible Penance
+￼ You've gained 1250 x Rat on a String
+￼ You've gained 15 x Whisper-Satin Scrap
+￼ You've lost 5 x Favours: Criminals
+Beating the minister
+  Card: An Implausible Penance
+￼ You've lost 7 x Favours: Criminals
+￼ You've gained 1-2 x Magnificent Diamond
+￼ You've gained 11 x Ostentatious Diamond
+￼ Suspicion is increasing… (+1 CP)
+Beat up the Underworld Kingpin
+  Card: An Implausible Penance
+￼ You've gained 700 x Piece of Rostygold
+￼ You've gained 1 x Favour in High Places
+￼ You've lost 7 x Favours: Criminals
+Engineer an invitation
+# MW gain is (3 + Scandal), which we can not handle. taking scandal=5
+# Rare success is also ignored here.
+  Card: City Vices: a Rather Decadent Evening
+￼ You've gained 1 x Confident Smile (up to 20)
+￼ You've gained 20 x Bottle of Morelways 1872
+￼ You've gained 4 x Bottle of Strangling Willow Absinthe
+￼ Someone is Coming is increasing… (+1 CP)
+￼ Making Waves is increasing… (+8 CP)
+￼ Scandal is increasing… (+2 CP)
+￼ You've lost 1 x Favours: Bohemians
+Attend the ceremony
+  Card: A consideration for services rendered
+￼ You've gained 180 x Nevercold Brass Sliver
+￼ You've lost 1 x Soul
+￼ You've gained 2 x Appalling Secret
+￼ You've lost 1 x Favours: Hell
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 1 x Extraordinary Implication
+Everyone deserves a second chance
+  Card: A contact in the Great Game has a tale for you
+￼ You've gained 1 x Sudden Insight (up to 21)
+￼ You've gained 1 x Hard-Earned Lesson (up to 21)
+￼ You've gained 1 x Hastily Scrawled Warning Note (up to 21)
+￼ You've gained 1 x Confident Smile (up to 21)
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 3 x An Identity Uncovered!
+￼ You've lost 2 x Favours: The Great Game
+Make it clear that no one leaves the Game
+  Card: A contact in the Great Game has a tale for you
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: The Church
+￼ You've gained 2 x Extraordinary Implication
+￼ You've gained 150 x Cryptic Clue
+Make it clear the Bohemians aren't welcome any more
+  Card: The kaleidoscopic church
+￼ You've lost 2 x Favours: Bohemians
+￼ You've gained 300 x Shard of Glim
+￼ You've gained 10 x Scrap of Incendiary Gossip
+￼ Nightmares is dropping… (-1 CP)
+￼ Someone is Coming is increasing… (+1 CP)
+Seduce the group's leader and convince them to leave
+  Card: The kaleidoscopic church
+￼ You've gained 300 x Foxfire Candle Stub
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 2 x Stolen Kiss
+￼ You've lost 2 x Favours: Bohemians
+￼ Nightmares is dropping… (-1 CP)
+Secure the artists' work
+  Card: The kaleidoscopic church
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: The Church
+￼ You've gained 2 x Sworn Statement
+￼ You've gained 6 x Dubious Testimony
+￼ Scandal is dropping… (-1 CP)
+Firecrackers in the thurible!
+  Card: Brimstone or frankincense?
+￼ You've gained 400 x Nevercold Brass Sliver
+￼ Scandal is increasing… (+1 CP)
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 7 x Tale of Terror!!
+￼ You've lost 2 x Favours: The Church
+Alert the vicar
+  Card: Brimstone or frankincense?
+￼ Scandal is dropping… (-3 CP)
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: Hell
+￼ You've gained 500 x Foxfire Candle Stub
+￼ You've gained 5 x Scrap of Incendiary Gossip
+Take the Devil's side
+  Card: The Devil and the Child
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: Urchins
+￼ You've gained 550 x Nevercold Brass Sliver
+￼ Scandal is dropping… (-2 CP)
+￼ You've gained 5 x Tale of Terror!!
+Convince the urchin to keep his soul
+  Card: The Devil and the Child
+￼ Wounds is increasing… (+3 CP)
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: Hell
+￼ You've gained 2 x Aeolian Scream
+￼ You've gained 30 x Maniac's Prayer
+Discreetly inform the family about the baronet's communication
+  Card: Going gentle
+￼ You've lost 2 x Favours: Tomb-Colonies
+￼ You've gained 2 x Ostentatious Diamond
+￼ You've gained 20 x Bottle of Morelways 1872
+￼ You've gained 250 x Bottle of Greyfields 1882
+￼ Someone is Coming is increasing… (+1 CP)
+Sneak the old gentleman out
+  Card: Going gentle
+￼ You've gained 350 x Cryptic Clue
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: Society
+￼ You've gained 100 x Silk Scrap
+  You've gained 1 x Meta: Opening a Bundle of Oddities 1-80
+Break him out!
+  Card: Going gentle
+￼ You've lost 2 x Favours: Society
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 500 x Nevercold Brass Sliver
+￼ You've gained 6 x Memory of Distant Shores
+  You've gained 1 x Meta: Opening a Bundle of Oddities 1-80
+# A misfortune at the Carnival
+Save the Rubbery Man
+  Card: A misfortune at the Carnival
+# with Favours: Tomb-Colonies == 7
+￼ You've lost 7 x Favours: Tomb-Colonies
+￼ You've gained 10 x Carnival Ticket
+  You've gained 1 x Magnificent Diamond
+  You've gained 1000 x Nodule of Deep Amber
+￼ You've gained 1 x Maniac's Prayer
+￼ You've gained 1 x Bottle of Strangling Willow Absinthe
+Save the Tomb-Colonist!
+  Card: A misfortune at the Carnival
+￼ You've lost 7 x Favours: Rubbery Men
+￼ Wounds is increasing… (+1 CP)
+￼ You've gained 10 x Carnival Ticket
+￼ You've gained 10 x Carnival Ticket
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 1 x Puzzle-Damask Scrap
+￼ You've gained 1000 x Silk Scrap
+Convince the Rubbery Men to move on
+  Card: Amber in the well
+￼ You've gained 210 x Proscribed Material
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: Rubbery Men
+Convince the Revolutionaries to find somewhere else
+  Card: Amber in the well
+￼ Scandal is increasing… (+3 CP)
+￼ You've lost 2 x Favours: Revolutionaries
+￼ You've gained 800 x Nodule of Deep Amber
+￼ You've gained 5 x Nodule of Warm Amber
+￼ Someone is Coming is increasing… (+1 CP)
+￼ Wounds is dropping… (-3 CP)
+Finger the guilty party
+  Card: They all look the same to me
+￼ Someone is Coming is increasing… (+1 CP)
+￼ Suspicion is dropping… (-3 CP)
+￼ You've lost 2 x Favours: Rubbery Men
+￼ You've gained 550 x Piece of Rostygold
+￼ You've gained 1 x Sworn Statement
+Finger a scapegoat.
+  Card: They all look the same to me
+￼ You've lost 2 x Favours: Constables
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 3 x Volume of Collated Research
+￼ You've gained 25 x Proscribed Material
+Give evidence
+  Card: Crime or punishment?
+# with Favours: Criminals == 7
+￼ Suspicion is dropping… (-7 CP)
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: Criminals
+￼ You've gained 1 x Sworn Statement
+￼ You've gained 1 x Bottle of Broken Giant 1844
+￼ You've gained 2 x Tale of Terror!!
+Get word to the Smuggler
+  Card: Crime or punishment?
+￼ Suspicion is increasing… (+3 CP)
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 2 x Favours: Constables
+￼ You've gained 1 x Extraordinary Implication
+￼ You've gained 2 x Partial Map
+￼ You've gained 25 x Proscribed Material
+Advise the girl to return to the Widow
+  Card: A familiar face by the school railings
+￼ You've gained 700 x Jade Fragment
+￼ Someone is Coming is increasing… (+1 CP)
+￼ Nightmares is dropping… (~ -7-10 CP)
+￼ You've gained 6 x An Identity Uncovered!
+￼ You've lost 7 x Favours: Urchins
+Arrange for the girl to return to the urchin-gangs
+  Card: A familiar face by the school railings
+￼ Connected: The Widow is dropping… (-500 CP)
+￼ You've gained 2 x Storm-Threnody
+￼ You've gained 5 x Maniac's Prayer
+￼ Nightmares is dropping… (-3 CP)
+￼ Someone is Coming is increasing… (+1 CP)
+Settle in the Widow's favour
+  Card: The Acacia and the Butterfly
+￼ You've gained 1000 x Jade Fragment
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 1 x Favour in High Places
+￼ You've gained 1 x Whisper-Satin Scrap
+￼ You've gained 1 x Surface-Silk Scrap
+￼ You've lost 7 x Favours: The Docks
+Make an agreement favouring the dock-gangs
+  Card: The Acacia and the Butterfly
+￼ Connected: The Widow is dropping… (-500 CP)
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 1 x Strong-Backed Labour
+￼ You've gained 1 x Puzzling Map
+  You've gained 1 x Meta: Opening a Bundle of Oddities 1-80
+Sabotage the cannon
+  Card: Youthful high spirits
+￼ You've gained 1200 x Rat on a String
+￼ You've lost 7 x Favours: Urchins
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've gained 20 x Bottle of Morelways 1872
+￼ Wounds is dropping… (-7 CP)
+Convince the residents to pay their protection fees to the urchins instead
+  Card: Youthful high spirits
+￼ You've gained 1000 x Silk Scrap
+￼ You've gained 5 x Thirsty Bombazine Scrap
+￼ You've gained 5 x Whisper-Satin Scrap
+￼ Someone is Coming is increasing… (+1 CP)
+￼ You've lost 7 x Favours: The Docks
+Allow them to watch over your rest (sincere, both party net changes)
+  Action Cost: 2
+￼ Nightmares is dropping… (-5 CP)
+￼ You've gained 1 x Tale of Terror!!
+Inform London's tastemakers of your friend's virtues (sincere, both party net changes)
+  Action Cost: 2
+  Scandal is dropping… (-5 CP)
+Buy and Use the Ablution Absolution!
+￼ Suspicion is dropping… (-1-10 CP)
+￼ Scandal is dropping… (-1 CP)
+￼ You've lost 150 x Penny
+Drink the medicine they bring (sincere, both party net changes)
+  Action Cost: 2
+￼ Wounds is dropping… (-6 CP)
++
+# fidgeting writer
+There's something familiar about this tale...
+￼ You've gained 0.7 x Sense of Déjà Vu
+￼ You've lost 1 x Tale of Terror!!
+Put the thought aside
+￼ You've lost 1 x Sense of Déjà Vu
+￼ You've gained 1 x Extraordinary Implication
+￼ Nightmares is increasing… (+1 CP)
+￼ Touched by Fingerwork is increasing… (+5 CP)
+Track down the Fidgeting Writer
+￼ You've lost 1 x Vision of the Surface
+￼ You've lost 1 x Sense of Déjà Vu
+￼ You've gained 0.7 x Glimpse of Something Larger
+￼ Touched by Fingerwork is increasing… (+5 CP)
+Publish a paper on the subject and think no more about it
+￼ You've lost 1 x Glimpse of Something Larger
+￼ You've gained 2 x Volume of Collated Research
+￼ Approaching the Gates of the Garden is increasing… (+5 CP)
+￼ Making Waves is increasing… (+1-8 CP)
+Cancel your appointments and investigate the ideogram
+￼ You've gained 0.7 x Deal with a Devil
+￼ You've lost 1 x Glimpse of Something Larger
+￼ You've lost 2 x Correspondence Plaque
+￼ Seeing through the Eyes of Icarus is increasing… (+3.5 CP)
+Tell him all you know and abandon your research
+￼ You've lost 1 x Deal with a Devil
+￼ You've gained 1 x Brass Ring
+￼ Hellfarer is increasing… (+1 CP)
+Make a counter-offer.
+￼ You've lost 1 x Deal with a Devil
+￼ You've gained 0.6 x Room Number at the Royal Beth
+￼ You've lost 2 x Brilliant Soul
+Give him honey and a pen
+￼ You've lost 1 x Room Number at the Royal Beth
+￼ You've gained 2 x Antique Mystery
+￼ You've lost 1 x Drop of Prisoner's Honey
+￼ Walking the Falling Cities is increasing… (+5 CP)
+￼ Making Waves is increasing… (+2 CP)
+Visit him regularly and ask the Manager about his stay
+￼ You've lost 1 x Room Number at the Royal Beth
+￼ You've gained 0.5 x Last Hope of a Fidgeting Writer
+￼ You've lost 1 x An Identity Uncovered!
+￼ Touched by Fingerwork is increasing… (+2.5 CP)
+Burn his works. Break his pen. Escort him to the Royal Beth
+￼ You've lost 1 x Last Hope of a Fidgeting Writer
+￼ You've gained 1 x Night-Whisper
+￼ Nightmares is increasing… (+1 CP)
+￼ Touched by Fingerwork is increasing… (+5 CP)
+￼ Making Waves is increasing… (+ 10-15 CP)
+Make him dream and see what he sees
+￼ You've lost 1 x Last Hope of a Fidgeting Writer
+￼ You've gained 0.5 x Lens of Black Glass
+￼ Wounds is increasing… (+0.5 CP)
+￼ Nightmares is increasing… (+0.5 CP)
+￼ You've lost 1 x Extraordinary Implication
+￼ Walking the Falling Cities is increasing… (+2.5 CP)
+Smash it
+￼ You've lost 1 x Lens of Black Glass
+￼ You've gained 1 x Searing Enigma
+￼ You've gained 1 x Primaeval Hint
+￼ You've gained 1 x Bazaar Permit
+￼ You've gained 1 x Comprehensive Bribe
+￼ Walking the Falling Cities is increasing… (+ 100 CP)
+￼ Making Waves is increasing… (random 1-5 CP)
+Look through the Lens
+￼ You've gained 0.5 x Coruscating Soul
+￼ You've lost 1 x Lens of Black Glass
+￼ You've lost 1 x Mourning Candle
+￼ Touched by Fingerwork is increasing… (+50 CP)
+￼ Making Waves is increasing… (+7.5 CP)
+Quietly does it
+# We need a source of Venge-Rat Corpse, and this is the only non-bundle
+# non-seasonal one we have.
+# This is one of 14 cards for The Crowds of Spite, so I will arbitrarily set
+# an action cost to reflect that
+  Action Cost: 3
+￼ You've gained 11 x Rat on a String
+￼ You've gained 1 x Venge-Rat Corpse
+Give it a great quantity of Warm Amber.
+  Card: Slime and Amber: the Rubbery Men
+￼ You've lost 100 x Nodule of Warm Amber
+￼ You've gained 1 x Nodule of Trembling Amber
+￼ You've gained 1 x Favours: Rubbery Men (up to 7)
+# clay quarter. entrance cost not included. 
+Recruit Clay Man labour
+￼ You've gained 2 x Strong-Backed Labour
+￼ You've lost 1 x An Identity Uncovered!
+￼ You've lost 4 x Compromising Document
+￼ You've lost 50 x Piece of Rostygold
+￼ You've lost 50 x Moon-pearl
+Emancipate a Clay Man
+￼ You've lost 1 x Strong-Backed Labour
+￼ You've gained 0-1 x London Street Sign
+￼ You've gained 0-1 x Unearthly Fossil
+￼ You've gained 1-4 x Relic of the Third City
+￼ You've gained 1-4 x Relic of the Fourth City
+￼ You've gained 1-4 x Relic of the Second City
+￼ You've gained 28-34 x Whispered Hint
+# Wilmot's End
+Carousel: The Missing Woman
+# technically not entirely correct, as some gains are not based on CP
+# will work out the same way, though
+  Action Cost: 10
+￼ Searching out a Missing Woman is increasing… (+15 CP)
+Down to business
+￼ Dramatic Tension is increasing… (+1 CP)
+￼ Searching out a Missing Woman is dropping… (-15 CP)
+The carpet bag
+  You've gained 2 x Whirring Contraption
+￼ Searching out a Missing Woman is dropping… (-15 CP)
+A friendly gesture
+￼ You've gained 4 x Strong-Backed Labour
+￼ You've gained 1 x Use of Villains
+￼ Searching out a Missing Woman is dropping… (-15 CP)
+￼ Dramatic Tension is dropping… (-1 CP)
+Carousel: Doing Business in Wilmot's End
+# cumulative actions: DBiWE
+# 1:2, 4:3, 5:4, 10:5
+  Action Cost: 10
+￼ Doing Business in Wilmot's End is increasing… (+15 CP)
+Keeping the Game moving
+￼ Doing Business in Wilmot's End is dropping… (-15 CP)
+￼ Dramatic Tension is increasing… (+1 CP)
+Make the deal
+￼ Doing Business in Wilmot's End is dropping… (-15 CP)
+￼ You've gained 1 x Legal Document
+She is wearing pearls today
+￼ Doing Business in Wilmot's End is dropping… (-15 CP)
+￼ Dramatic Tension is dropping… (-1 CP)
+￼ You've gained 10 x Volume of Collated Research
+An exchange of favours
+￼ You've gained 8 x Stolen Kiss
+￼ You've gained 1 x Favours: The Great Game
+￼ Dramatic Tension is dropping… (-1 CP)
+￼ Doing Business in Wilmot's End is dropping… (-15 CP)
+Carousel: Fighting a War of Assassins
+# standard pyramidical: 1:1, 3:2, 6:3, 10:4
+  Action Cost: 10
+  Fighting a War of Assassins is increasing… (+10 CP)
+An old-fashioned hanging
+￼ Dramatic Tension is increasing… (+1 CP)
+  Fighting a War of Assassins is dropping… (-10 CP)
+A few of your old things
+# Choose an Opponent seems not to be reset on
+#  conclusion, so we do not need an action for it
+  You've gained 1 x Collection of Curiosities
+￼ Dramatic Tension is dropping… (-3 CP)
+Settling out of court
+￼ You've gained 16 x Volume of Collated Research
+￼ Dramatic Tension is dropping… (-3 CP)
+Deserting henchmen
+￼ You've gained 2 x Use of Villains
+￼ Dramatic Tension is dropping… (-3 CP)
+Tribute from your Rival of Power
+￼ You've gained 3 x Bazaar Permit
+￼ Dramatic Tension is dropping… (-3 CP)
+# Censored Census
+Sift through the pages
+￼ You've gained 41 - 55 x Proscribed Material
+# spend SoI
+A furious and incoherent drunken rat
+￼ You've gained 105 x Fistful of Surface Currency
+￼ Someone is Coming is dropping… (-6 CP)
+￼ You've gained 0.01 x Ratwork Watch
+A Scream for your Mantel
+  Card: A Gift from the Capering Relicker
+￼ Someone is Coming is dropping… (-10 CP)
+￼ You've gained 275 x Primordial Shriek
+You just put it down for a moment
+  Card: A Gift from the Capering Relicker
+￼ Someone is Coming is dropping… (-10 CP)
+￼ You've gained 300 x Soul
+￼ You've gained 25 x Infernal Contract
+For someone who has it all, or at least most of it
+  Card: A Gift from the Capering Relicker
+￼ Someone is Coming is dropping… (-10 CP)
+￼ You've gained 24 x Vision of the Surface
+Raw material
+  Card: A Gift from the Capering Relicker
+￼ You've gained 2200 x Bone Fragments
+￼ Someone is Coming is dropping… (-10 CP)
+A bag of jangling coins
+  Card: A Gift from the Capering Relicker
+￼ Someone is Coming is dropping… (-10 CP)
+￼ You've gained 3 x Justificande Coin
+￼ You've gained 10 x First City Coin
+￼ You've gained 400 x Fistful of Surface Currency
+Convert: Echo to 100 Penny
+  Action Cost: 0
+￼ You've gained 100 x Penny  
+￼ You've lost 1 x Echo
+Convert: 100 Penny to Echo
+  Action Cost: 0
+￼ You've lost 100 x Penny  
+￼ You've gained 1 x Echo

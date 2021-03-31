@@ -1,0 +1,57 @@
+# Technically, not all of these options are available for every type of work
+# Thus, we will restrict ourselves to music works.
+#
+# The only benefit not gained by music works is the connected gain from
+#  A Tale of the Future!, which seems rather trivial.
+#
+# Before reaching ASotC 10, the challenging music option seems like an
+# obvious choice for the ASotC gains
+
+Seek out inspiration among artists
+￼ Inspired... is increasing… (+30 CP)
+￼ You've lost 1 x Favours: Bohemians
+Ensure that their work is unfavourably reviewed
+￼ Inspired... is increasing… (+30 CP)
+￼ You've lost 1 x Favours: Society
+Passion and bats
+￼ Inspired... is increasing… (+35 CP)
+￼ Suspicion is increasing… (+1 CP)
+￼ You've lost 1 x Favours: Revolutionaries
+The art of the Brass Embassy
+￼ Inspired... is increasing… (+25 CP)
+￼ You've lost 1 x Favours: Hell
+Call on the help of the Church
+￼ Inspired... is increasing… (+35 CP)
+￼ You've lost 1 x Favours: The Church
+Consult the lead's Opinions
+￼ Inspired... is increasing… (+15 CP)
+Seek out the music of dreams
+￼ You've lost 25 x Drop of Prisoner's Honey
+￼ Inspired... is increasing… (+20 CP)
+# minor works - Ballet
+A Carnelian work
+￼ Inspired... is dropping… (-300 CP)
+￼ You've gained 3000 x Moon-pearl
+￼ Making Waves is increasing… (+10 CP)
+￼ You've gained 2 x A Fine Piece
+￼ You've gained 3 x Tribute
+A light work based around a Neathy folk tale
+￼ Inspired... is dropping… (-300 CP)
+￼ You've gained 3000 x Jade Fragment
+￼ Making Waves is increasing… (+8 CP)
+￼ You've gained 2 x A Fine Piece
+A Thunderstorm of Morality
+￼ Inspired... is dropping… (-595 CP)
+￼ You've gained 3 x A Fine Piece
+￼ Making Waves is increasing… (+10 CP)
+￼ You've gained 6000 x Shard of Glim
+A Heartwarming Farce
+￼ Inspired... is dropping… (-595 CP)
+￼ You've gained 3 x A Fine Piece
+￼ Making Waves is increasing… (+10 CP)
+￼ You've gained 6000 x Moon-pearl
+An Epic of Far-Off Lands
+￼ Inspired... is dropping… (-595 CP)
+￼ You've gained 3 x A Fine Piece
+￼ Making Waves is increasing… (+10 CP)
+￼ You've gained 6000 x Foxfire Candle Stub

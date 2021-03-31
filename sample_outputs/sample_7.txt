@@ -1,0 +1,200 @@
+Result of running ./emissary.py -g 'Hinterland Scrip' -v --max 10
+initializing...
+No source for 'CP: Fascinating...'
+Listing methods of grinding for {'Hinterland Scrip': 1}.
+0.10 actions (9.68 Hinterland Scrip per action) with 'Ambush a courier':
+     0.1150442 Sell at Upper River: Moves in the Great Game
+     0.0353982 Sell at Upper River: Vital Intelligence
+     0.0227560 Parabola: Find weakness
+  *  0.0176991 Ambush a courier
+
+0.12 actions (8.37 Hinterland Scrip per action) with 'Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return':
+     0.7063243 Sell at Upper River: Moves in the Great Game
+     0.3593265 Buy at Bazaar: Piece of Rostygold
+     0.2139680 Sell at Bazaar: Relic of the Fourth City
+     0.0841043 Sell at Upper River: Ambiguous Eolith
+     0.0125823 Sell at Upper River: Knob of Scintillack
+     0.0088352 Examine Silvered Claws
+     0.0056145 Drink the medicine they bring
+     0.0040698 Sell at Upper River: Vital Intelligence
+     0.0040698 Sell at Bazaar: Bottle of Greyfields 1882
+     0.0040583 Examine Viric-tinged Trinkets
+  *  0.0035933 Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return
+     0.0033006 Write Ironic Exceptional Monograph
+     0.0033006 The Disgraced Diplomat - Exceptional Ironic
+     0.0032929 Examine First City Coins
+     0.0026746 Examine Relics of the Second City
+     0.0025742 Examine traces of the First City
+     0.0019474 Account for what remains (Parabolan artefacts)
+     0.0017966 Sell at Upper River: Unlawful Device
+     0.0017117 Examine Relics of the Third City
+     0.0016459 Account for what remains (Falling Cities)
+     0.0010780 Describe a Nicatorean Relic
+     0.0003930 Write Cautionary Exceptional Monograph
+     0.0003930 The Disgraced Diplomat - Exceptional Cautionary
+     0.0003762 Write Tragic Exceptional Monograph
+     0.0003762 The Disgraced Diplomat - Exceptional Tragic
+
+0.13 actions (7.47 Hinterland Scrip per action) with 'Burgle a Public House':
+     0.5929075 Sell at Bazaar: Jasmine Leaves
+     0.4406533 Sell at Upper River: Nightsoil of the Bazaar
+     0.1118693 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0287664 Parabola: Find weakness
+  *  0.0223739 Burgle a Public House
+     0.0223739 Sell at Bazaar: Nodule of Trembling Amber
+     0.0033896 Sell him a nodule of pulsating amber
+     0.0033896 Buy at Bazaar: Nodule of Pulsating Amber
+
+0.14 actions (7.08 Hinterland Scrip per action) with 'Helicon House: Entrance + Join in with a Rubbery Euphonium + Agree to do a bit of modeling':
+     0.0938967 Sell at Bazaar: Bottle of Strangling Willow Absinthe
+     0.0610329 Sell at Upper River: Nightsoil of the Bazaar
+  *  0.0469484 Helicon House: Entrance + Join in with a Rubbery Euphonium + Agree to do a bit of modeling
+     0.0004695 Sell him a nodule of pulsating amber
+     0.0004695 Buy at Bazaar: Nodule of Pulsating Amber
+
+0.15 actions (6.64 Hinterland Scrip per action) with 'Charter a barge to the Fiddler's Scarlet + Leave the barge':
+     1.0757035 Buy at Bazaar: Relic of the Third City
+     0.1774856 Buy at Bazaar: Relic of the Second City
+     0.0687162 Sell at Upper River: Vienna Opening
+     0.0610107 Serve up the (dish)
+     0.0319821 Wander the moonlit woods
+     0.0277321 Buy at Bazaar: Piece of Rostygold
+     0.0237387 Sell at Upper River: Vital Intelligence
+     0.0118693 Provide news from London
+     0.0088743 Examine Relics of the Third City
+  *  0.0079129 Charter a barge to the Fiddler's Scarlet + Leave the barge
+     0.0053303 Paint with Moonlight
+     0.0026652 Paint + Unveil your Painting (Mostly Luminosity, at least 4)
+     0.0026652 Sell at Bazaar: Bazaar Permit
+     0.0026652 Sell at Bazaar: Parabola-Linen Scrap
+     0.0025127 Parabola: Find weakness
+     0.0022186 Write Tragic Exceptional Monograph
+     0.0022186 Describe a Nicatorean Relic
+     0.0022186 The Exiled Antiquarian - Exceptional Tragic
+     0.0022186 Examine Relics of the Second City
+     0.0020826 Ambush an Aging Detective
+     0.0011093 Mount the beast and lead a raid
+     0.0011093 The shaded estate on Hemlock Row, ...a Chimerical Archive
+     0.0011093 Parabola: Find hiding_place
+     0.0011093 Do a heist
+     0.0011093 Concoct a Tapenade of Parabolan Orange-Apple and Concentrate of Self  (for sale)
+     0.0011093 Sell at Bazaar: Chimerical Archive
+     0.0003467 Drink the medicine they bring (sincere, both party net changes)
+     0.0003198 Buy out a shop of antiquities with your jade
+     0.0002773 Moulin: Expedition with Navigator and Claw to the Wellspring, return via parabola
+     0.0002773 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0002773 Sell at Upper River: Royal-Blue Feather
+     0.0002773 Sell at Upper River: Solacefruit
+     0.0001066 A light work based around a Neathy folk tale
+
+0.16 actions (6.40 Hinterland Scrip per action) with 'Helicon House: Entrance [Soothing Palaeontologist] + Lay claim to any left-behind items':
+     0.6919101 Sell at Bazaar: Moon-pearl
+     0.2849042 Sell at Bazaar: Drop of Prisoner's Honey
+     0.1017515 Mount the beast and lead a raid
+  *  0.0271337 Helicon House: Entrance [Soothing Palaeontologist] + Lay claim to any left-behind items
+     0.0254379 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0254379 Sell at Upper River: Knob of Scintillack
+     0.0254379 Sell at Upper River: Royal-Blue Feather
+     0.0254379 Sell at Upper River: Solacefruit
+     0.0164023 Sell at Upper River: Nightsoil of the Bazaar
+     0.0001262 Sell him a nodule of pulsating amber
+     0.0001262 Buy at Bazaar: Nodule of Pulsating Amber
+
+0.16 actions (6.33 Hinterland Scrip per action) with 'Licentiates 7 skull skeleton for Cranial Enthusiast':
+     Note: This grind uses Choice: Profession: Licentiate.
+     0.2677644 Buy at Bazaar: Relic of the Second City
+     0.1770796 Buy at Bazaar: Relic of the Third City
+     0.1181747 Sell at Upper River: Nightsoil of the Bazaar
+     0.0300287 Sell at Upper River: Vital Intelligence
+     0.0147332 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0119169 Buy at Bazaar: Piece of Rostygold
+     0.0103121 Buy at Bazaar: Drop of Prisoner's Honey
+     0.0100453 Sell at Upper River: Vienna Opening
+     0.0100453 Sell at Bazaar: Sworn Statement
+     0.0085796 Compel the Ghillie to extend your visit
+  *  0.0042898 Licentiates 7 skull skeleton for Cranial Enthusiast
+     0.0042898 Enter the woods + Wander glades + adept to luck
+     0.0042898 Duplicate the wings of a bat
+     0.0040181 Paint with Moonlight
+     0.0033471 Examine Relics of the Second City
+     0.0033367 Mount the beast and lead a raid
+     0.0023165 Sell a Holy Relic of Saint Fiacre to the Theologian of the Old School
+     0.0021637 Sell at Bazaar: Bazaar Permit
+     0.0020091 Paint + Unveil your Painting (Mostly Luminosity, at least 4)
+     0.0020091 Sell at Bazaar: Parabola-Linen Scrap
+     0.0014166 Examine Relics of the Third City
+     0.0009527 Describe a Nicatorean Relic
+     0.0009096 Buy at Bazaar: Nodule of Pulsating Amber
+     0.0009090 Sell him a nodule of pulsating amber
+     0.0008342 Sell at Upper River: Royal-Blue Feather
+     0.0008339 Sell at Upper River: Solacefruit
+     0.0007981 Write Cautionary Exceptional Monograph
+     0.0007981 The Wistful Stoker - Exceptional Cautionary
+     0.0007150 Sell at Upper River: Knob of Scintillack
+     0.0004767 Do a heist
+     0.0004767 Parabola: Find hiding_place
+     0.0004764 The shaded estate on Hemlock Row, ...a Chimerical Archive
+     0.0004764 Sell at Bazaar: Chimerical Archive
+     0.0004125 Seek out the music of dreams
+     0.0003432 Sell a Relic of Saint Fiacre
+     0.0002392 Serve up the (dish)
+     0.0001546 Write Tragic Exceptional Monograph
+     0.0001546 The Fidgeting Factor - Exceptional Tragic
+     0.0001490 Drink the medicine they bring (sincere, both party net changes)
+     0.0001192 Moulin: Expedition with Navigator and Claw to the Wellspring, return via parabola
+     0.0000275 Helicon House: Entrance + Join in with a Rubbery Euphonium + Accept a commission
+     0.0000006 Join the Minister of Enigmas for teatime
+     0.0000006 Collect the marked crate
+     0.0000006 Share tall tales with zailors CC
+     0.0000006 Speak at a salon on the nature of the Elder Continent CC
+     0.0000006 Offer a winsome dispossessed orphan (64.8E, 25 x Tribute)
+     0.0000006 Buy at Bazaar: Winsome Dispossessed Orphan
+     0.0000006 Speak of far-away places CC
+     0.0000003 The shaded estate on Hemlock Row, ...a Captivating Ballad
+     0.0000003 Get + Extract concentrated sentiment from the Horrifying Confirmation that you were Right All Along
+     0.0000003 Sell at Bazaar: Captivating Ballad
+     0.0000003 Cherry + Royale + Prepare a Curatorial Cocktail
+     0.0000003 Hold a salon dedicated to nostalgia for the Surface
+     0.0000002 Trade (your dish) to the Canny Costermonger
+     0.0000001 Join the Minister of State Affairs for a long afternoon
+
+0.16 actions (6.15 Hinterland Scrip per action) with 'Rob the Museum of Souls':
+     0.5731698 Sell at Upper River: Nightsoil of the Bazaar
+     0.3082663 Sell at Bazaar: Soul
+     0.1422767 Mount the beast and lead a raid
+     0.0355692 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0355692 Sell at Upper River: Knob of Scintillack
+     0.0355692 Sell at Upper River: Royal-Blue Feather
+     0.0355692 Sell at Upper River: Solacefruit
+     0.0316171 Sell at Bazaar: Silent Soul
+  *  0.0158085 Rob the Museum of Souls
+     0.0158085 Sell at Bazaar: Queer Soul
+     0.0044090 Sell him a nodule of pulsating amber
+     0.0044090 Buy at Bazaar: Nodule of Pulsating Amber
+
+0.16 actions (6.14 Hinterland Scrip per action) with 'Seize a jewel smuggler's boat':
+     0.5720264 Sell at Upper River: Nightsoil of the Bazaar
+     0.3645701 Sell at Bazaar: Flawed Diamond
+     0.1426579 Mount the beast and lead a raid
+     0.0356645 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0356645 Sell at Upper River: Knob of Scintillack
+     0.0356645 Sell at Upper River: Royal-Blue Feather
+     0.0356645 Sell at Upper River: Solacefruit
+     0.0317017 Sell at Bazaar: Magnificent Diamond
+  *  0.0158509 Seize a jewel smuggler's boat
+     0.0044002 Sell him a nodule of pulsating amber
+     0.0044002 Buy at Bazaar: Nodule of Pulsating Amber
+
+0.16 actions (6.14 Hinterland Scrip per action) with 'Break into the offices of Baseborn & Fowlingpiece':
+     0.5719382 Sell at Upper River: Nightsoil of the Bazaar
+     0.1426873 Mount the beast and lead a raid
+     0.0871978 Sell at Bazaar: Compromising Document
+     0.0356718 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0356718 Sell at Upper River: Knob of Scintillack
+     0.0356718 Sell at Upper River: Royal-Blue Feather
+     0.0356718 Sell at Upper River: Solacefruit
+     0.0317083 Sell at Bazaar: Legal Document
+  *  0.0158541 Break into the offices of Baseborn & Fowlingpiece
+     0.0043995 Sell him a nodule of pulsating amber
+     0.0043995 Buy at Bazaar: Nodule of Pulsating Amber
+

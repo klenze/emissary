@@ -1,0 +1,48 @@
+# Balmoral
+Visit the Septemberist Kirk + Attend a Sermon
+  Action Cost: 2
+￼ You've lost 1 x Favours: Revolutionaries
+￼ You've gained 2 x Vienna Opening
+Visit the Septemberist Kirk + Discern hidden truths
+  Action Cost: 2
+￼ You've lost 1 x Favours: Revolutionaries
+￼ You've gained 2-3 x Sworn Statement
+# The Clay Highwayman's Camp #TODO
+Cover your tracks
+￼ Disappearing… is increasing… (+5 CP)
+Eliminate a good deal of suspicion
+￼ Suspicion is dropping… (-33 CP)
+￼ Disappearing… is dropping… (-55 CP)
+Crack a code
+# 95% or something, will ignore failure
+￼ Deciphering... is increasing… (+5 CP)
+Intercept a piece of post and decipher it
+  Action Cost: 3
+# TODO: check action cost
+# Plus cracking
+￼ Deciphering... is dropping… (-15 CP)
+# Intercept a piece of post is 80% at shadowy 270.
+# 20% check failed, document=2-3
+￼ You've gained 0.2 x An Identity Uncovered!
+￼ You've gained 3.6 x Scrap of Incendiary Gossip
+# 40%: check passed, 6-8
+￼ You've gained 0.4 x Vital Intelligence
+# 40%: check passed, 9-10
+￼ You've gained 0.4 x Blackmail Material
+Intercept dumbwaiter message and decipher it
+  Action Cost: 4
+￼ Deciphering... is dropping… (-120 CP)
+￼ You've gained 1 x Night-Whisper
+# Cards: TODO
+#Balmoral in (Lightlevel)
+Bring in a tomb-colonist tour
+# Assumed passable at no darkness
+  Card: Balmoral in (light level)
+￼ You've gained 10 x Hinterland Scrip
+Engage in a bit of smuggling
+# Assumed passable at max darkness
+# Assuming banditry=6
+  Card: Balmoral in (light level)
+￼ You've lost 1 x Consignment of Scintillack Snuff
+￼ You've gained 36 x Hinterland Scrip
+￼ Seeing Banditry in the Upper River is increasing… (+1 CP)

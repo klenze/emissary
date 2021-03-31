@@ -1,0 +1,79 @@
+# Paintings are difficult to handle, so we will do them in blocks.
+# Next 3: Just make progress: (For 4 + anything)
+# Note that we do not handle Persuation failures while painting.
+# For Echo grinding, the most effective way seems to use 2 Moonlit
+# e.g. from 2x woods of clay highwayman camp
+# When painting 6x with Moonlight, at persuation 283 (0.84), the probabilities
+# are: 
+# 0.943  Lumi>=4
+# 0.048  Lumi=3, Nostalgia=3
+# 0.0075 Nostalgia>=4
+# all of these options seem to pay 100 Echos
+
+Paint Balmoral in a subversive cast
+  You've lost 1 x Vital Intelligence
+￼ You've gained 1 x Painter's Progress
+Paint!
+# at 50%
+￼ You've gained 1 x Painter's Progress
+￼ You've lost 4 x Touching Love Story
+Paint with Moonlight
+￼ You've gained 1 x Painter's Progress
+￼ You've lost 2 x Moonlit
+# action costs: 1x start, 6x paint, 1x complete 1x travel, 1x unveil, 1x travel=11
+#
+# 4 anything options:
+#
+Paint + Unveil your Painting (Mostly ￼ Nostalgic, at least 4)
+  Action Cost: 9
+  # two more actions for the two Painter's Progress required
+￼ You've gained 1 x Bottle of Fourth City Airag: Year of the Tortoise
+￼ You've gained 1 x Cellar of Wine
+￼ You've gained 2 x Sworn Statement
+  You've lost 20 x Touching Love Story
+# if you manage to pass the first four skill checks (unlikely), you can pick any paint options for the last 2:
+  You've lost 2 x Painter's Progress
+Paint + Unveil your Painting (Mostly Luminosity, at least 4)
+  Action Cost: 9
+￼ You've gained 5 x Vienna Opening
+￼ You've gained 5 x Sworn Statement
+￼ You've gained 1 x Parabola-Linen Scrap
+￼ You've gained 1 x Bazaar Permit
+￼ You've lost 8 x Moonlit
+  You've lost 2 x Painter's Progress
+Paint + Unveil your Painting (Mostly Incendiary, at least 4)
+￼ You've gained 1 x Skeleton with Seven Necks
+￼ You've gained 1 x Silent Soul
+￼ You've gained 2 x Thirsty Bombazine Scrap
+￼ You've lost 4 x Vital Intelligence
+  You've lost 2 x Painter's Progress
+# mixed options. assuming here you pass all checks, otherwise requirements will be different.
+Paint + Unveil your Painting (Equal Incendiary and Nostalgic, both at 3)
+  Action Cost: 11
+￼ You've gained 1 x Discordant Soul
+￼ You've gained 1 x Direful Reflection
+￼ You've gained 2 x Mourning Candle
+￼ You've lost 15 x Touching Love Story
+￼ You've lost 3 x Vital Intelligence
+Paint + Unveil your Painting (Equal Incendiary and Luminosity, both at 3)
+  Action Cost: 11
+￼ You've gained 1 x Night-Whisper
+￼ You've gained 5 x Vienna Opening
+￼ You've gained 5 x Thirsty Bombazine Scrap
+￼ You've gained 1 x Blackmail Material
+￼ You've lost 3 x Vital Intelligence
+￼ You've lost 6 x Moonlit
+Paint + Unveil your Painting (Equal Nostalgic and Luminosity, both at 3)
+  Action Cost: 11
+  You've gained 1 x Bottle of Fourth City Airag: Year of the Tortoise
+￼ You've gained 10 x Mourning Candle
+￼ You've gained 1 x Favour in High Places
+￼ You've lost 15 x Touching Love Story
+￼ You've lost 6 x Moonlit
+Paint + Unveil your Painting (any combination other than the ones shown above)
+  Action Cost: 5
+  # plus 6 actions from
+  You've lost 6 x Painter's Progress
+  You've gained 1 x Bottle of Fourth City Airag: Year of the Tortoise
+￼ You've gained 2 x Favours: Society (up to 7)
+￼ You've gained 5 x Bottle of Muscaria Brandy

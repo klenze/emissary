@@ -1,0 +1,102 @@
+Result of running ./emissary.py -g 'Echo' -v --max 10 -C
+initializing...
+No source for 'CP: Fascinating...'
+(We assume that any cards can be drawn indefinitely at will, including favour grinding cards like connected pets.)
+Listing methods of grinding for {'Echo': 1}.
+0.12 actions (8.04 Echo per action) with 'Return to the City of Roses':
+     Note: This grind uses Card: A Dream of Roses.
+     0.0800000 Sell at Bazaar: Favour in High Places
+  *  0.0405333 Return to the City of Roses
+     0.0400762 Labour in the temple
+     0.0008000 Gift your Attar in tribute to the Roseate Queen (Rare Success)
+
+0.18 actions (5.47 Echo per action) with 'Receive an offering from the Clay Highwayman':
+     Note: This grind uses Favours: Criminals grind cards.
+     Note: This grind uses Card: Under the Statue at the Magistracy.
+     Note: This grind uses Choice: Magistracy Statue: Clay Highwayman.
+     0.1218981 Gain Favours: Criminals by some card
+     0.1206791 Sell at Bazaar: Ostentatious Diamond
+     0.1106225 Sell at Bazaar: Venge-Rat Corpse
+     0.0609490 Convert Opening a Bundle of Oddities 200-500
+  *  0.0609490 Receive an offering from the Clay Highwayman
+     0.0609490 Sell at Bazaar: Magnificent Diamond
+     0.0406329 Sell at Bazaar: Bottle of Greyfields 1879
+     0.0406329 Sell at Bazaar: Bottle of Strangling Willow Absinthe
+     0.0203161 Sell at Bazaar: Bottle of Broken Giant 1844
+     0.0203161 Sell at Bazaar: Muscaria Brandy
+     0.0002030 Sell at Bazaar: Devilbone Die
+
+0.18 actions (5.42 Echo per action) with 'Call in favours from Hell (Statue to Virginia)':
+     Note: This grind uses Favours: Hell grind cards.
+     Note: This grind uses Card: Under the Statue (Ealing Gardens).
+     Note: This grind uses Choice: Ealing Garden Statue: Virginia.
+     0.2461538 Sell at Bazaar: Muscaria Brandy
+     0.1230769 Gain Favours: Hell by some card
+  *  0.0615385 Call in favours from Hell (Statue to Virginia)
+     0.0307692 Sell at Bazaar: Brass Ring
+
+0.19 actions (5.36 Echo per action) with 'Give it a great quantity of Warm Amber.':
+     Note: This grind uses Favours: The Church grind cards.
+     Note: This grind uses Card: Slime and Amber: the Rubbery Men.
+     Note: This grind uses Choice: Jericho Locks Statue: Dean of Xenotheology.
+     Note: This grind uses Card: Under the Statue at Jericho Locks.
+     Note: This grind uses Card: Under the Statue (Ealing Gardens).
+     Note: This grind uses Choice: Ealing Garden Statue: Tentacled Entrepreneur.
+     0.0800000 Sell at Bazaar: Nodule of Trembling Amber
+     0.0711111 Gain Favours: The Church by some card
+  *  0.0533333 Give it a great quantity of Warm Amber.
+     0.0355556 Trade on your academic and theological connections (Statue to the Dean of Xenotheology)
+     0.0266667 Call in favours from Rubbery Men (Statue to the Tentacled Entrepreneur)
+
+0.19 actions (5.22 Echo per action) with 'Watch a parade':
+     Note: This grind uses Favours: The Docks grind cards.
+     0.2011148 Sell at Upper River: Moves in the Great Game
+     0.1436534 Gain Favours: The Docks by some card
+  *  0.0287307 Watch a parade
+     0.0239422 Sell at Bazaar: Uncanny Incunabulum
+     0.0095769 Charter a barge to the Eversmoulder + Leave the barge
+     0.0095769 Sell at Bazaar: Primaeval Hint
+     0.0016089 Buy at Upper River: Tinned Ham
+     0.0016089 Sell at Bazaar: Tinned Ham
+
+0.20 actions (5.08 Echo per action) with 'Bring in a tomb-colonist tour':
+     Note: This grind uses Card: Balmoral in (light level).
+  *  0.1968504 Bring in a tomb-colonist tour
+     0.0157480 Buy at Upper River: Tinned Ham
+     0.0157480 Sell at Bazaar: Tinned Ham
+
+0.20 actions (5.00 Echo per action) with 'Call in favours from the Church (Statue to the Bishop of Southwark)':
+     Note: This grind uses Favours: The Church grind cards.
+     Note: This grind uses Card: Under the Statue at Jericho Locks.
+     Note: This grind uses Choice: Jericho Locks Statue: Bishop of Southwark.
+     0.4000000 Sell at Bazaar: Strong-Backed Labour
+     0.1000000 Gain Favours: The Church by some card
+  *  0.1000000 Call in favours from the Church (Statue to the Bishop of Southwark)
+
+0.20 actions (5.00 Echo per action) with 'Call in favours from Revolutionaries (Statue to the Jovial Contrarian)':
+     Note: This grind uses Favours: Revolutionaries grind cards.
+     Note: This grind uses Card: Under the Statue (Ealing Gardens).
+     Note: This grind uses Choice: Ealing Garden Statue: Jovial Contrarian.
+     25.0000000 Sell at Bazaar: Proscribed Material
+     0.1600000 Gain Favours: Revolutionaries by some card
+  *  0.0400000 Call in favours from Revolutionaries (Statue to the Jovial Contrarian)
+
+0.20 actions (4.92 Echo per action) with 'Ambush a courier':
+     0.2264651 Sell at Upper River: Moves in the Great Game
+     0.0696816 Sell at Upper River: Vital Intelligence
+     0.0447953 Parabola: Find weakness
+  *  0.0348408 Ambush a courier
+     0.0157480 Buy at Upper River: Tinned Ham
+     0.0157480 Sell at Bazaar: Tinned Ham
+
+0.20 actions (4.91 Echo per action) with 'Sell all your Jasmine Leaves via the contacts of the Gracious Widow':
+     Note: This grind uses Card: Engage in Some Minor Smuggling.
+     12.0265317 Sell at Bazaar: Jade Fragment
+  *  0.9251178 Sell all your Jasmine Leaves via the contacts of the Gracious Widow
+     0.1745505 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0448844 Parabola: Find weakness
+     0.0349101 Burgle a Public House
+     0.0349101 Sell at Bazaar: Nodule of Trembling Amber
+     0.0069820 Buy at Upper River: Tinned Ham
+     0.0069820 Sell at Bazaar: Tinned Ham
+

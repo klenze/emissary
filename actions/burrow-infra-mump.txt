@@ -1,0 +1,71 @@
+# Anglican
+Take the Bishop of Southwark hunting
+  You've lost 1 x Choice: A Church in the Wild: Anglican
+￼ You've gained 1 x Wing of a Young Terror Bird
+Perform Outreach for the Church
+  You've lost 1 x Choice: A Church in the Wild: Anglican
+￼ You've gained 1 x Tin of Zzoup
+# Church of the Wild
+Explore the dreams of the Church in the Wild
+  You've lost 1 x Choice: A Church in the Wild: Wild
+￼ You've gained 1 x Glass Gazette
+Take tea in the vestry
+  You've lost 1 x Choice: A Church in the Wild: Wild
+￼ You've gained 1 x Crate of Incorruptible Biscuits
+# Counter-Church
+Manoeuvre the Counter-Church
+  You've lost 1 x Choice: A Church in the Wild: Counter-Church
+￼ You've gained 1 x Vienna Opening
+Establish doctrinal matters
+  You've lost 1 x Choice: A Church in the Wild: Counter-Church
+￼ You've gained 1 x Sworn Statement
+# Hell
+Engage in a little light preaching
+  You've lost 1 x Choice: A Church in the Wild: Hell
+￼ You've gained 1 x Queer Soul
+Perform outreach for the church
+  You've lost 1 x Choice: A Church in the Wild: Hell
+￼ You've gained 1 x Human Arm
+# doctrine
+Recover lost works
+￼ You've lost 1 x Volume of Collated Research
+￼ You've gained 5 x Palimpsest Scrap
+￼ You've gained 1 x Partial Map
+Dismantle a Verse of Counter-Creed
+￼ You've lost 1 x Verse of Counter-Creed
+￼ You've gained 6 x Apostate's Psalm
+Correct a Verse of Counter-Creed
+￼ You've gained 1 x Uncanny Incunabulum
+￼ You've lost 1 x Verse of Counter-Creed
+￼ You've gained 1 x Sworn Statement
+Construct a False Hagiotoponomy
+￼ You've lost 3 x Verse of Counter-Creed
+￼ You've lost 10 x Palimpsest Scrap
+￼ You've lost 7 x Apostate's Psalm
+￼ You've gained 1 x False Hagiotoponym
+Confound a Beloved Orthodoxy
+￼ You've gained 1 x Mortification of a Great Power
+￼ You've lost 1 x False Hagiotoponym
+￼ You've gained 1 x Apostate's Psalm
+  You've lost 1 x Choice: Profession: Crooked-Cross
+Ask the Curatorial Devil to curate some souls
+￼ You've lost 800 x Soul
+￼ You've lost 60 x Brilliant Soul
+￼ You've lost 50 x Infernal Contract
+￼ You've gained 1 x Portfolio of Souls
+Ask the Curatorial Devil to examine some bulk souls
+￼ You've gained 1.5 x Queer Soul
+￼ You've lost 400 x Soul
+￼ You've gained 0.5 x Silent Soul
+Ask the Curatorial Devil to examine numerous souls
+￼ You've gained 0.4 x Discordant Soul
+￼ You've lost 1 x Portfolio of Souls
+￼ You've lost 100 x Brilliant Soul
+￼ You've gained 0.6 x Silent Soul
+Make a substantial donation to the museum
+￼ You've lost 1 x Discordant Soul
+￼ You've lost 5 x Silent Soul
+￼ You've lost 5 x Portfolio of Souls
+￼ You've lost 125 x Brilliant Soul
+￼ You've lost 25 x Muscaria Brandy
+￼ You've gained 1 x Coruscating Soul

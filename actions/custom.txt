@@ -1,0 +1,5 @@
+# licensate grinds
+#Custom: Grind Echos
+#  You've gained 375 x Penny
+#Custom: Grind Hinterland Scrip
+#￼ You've gained 7.5 x Hinterland Scrip

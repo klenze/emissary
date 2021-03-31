@@ -1,0 +1,107 @@
+#See if Empire Adornments is Open
+Pick out a diamond
+￼ You've gained 1 x Ostentatious Diamond
+￼ You've lost 25 x Cryptic Clue
+Pick out a sapphire
+￼ You've gained 1 x Sapphire
+￼ You've lost 75 x Cryptic Clue
+Pick out a venom-ruby
+￼ You've gained 1 x Venom-ruby
+￼ You've lost 75 x Cryptic Clue
+A bag of low-quality diamonds
+￼ You've gained 45 x Flawed Diamond
+￼ You've lost 200 x Cryptic Clue
+# Walk Down Blackfinger Street
+Collate some Research
+￼ You've gained 1 x Volume of Collated Research
+￼ You've lost 12 x Appalling Secret
+￼ You've lost 2 x Tale of Terror!!
+Compile a Book of Hidden Bodies
+￼ You've gained 1 x Book of Hidden Bodies
+￼ You've lost 300 x Inkling of Identity
+￼ You've lost 30 x Scrap of Incendiary Gossip
+￼ You've lost 6 x An Identity Uncovered!
+Assemble a Portfolio of Souls
+￼ You've gained 1 x Portfolio of Souls
+￼ You've lost 1000 x Soul
+￼ You've lost 75 x Infernal Contract
+￼ You've lost 80 x Brilliant Soul
+# Stop in at the Horse-Steak Club
+Solicit Favours in High Places
+￼ You've gained 1 x Favour in High Places
+￼ You've lost 200 x Cryptic Clue
+￼ You've lost 1 x An Identity Uncovered!
+￼ You've lost 1 x Secluded Address
+￼ You've lost 10 x Scrap of Incendiary Gossip
+￼ You've lost 25 x Inkling of Identity
+Create a Comprehensive Bribe
+￼ You've gained 1 x Comprehensive Bribe
+￼ You've lost 6 x Touching Love Story
+￼ You've lost 30 x Vision of the Surface
+￼ You've lost 300 x Romantic Notion
+Assemble a Collection of Curiosities
+￼ You've gained 1 x Collection of Curiosities
+￼ You've lost 1 x Storm-Threnody
+￼ You've lost 2 x Aeolian Scream
+￼ You've lost 10 x Phosphorescent Scarab
+￼ You've lost 1 x Venge-Rat Corpse
+￼ You've lost 1 x Araby Fighting-Weasel
+￼ You've lost 1 x London Street Sign
+￼ You've lost 10 x Relic of the Fourth City
+￼ You've lost 10 x Relic of the Third City
+￼ You've lost 10 x Relic of the Second City
+￼ You've lost 7 x First City Coin
+￼ You've lost 1 x Unearthly Fossil
+￼ You've lost 1 x Mourning Candle
+￼ You've lost 1 x Presbyterate Passphrase
+￼ You've lost 1 x Touching Love Story
+￼ You've lost 2 x Thirsty Bombazine Scrap
+￼ You've lost 2 x Correspondence Plaque
+￼ You've lost 10 x Mystery of the Elder Continent
+#Call at the offices of Baseborn and Fowlingpiece, solicitors at law
+Have a Legal Document drawn up
+￼ You've gained 1 x Legal Document
+￼ You've lost 300 x Maniac's Prayer
+￼ You've lost 30 x Correspondence Plaque
+￼ You've lost 6 x Aeolian Scream
+Arrange for a Personal Recommendation
+￼ You've gained 1 x Personal Recommendation
+￼ You've lost 6 x Stolen Kiss
+￼ You've lost 30 x Compromising Document
+￼ You've lost 150 x Intriguing Snippet
+Obtain a Permit from the Bazaar
+￼ You've gained 1 x Bazaar Permit
+￼ You've lost 10 x Vision of the Surface
+￼ You've lost 100 x Romantic Notion
+# Visit the workshops of the Great Downward Engineering Company
+Order the grinding of a bejewelled lens
+￼ You've gained 1 x Bejewelled Lens
+￼ You've lost 1 x Magnificent Diamond
+￼ You've lost 10 x Ostentatious Diamond
+￼ You've lost 60 x Correspondence Plaque
+￼ You've lost 1000 x Moon-pearl
+Hire Strong-backed Labour
+￼ You've gained 1 x Strong-Backed Labour
+￼ You've lost 350 x Penny
+Commission a Whirring Contraption
+￼ You've gained 1 x Whirring Contraption
+￼ You've lost 120 x Phosphorescent Scarab
+￼ You've lost 24 x Memory of Light
+# Have a drink at the Bridge Without
+Arrange a Night on the Town
+￼ You've gained 1 x Night on the Town
+￼ You've lost 15 x Compromising Document
+￼ You've lost 40 x Intriguing Snippet
+￼ Making Waves is dropping… (-20 CP)
+Obtain the Use of Villains
+￼ You've gained 1 x Use of Villains
+￼ You've lost 80 x Appalling Secret
+￼ You've lost 20 x Journal of Infamy
+Lay down a Cellar of Wine
+￼ You've gained 1 x Cellar of Wine
+￼ You've lost 1 x Bottle of Broken Giant 1844
+￼ You've lost 50 x Bottle of Morelways 1872
+￼ You've lost 5 x Bottle of Strangling Willow Absinthe
+￼ You've lost 250 x Bottle of Greyfields 1882
+# Visit the Clay Tailor
+# Not included. Items are generally overpriced compared to other sources.

@@ -1,0 +1,45 @@
+# the file name lied, for now, we will only implement Preparatory Research
+# (which can be used to grind the small amounts of Notes needed elsewhere
+# will ignore luck dependent minimal side effects 
+Look at the current trend in Theosophistry
+￼ You've lost 3 x Favours: Society
+￼ You've gained 50 x Page of Theosophistical Notes
+Pay someone else to research for you
+￼ You've gained 50 x Page of Cryptopalaeontological Notes
+￼ You've gained 50 x Page of Prelapsarian Archaeological Notes
+￼ You've gained 50 x Page of Theosophistical Notes
+￼ You've lost 80 x Memory of Distant Shores
+Summarise your experiences in the Wars of Illusion
+￼ You've lost 1 x Extraordinary Implication
+￼ You've gained 35 x Page of Theosophistical Notes
+￼ You've gained 20 x Cryptic Clue
+Have instruments ground
+￼ You've lost 1 x Whirring Contraption
+￼ You've gained 50 x Page of Cryptopalaeontological Notes
+￼ You've gained 50 x Page of Theosophistical Notes
+￼ You've gained 50 x Page of Prelapsarian Archaeological Notes
+Trade in academic favours
+￼ You've gained 100 x Page of Cryptopalaeontological Notes
+￼ Connected: Benthic is dropping… (-91-114 CP)
+￼ Connected: Summerset is dropping… (-91-114 CP)
+Examine your collection of curiosities
+￼ You've lost 1 x Collection of Curiosities
+￼ You've gained 150 x Page of Prelapsarian Archaeological Notes
+Consult your current work
+￼ You've lost 1 x Volume of Collated Research
+￼ You've gained 40 x Page of Cryptopalaeontological Notes
+￼ You've gained 40 x Page of Prelapsarian Archaeological Notes
+￼ You've gained 40 x Page of Theosophistical Notes
+Test your Unearthly Fossil
+￼ You've lost 1 x Unearthly Fossil
+￼ You've gained 80 x Page of Cryptopalaeontological Notes
+Find promising students
+￼ You've lost 2 x Favours: Urchins
+￼ You've lost 2 x Favours: The Church
+￼ You've lost 2 x Favours: Revolutionaries
+￼ You've gained 50 x Page of Cryptopalaeontological Notes
+￼ You've gained 50 x Page of Prelapsarian Archaeological Notes
+￼ You've gained 50 x Page of Theosophistical Notes
+Consult the Masters of the Bazaar
+￼ Connected: The Masters of the Bazaar is dropping… (-2 CP)
+￼ You've gained 100 x Page of Prelapsarian Archaeological Notes

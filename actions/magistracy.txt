@@ -1,0 +1,28 @@
+# The Magistracy of the Evenlode #####################################
+Watch a civil trial
+# at 50%
+￼ You've gained 1.5 x Dubious Testimony
+￼ You've gained 2 x Journal of Infamy
+￼ You've gained 0.5 x Incisive Observation
+Watch a criminal trial
+# we want to fail this, as RoUR are trivial to get anyhow
+# watchful 213 - chancy (51%) should be managable
+￼ You've gained 0.5 x Rumours of the Upper River
+￼ You've gained 1.5 x Secluded Address
+Look closer at the daily practice of the court
+￼ You've gained 1 x Aeolian Scream
+# Diving for Throne Room:
+Dive + Study the evidence
+# 5 to reach depth 5, 1 to for main action
+  Action Cost: 6
+  You've gained 1 x Cave-Aged Code of Honour
+Dive + Breathe an ancient air
+  Action Cost: 6
+￼ You've lost 75 x Final Breath
+￼ You've gained 1 x Mortification of a Great Power
+# Diving for The Light-In-Exile:
+Let it study you
+  Nightmares is increasing… (+1 CP)
+￼ You've gained 1 x Memory of a Much Lesser Self
+# Cards: TODO ###########################################################
+# Cards: The Magistracy of the Evenlode

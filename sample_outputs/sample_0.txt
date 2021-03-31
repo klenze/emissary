@@ -1,0 +1,11 @@
+Result of running ./emissary.py -g 'Whirring Contraption'
+initializing...
+No source for 'CP: Fascinating...'
+Listing methods of grinding for {'Whirring Contraption': 1}.
+5.50 actions (0.18 Whirring Contraption per action) with 'The carpet bag':
+
+10.86 actions (0.09 Whirring Contraption per action) with 'Commission a Whirring Contraption':
+
+14.10 actions (0.07 Whirring Contraption per action) with 'Parabola (Wrapper): Search Nest of storm-bird':
+
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.

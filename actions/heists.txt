@@ -1,0 +1,102 @@
+Do a heist
+# select target, Begin your Heist!, purchase inside info (2x)
+# plus perhaps 8 card actions?
+  Action Cost: 12
+# casing will be reset, so we anticipate some waste (we would need only 15CP=lvl 5 plus 10 CP for 2x inside info)
+  Casing... is dropping… (+28 CP)
+  You've gained 1 x Meta: Heist
+# will not set action costs to zero, as this is all rather back-of-the-envelope anyhow
+#
+The House on Cubit Square for ...Mr Leadbeater's Fortune
+￼ You've gained 1650 x Shard of Glim
+  You've lost 1 x Meta: Heist
+The offices of Baseborn & Fowlingpiece for ...a Sealed Archive
+￼ You've gained 6.4 x Touching Love Story
+￼ You've gained 0.2 x Searing Enigma
+  You've lost 1 x Meta: Heist
+The offices of Baseborn & Fowlingpiece for ...Mr Baseborn's Papers 
+  Action Cost: 4
+  You've gained 2 x Bazaar Permit
+￼ You've gained 100 x Cryptic Clue
+  You've lost 1 x Meta: Heist
+The Balustraded House in Elderwick, Keep her secret. It's only fair.
+￼ You've gained 10 x Ostentatious Diamond
+￼ You've gained 25 x Surface-Silk Scrap
+￼ You've gained 1 x Magnificent Diamond
+￼ You've gained 1 x Puzzle-Damask Scrap
+￼ You've lost 5 x Favours: Criminals
+  You've lost 1 x Meta: Heist
+The Balustraded House in Elderwick, Expose her
+￼ You've gained 10 x Ostentatious Diamond
+￼ You've gained 25 x Surface-Silk Scrap
+￼ You've gained 1 x Favour in High Places
+￼ You've gained 1 x Puzzle-Damask Scrap
+￼ You've lost 5 x Favours: Criminals
+  You've lost 1 x Meta: Heist
+The Envoy's Study, Deliver the documents to the Brass Embassy
+￼ You've gained 6 x Muscaria Brandy
+￼ You've gained 1 x Brass Ring
+￼ You've gained 1 x Favours: Hell
+  You've lost 1 x Meta: Heist
+The Envoy's Study, Deliver the documents to the Glass
+￼ You've gained 2 x Live Specimen
+￼ You've gained 1 x Puzzling Map
+￼ You've gained 1 x Silent Soul
+  You've lost 1 x Meta: Heist
+The Envoy's Study, Trade your documents with London's Ambassador 1
+￼ You've gained 2 x Vital Intelligence
+￼ You've gained 2 x Unprovenanced Artefact
+  You've lost 1 x Meta: Heist
+The Envoy's Study, Trade your documents with London's Ambassador 2
+￼ You've gained 1 x Favour in High Places
+￼ You've gained 1 x Magnificent Diamond
+￼ You've gained 10 x Memory of Distant Shores
+  You've lost 1 x Meta: Heist
+The Envoy's Study, Trade your documents with London's Ambassador 3
+￼ You've gained 2 x Presbyterate Passphrase
+￼ You've gained 1 x Favour in High Places
+￼ You've gained 1 x Vital Intelligence
+  You've lost 1 x Meta: Heist
+The Envoy's Study, Trade your documents with London's Ambassador 4
+￼ You've gained 1 x Ancient Hunting Rifle
+￼ You've gained 1 x Antique Mystery
+￼ You've gained 5 x Dubious Testimony
+￼ You've gained 1 x Unprovenanced Artefact
+  You've lost 1 x Meta: Heist
+The home of an Admiral's Widow, The Widow's Bedchamber
+￼ You've gained 1 x Stolen Correspondence
+￼ You've gained 3 x Justificande Coin
+￼ You've gained 2 x Legal Document
+￼ You've gained 5 x Map Scrap
+￼ You've lost 5 x Favours: The Docks
+  You've lost 1 x Meta: Heist
+The townhouse of a Discerning Deviless
+￼ You've gained 1 x Discordant Soul
+￼ You've lost 1 x A Deviless' Address
+￼ You've lost 5 x Favours: Criminals
+  You've lost 1 x Meta: Heist
+The mansion of an Unsympathetic Landlord
+￼ You've gained 340 x Fistful of Surface Currency
+￼ You've gained 1200 x Piece of Rostygold
+￼ You've gained 8-38 x Brilliant Soul
+  You've lost 1 x Meta: Heist
+The shaded estate on Hemlock Row, ...a False Hagiotoponym
+￼ You've gained 1 x False Hagiotoponym
+￼ You've gained 10 x Apostate's Psalm
+￼ You've lost 1 x Hiding Place of a Peculiar Item
+  You've lost 1 x Meta: Heist
+The shaded estate on Hemlock Row, ...a Captivating Ballad
+￼ You've gained 1 x Captivating Ballad
+￼ You've gained 10 x Touching Love Story
+￼ You've lost 1 x Hiding Place of a Peculiar Item
+  You've lost 1 x Meta: Heist
+The shaded estate on Hemlock Row, ...a Fragment of the Tragedy Procedures
+￼ You've gained 1 x Fragment of the Tragedy Procedures
+￼ You've gained 10 x Sworn Statement
+￼ You've lost 1 x Hiding Place of a Peculiar Item
+  You've lost 1 x Meta: Heist
+The shaded estate on Hemlock Row, ...a Chimerical Archive
+￼ You've gained 1 x Chimerical Archive
+￼ You've gained 10 x Nicatorean Relic
+￼ You've lost 1 x Hiding Place of a Peculiar Item
+  You've lost 1 x Meta: Heist

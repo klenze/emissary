@@ -1,0 +1,24 @@
+Result of running ./emissary.py -g 'Whirring Contraption' -b Echo -v
+initializing...
+No source for 'CP: Fascinating...'
+Calculating action cost per background item Echo
+Will assume that the best grind for background item Echo takes 0.2033 actions per Echo (4.9195 Echo per action)
+Listing methods of grinding for {'Whirring Contraption': 1}.
+(While grinding in the background for ['Echo'])
+5.50 actions (0.18 Whirring Contraption per action) with 'The carpet bag':
+     0.5000000 Carousel: The Missing Woman
+  *  0.5000000 The carpet bag
+
+10.48 actions (0.10 Whirring Contraption per action) with 'Commission a Whirring Contraption':
+     1142.8571429 Buy at Bazaar: Lump of Lamplighter Beeswax
+     8.5561497 Sell at Bazaar: Legal Document
+     5.5003820 Parabola: Find weakness
+     4.2780749 Break into the offices of Baseborn & Fowlingpiece
+     1.1428571 Offload a great quantity of wax
+  *  1.0000000 Commission a Whirring Contraption
+     0.4705882 Confront certain stage performers CC
+
+14.10 actions (0.07 Whirring Contraption per action) with 'Parabola (Wrapper): Search Nest of storm-bird':
+     2.0000000 Parabola: Search Nest of storm-bird
+
+linprog failed. (The problem is infeasible.) Looks like there are no (further) grinds.

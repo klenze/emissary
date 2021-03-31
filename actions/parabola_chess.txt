@@ -1,0 +1,45 @@
+# the main framework is to crude to really handle this.
+#
+#
+# flow of the chess game:
+#
+# progress=0
+#(choose color)
+# progress=1
+# (2x opening move)
+#progress=3
+# (5x middle game)
+# 8
+# (1x Endgame)
+
+# Strategies for winning:
+#
+# Best options for Supervise the New Game
+#  2xChess mastery dependent:   total distance ahead gain
+#   (ungainable as of 2021)     +6
+#  2x Color dependent move:     +0 (black), +2 (red) or +6 (white) 
+#  2x Vienna Opening:           +8
+# Best middle game:    
+#  5x Play aggressively:       +15
+#  5x Vital Intelligence:      +35
+# Endgame:
+#  Choose an epaulette mate
+#  Success:  (p=0.7)
+#    You've gained 1 x Epaulette Mate
+#    You've gained [distance ahead] * 3.65 x Well-Placed Pawn
+#  Fail:  (p=0.3)
+#    ￼ You've gained 160 x Well-Placed Pawn
+#￼     Nightmares is increasing… (+2 CP)
+# Note that unless your distance ahead is 44 or greater, the
+# Pawn outcome is better when losing, so take your Sun-Seared Silken Gloves off!
+#
+#
+# For a full analysis, see results/parabola_chess.txt!
+#
+Grind Pawns via Epaulette Mates (sold, optimistic analysis)
+  Action Cost: 0.0625
+￼ You've gained 1 x Well-Placed Pawn
+#
+Recognize an opening
+￼ You've gained 6 x Vienna Opening
+￼ You've lost 1 x Vital Intelligence

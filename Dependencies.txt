@@ -1,0 +1,17 @@
+For now, there is no setup.py or the like. The scripts just live in the repository.
+
+What you need:
+   Python 3 (tested with 3.7)
+   NumPy (tested with NumPy 1.20.1)
+   SciPy 1.6
+
+In the distribution I used (Debian Buster), SciPy 1.6 was not yet included.
+
+For my system, I installed SciPy 1.6 by downloading the source tarball,
+installing dependencies via
+  apt install gfortran liblapack-dev python3-dev pybind11-dev )
+and running pip3 install . -v --user as advised in INSTALL.rst.txt. 
+
+SciPy 1.6 includes scipy.optimize.linprog(solver='highs'), which proved vastly superior to the
+SciPy 1.1 solvers I tried first, at least for the non-optimized version of the problem I tried to
+solve. 

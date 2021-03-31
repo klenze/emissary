@@ -1,0 +1,80 @@
+Show us the money
+￼ You've lost 1000 x Penny
+￼ You've gained 4 x Crate of Expedition Supplies
+Rumours of treasure
+￼ You've gained 1.5 x Crate of Expedition Supplies
+￼ You've lost 100 x Whispered Hint
+￼ You've gained 1 x Map Scrap
+Blood-red tales
+￼ You've gained 1 x Crate of Expedition Supplies
+￼ Nightmares is increasing… (+1 CP)
+￼ You've lost 10 x Appalling Secret
+Your own expertise
+￼ You've lost 10 x Page of Prelapsarian Archaeological Notes
+￼ You've gained 1 x Crate of Expedition Supplies
+Burly guards and porters
+￼ You've lost 1 x Strong-Backed Labour
+￼ You've gained 3 x Crate of Expedition Supplies
+Hire a porter from the docks
+￼ You've lost 3 x Favours: The Docks
+￼ You've gained 7 x Crate of Expedition Supplies
+￼ You've lost 50 x Piece of Rostygold
+Seek a thieves' cache + A thieves' cache!
+# start + 3x buccaneering + thieving cache + treasure = 7
+￼ You've lost 1 x Favours: Criminals
+￼ You've gained 100 x Cryptic Clue
+  Action Cost: 7
+  You've lost 9 x Crate of Expedition Supplies
+￼ You've gained 200 x Shard of Glim
+￼ You've gained 250 x Soul
+  You've gained 1 x Meta: Unpredictable Treasure 0-80
+Seek a shrine of the Deep Blue Heaven + A Shrine of the Deep Blue Heaven
+# start + 7x move + shrine + unpredictable=10 actions
+  Action Cost: 10
+  You've lost 19 x Crate of Expedition Supplies
+￼ Making Waves is increasing… (+1 CP)
+# Assuming the eyeless skull is p=0.1￼
+  You've gained 0.1 x Eyeless Skull
+￼ You've gained 0.1 x Extraordinary Implication
+￼ You've gained 10 x Whispered Hint
+# p=0.9: normal reward
+  You've gained 0.9 x Meta: Unpredictable Treasure 0-160
+The Chalcocite Pagoda + The Chalcocite Pagoda
+# action cost as per shrine, minus unpredictable treasure
+  Action Cost: 9
+  You've lost 19 x Crate of Expedition Supplies
+￼ You've gained 1 x Searing Enigma
+The Tomb of the Silken Thread
+# start + 10x move + success =12 actions
+  Action Cost: 12
+  You've lost 29 x Crate of Expedition Supplies
+￼ You've gained 1 x Judgements' Egg
+￼ You've gained 1 x Parabola-Linen Scrap
+The Sanctuary of the Crimson Petals
+# start + 13x move + success =15 act
+  Action Cost: 15
+  You've lost 39 x Crate of Expedition Supplies
+# assuming 50/50 from wiki comments
+￼ You've gained 0.5 x Portfolio of Souls
+￼ You've gained 1 x Bright Brass Skull
+￼ You've gained 1.5 x Night-Whisper
+Donate your finds to Summerset College (UT 0-80)
+  Action Cost: 0
+  You've lost 1 x Meta: Unpredictable Treasure 0-80
+￼ Making Waves is increasing… (+24 CP)
+￼ Connected: Summerset is increasing… (+6 CP)
+Donate your finds to Summerset College (UT 0-160)
+  Action Cost: 0
+  You've lost 1 x Meta: Unpredictable Treasure 0-160
+￼ Making Waves is increasing… (+44 CP)
+￼ Connected: Summerset is increasing… (+10 CP)
+Donate your finds to Benthic College (UT 0-80)
+  Action Cost: 0
+  You've lost 1 x Meta: Unpredictable Treasure 0-80
+￼ Making Waves is increasing… (+24 CP)
+￼ Connected: Benthic is increasing… (+6 CP)
+Donate your finds to Benthic College (UT 0-160)
+  Action Cost: 0
+  You've lost 1 x Meta: Unpredictable Treasure 0-160
+￼ Making Waves is increasing… (+44 CP)
+￼ Connected: Benthic is increasing… (+10 CP)

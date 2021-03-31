@@ -1,0 +1,428 @@
++
+Dig where the fossils are likeliest
+# watchful 270 - low-risk (81%)
+  Card: The Geology of Winewound
+￼ You've gained 0.81 x Jet Black Stinger
+￼ You've gained 212 x Jade Fragment
+￼ You've lost 1 x Survey of the Neath's Bones
+# Set your Terror Bird Running #TODO
+Explore the riverbank in low tide (Ealing Garden) (Airs 0-25)
+  Card: Engage in Excavation
+￼ You've gained 1 x Unidentified Thigh Bone
+Sift the riverbank mud in the rising tide (Airs 26-50)
+  Card: Engage in Excavation
+￼ You've gained 1 x Helical Thighbone
+Search the river's edge as the tide falls (Airs 51-75)
+  Card: Engage in Excavation
+￼ You've gained 1 x Knotted Humerus
+￼ You've gained 1-3 x Nodule of Warm Amber
+Explore the river's edge at high tide (Airs 76-100)
+  Card: Engage in Excavation
+￼ You've gained 1 x Knob of Scintillack
+Dig a little distance from the river
+  Card: Engage in Excavation
+￼ You've lost 15 x Survey of the Neath's Bones
+￼ You've gained 1 x Human Ribcage
+Buy a Sabre-toothed Skull off him
+￼ You've lost 125 x Hinterland Scrip
+￼ You've gained 1 x Sabre-toothed Skull
+# not mentioned: Eyeless Skull (rare only)
+Take the pincers off a Deep-zee Catch
+￼ You've lost 1 x Deep-zee Catch
+￼ You've gained 2 x Crustacean Pincer
+Extract the skeleton of a Seven-Throated Warbler
+￼ You've gained 1 x Warbler Skeleton
+￼ You've lost 2 x Nodule of Warm Amber
+￼ You've lost 130 x Bone Fragments
+Duplicate the wings of a bat
+￼ You've gained 2 x Bat Wing
+￼ You've lost 100 x Bone Fragments
+￼ You've lost 2 x Nodule of Warm Amber
+Duplicate the wings of a Focused Albatross
+￼ You've gained 2 x Albatross Wing
+￼ You've lost 2000 x Bone Fragments
+￼ You've lost 25 x Nodule of Warm Amber
+Duplicate the skull of a Somnolent Hyaena
+￼ You've gained 1 x Sabre-toothed Skull
+￼ You've lost 125 x Nodule of Warm Amber
+￼ You've lost 4900 x Bone Fragments
+#glasswork 8
+￼ You've gained 0.25 x Femur of a Surface Deer
+  You've gained 0.25 x Unidentified Thigh Bone
+Duplicate the skull of an Aurochs
+￼ You've gained 1 x Horned Skull
+￼ You've lost 1000 x Bone Fragments
+￼ You've lost 5 x Nodule of Warm Amber
+Duplicate the tail of a Tomb-Lion
+￼ You've gained 1 x Tomb-Lion's Tail
+￼ You've lost 200 x Bone Fragments
+￼ You've lost 2 x Nodule of Warm Amber
+Duplicate the wings of a Young Terror Bird
+￼ You've gained 2 x Wing of a Young Terror Bird
+￼ You've lost 100 x Bone Fragments
+￼ You've lost 25 x Nodule of Warm Amber
+Duplicate the skull of a Plated Seal
+￼ You've gained 1 x Plated Skull
+￼ You've lost 1750 x Bone Fragments
+￼ You've lost 25 x Nodule of Warm Amber
+￼ You've lost 1 x Crate of Incorruptible Biscuits
+Acquire human remains from the criminals
+￼ You've lost 5 x Favours: Criminals
+￼ You've gained 3 x Human Arm
+Research: Discover the background of this bone .. true background
+# with lab 8,  Work with your expert student, watchful 261 - very modest (71%)
+# 29% chance we need extra action
+  Action Cost: 3.29
+# mon anat 7 - low-risk (90%)
+￼ You've gained 0.9 x Femur of a Jurassic Beast
+￼ You've gained 0.1 x Femur of a Surface Deer
+￼ You've gained 1 x The Prestige of your Laboratory
+￼ You've lost 1 x Unidentified Thigh Bone
+Research: Discover the background of this bone .. false nature
+# action cost: start(1)+lab res 75 (3.66) + parab res 25 (4: enter, leave, 2x Hephaesta) +end(1)
+  Action Cost: 9.66
+￼ You've lost 1 x Unidentified Thigh Bone
+￼ You've lost 100 x Drop of Prisoner's Honey
+￼ You've gained 1 x Holy Relic of the Thigh of Saint Fiacre
+￼ You've gained 1 x The Prestige of your Laboratory
+Study the Focused Albatross .. Keep it in total darkness
+# action cost: start(1)+lab res 125 (5.8) +end(1)
+  Action Cost: 5.8
+￼ You've lost 1 x Focused Albatross
+￼ You've gained 2 x Albatross Wing
+￼ You've gained 2 x Incisive Observation
+￼ You've gained 1 x The Prestige of your Laboratory
+Go spear-fishing
+# ignoring some overhead, limited to Airs of the Evenlode 51-75
+# assuming diving depth 3.5
+# dangerous 249 - very modest (71%)
+￼ You've gained 3.2 x Deep-zee Catch
+￼ You've gained 1.4 x Fin Bones, Collected
+￼ Nightmares is increasing… (+0.3 CP)
+Research: warbler resizing
+# 450=17x 25 research +
+# action cost:17 + start+ end + overhead (watchful fails)
+  Action Cost:21
+￼ You've gained 1 x Skeleton with Seven Necks
+￼ Artisan of the Red Science is increasing… (+1 CP)
+￼ You've gained 1 x The Prestige of your Laboratory
+￼ You've lost 1 x Warbler Skeleton
+￼ You've lost 1000 x Nevercold Brass Sliver
+# assuming the red science failure does not end experiment
+Research: Survey of the Neath's Bones
+# assuming you 'Have Hephaesta supervise your Visionary Student'
+# 26 on succ, 24 on fail.
+# 0.076 chance we fail 3 or 4 checks at 0.71 and have to use 5 actions
+# for 100 research
+  Action Cost: 6.076
+  You've gained 25 x Survey of the Neath's Bones
+# Sponsor a Palaeontological Dig
+Dig near Ealing Gardens
+￼ You've lost 1 x Strong-Backed Labour
+￼ You've lost 50 x Survey of the Neath's Bones
+￼ You've gained 2-4 x Helical Thighbone
+￼ You've gained 2-3 x Knotted Humerus
+￼ You've gained 1 x Human Ribcage
+￼ You've gained 253-438 x Bone Fragments
+Dig near the Magistracy of the Evenlode
+￼ You've lost 1 x Strong-Backed Labour
+￼ You've lost 75 x Survey of the Neath's Bones
+￼ You've gained 1 x Thorned Ribcage
+￼ You've gained 1 x Horned Skull
+￼ You've gained 2-4 x Femur of a Jurassic Beast
+￼ You've gained 3-5 x Jet Black Stinger
+￼ You've gained 6-20 x Fin Bones, Collected
+Dig near Station VIII
+￼ You've lost 1 x Strong-Backed Labour
+￼ You've lost 150 x Survey of the Neath's Bones
+￼ You've gained 6 x Palaeontological Discovery
+￼ You've gained 23-31(?) x Bone Fragments
+Dig near Moulin
+￼ You've lost 1 x Strong-Backed Labour
+￼ You've lost 175 x Survey of the Neath's Bones
+￼ You've gained 7 x Palaeontological Discovery
+￼ You've gained 22 - 30 x Rusted Stirrup
+#Sort the Results of Excavation
+The torso of a Leviathan!
+  Action Cost: 0
+￼ You've gained 1 x Leviathan Frame
+￼ You've lost 25 x Palaeontological Discovery
+A mammoth ribcage
+  Action Cost: 0
+￼ You've lost 5 x Palaeontological Discovery
+￼ You've gained 1 x Mammoth Ribcage
+A sabre-toothed skull
+  Action Cost: 0
+￼ You've lost 5 x Palaeontological Discovery
+￼ You've gained 1 x Sabre-toothed Skull
+Two fossilised forelimbs
+  Action Cost: 0
+￼ You've lost 4 x Palaeontological Discovery
+￼ You've gained 2 x Fossilised Forelimb
+The burial-place of First City caravaners
+  Action Cost: 0
+￼ You've lost 3 x Palaeontological Discovery
+￼ You've gained 2 x Human Ribcage
+￼ You've gained 4 x Human Arm
+￼ You've gained 5 x Trace of the First City
+An amalgamous interment
+  Action Cost: 0
+￼ You've lost 2 x Palaeontological Discovery
+￼ You've gained 6 x Helical Thighbone
+￼ You've gained 4 x Knotted Humerus
+Two thorned ribcages
+  Action Cost: 0
+￼ You've lost 2 x Palaeontological Discovery
+￼ You've gained 2 x Thorned Ribcage
+The rest of a long-gone ox
+  Action Cost: 0
+￼ You've lost 1 x Palaeontological Discovery
+￼ You've gained 1 x Horned Skull
+A collection of Jurassic thighs
+  Action Cost: 0
+￼ You've lost 1 x Palaeontological Discovery
+￼ You've gained 5 x Femur of a Jurassic Beast
+Bones? Who cares about bones?
+  Action Cost: 0
+￼ You've lost 1 x Palaeontological Discovery
+￼ You've gained 1250 x Bone Fragments
+# Digs in the Magistracy of the Evenlode
+Search where the water flows out
+  Card: Digs in the Magistracy of the Evenlode
+￼ You've gained 1 to 4 x Fin Bones, Collected
+￼ You've gained 1 to 4 x Ambiguous Eolith
+￼ You've gained 1 to 4 x Jade Fragment
+Dig at the crossroads
+  Card: Digs in the Magistracy of the Evenlode
+￼ You've lost 1 x Survey of the Neath's Bones
+￼ You've gained 3 to 6 x Trace of the First City
+￼ You've gained 1 x Expertise of the First City
+Head uphill (Evenlode)
+  Card: Digs in the Magistracy of the Evenlode
+￼ You've lost 20 x Survey of the Neath's Bones
+￼ You've gained 1 x Palaeontological Discovery
+Make the train take you to a designated stop in the hills
+  Card: Digs in the Magistracy of the Evenlode
+￼ You've lost 120 x Survey of the Neath's Bones
+￼ You've gained 5 x Palaeontological Discovery
+Make the train stop in the Plain of Thirsty Grasses
+  Card: Digs in the Magistracy of the Evenlode
+# assuming you have Kataleptic Toxicology 8 (80% success)
+￼ You've lost 112 x Survey of the Neath's Bones
+￼ You've gained 4.8 x Palaeontological Discovery
+￼ Wounds is increasing… (+0.16 CP)
+# not included: Fly out to a dig site of your choosing
+# (ambition: bag a legend only)
+# Card: Lead a Dig
+Head uphill (Station VIII)
+# 255 - modest (61%)
+  Card: Lead a Dig
+￼ You've lost 24.4 x Survey of the Neath's Bones
+￼ You've gained 1.22 x Palaeontological Discovery
+  Nightmares is increasing… (+78 CP?)
+Lead an expedition to the strangest point on the horizon
+  Card: Lead a Dig
+  You've lost 1 x Oil of Companionship
+￼ You've gained 1 x Prismatic Frame
+￼ You've lost 98 x Rumours of the Upper River
+Offer her a few Surveys
+  Card: A Public Lecture
+￼ You've gained 2 x Plaster Tail Bones
+￼ You've lost 10 x Survey of the Neath's Bones
+Explore the riverbank in low tide (London)
+  Card: Bones in the River
+  You've gained 1 x Headless Skeleton
+￼ You've gained 1 x Unidentified Thigh Bone
+Search an especially useful bit of shore
+  Card: Bones in the River
+# Broad, ￼ Watchful 200 for 71% at 237
+￼ You've gained 0.71 x Knotted Humerus
+￼ You've lost 0.71 x Survey of the Neath's Bones
+￼ You've gained 0.29 x Femur of a Surface Deer
+## selling in the bone market
+Sell a Jurassic Thigh Bone
+￼ You've gained 250 x Bone Fragments
+￼ You've lost 1 x Femur of a Jurassic Beast
+Sell a Relic of Saint Fiacre
+￼ You've gained 1250 x Bone Fragments
+￼ You've lost 1 x Holy Relic of the Thigh of Saint Fiacre
+#Sell the Femur of a Surface Deer to the Naive Collector
+# obviously not worth it, esp with Broad, Persuasive 200 check
+Sell your Holy Relic to the Bohemian Sculptress
+￼ You've lost 1 x Holy Relic of the Thigh of Saint Fiacre
+￼ You've gained 6 x Preserved Surface Blooms
+Inquire about her willingness to supply a forgery
+￼ You've lost 0.71 x Parabolan Orange-apple
+￼ You've gained 0.71 x Ivory Humerus
+￼ Scandal is increasing… (+0.58 CP)
+Convince her to produce an elaborate forgery
+￼ You've lost 1.83 x Parabolan Orange-apple
+￼ You've lost 457.5 x Bone Fragments
+￼ You've gained 0.61 x Ivory Femur
+￼ Scandal is increasing… (+0.78 CP)
+Sell her a human ribcage
+￼ You've lost 1 x Human Ribcage
+￼ You've gained 30 x Incisive Observation
+Inquire whether she has any spare bones she wants to get rid of
+￼ You've gained 1.4 x Unidentified Thigh Bone
+￼ Scandal is increasing… (+0.6 CP)
+Sell her an Albatross Wing
+￼ You've lost 1 x Albatross Wing
+￼ You've gained 30 x Incisive Observation
+Sell a Holy Relic of Saint Fiacre to the Theologian of the Old School
+￼ You've lost 1 x Holy Relic of the Thigh of Saint Fiacre
+￼ You've gained 6 x Crate of Incorruptible Biscuits
+Suggest he give you an Incorruptible Biscuit or two
+￼ You've gained 0.7 x Crate of Incorruptible Biscuits
+￼ Scandal is increasing… (+0.3 CP)
+# Buy a Sabre-toothed Skull off him
+# see above
+Sell him a Jurassic Thigh Bone
+￼ You've lost 1 x Femur of a Jurassic Beast
+￼ You've gained 10 x Bessemer Steel Ingot
+Sell him Surveys of the Neath's Bones
+￼ You've gained 10 x Final Breath
+￼ You've lost 5 x Survey of the Neath's Bones
+Beg a Rubbery Pie off her
+￼ You've gained 0.75 x Basket of Rubbery Pies
+￼ Scandal is increasing… (+0.5 CP)
+Sell a thorned ribcage to Mrs Plenty
+￼ You've lost 1 x Thorned Ribcage
+￼ You've gained 5 x Basket of Rubbery Pies
+Sell him a nodule of pulsating amber
+￼ You've gained 130 x Nightsoil of the Bazaar
+￼ You've lost 1 x Nodule of Pulsating Amber
+Persuade him to give you a free sample of eoliths
+￼ You've gained 1.5 x Ambiguous Eolith
+￼ Scandal is increasing… (+0.5 CP)
+Sell him some Bazaarine Verse
+￼ You've gained 7 x Nightsoil of the Bazaar
+￼ You've lost 1 x Slim Volume of Bazaarine Poetry
+Sell her a Weasel of Social Discomfiture
+￼ You've lost 1 x Weasel of Social Discomfiture
+￼ You've gained 2 x Moves in the Great Game
+￼ Suspicion is increasing… (+0.3 CP)
+#Sell her an Epaulette Mate
+#￼ You've lost 1 x Epaulette Mate
+#￼ You've gained 0.6 x Tailfeather Brilliant as Flame
+#￼ You've gained 600 x Fistful of Surface Currency
+#￼ You've gained 0.6 x Vital Intelligence
+#￼ Suspicion is increasing… (+0.4 CP)
+Sell her a Possessed Goldfish
+￼ You've gained 2 x Preserved Surface Blooms
+￼ You've gained 1 x Royal-Blue Feather
+￼ You've lost 1 x Possessed Goldfish
+￼ Suspicion is increasing… (+0.3 CP)
+Contribute your insight to a future project
+￼ You've gained 0.7 x Preserved Surface Blooms
+￼ Suspicion is increasing… (+0.3 CP)
+#Sell him a Viric Lizard
+# no, RoUR is gained much better elsewhere
+Sell her a Viric Frock
+￼ You've lost 1 x Viric Frock
+￼ You've gained 10 x First City Coin
+￼ You've gained 450 x Hinterland Scrip
+Contribute some expertise to her next novel
+￼ You've gained 0.7 x First City Coin
+￼ You've gained 2.8 x Hinterland Scrip
+￼ Suspicion is increasing… (+0.3 CP)
+Sell him a Forty-Nine-Voiced Warbler
+￼ You've lost 1 x Forty-Nine-Voiced Warbler
+￼ You've gained 1 x Knob of Scintillack
+￼ You've gained 100 x Nodule of Warm Amber
+￼ Suspicion is increasing… (+0.3 CP)
+Sell him a Viric suit
+￼ You've lost 1 x Viric Suit
+￼ You've gained 460 x Nightsoil of the Bazaar
+Look as innocent as it is possible to look
+￼ Suspicion is dropping… (-1.5 CP)
+￼ Scandal is increasing… (+0.5 CP)
+Build Bi-cranial Crone Crane and sell to Zailor
+# 7 for bones, 1 to declare, 1 to sell
+  Action Cost: 9
+  You've lost 1 x Thorned Ribcage
+  You've lost 1 x Doubled Skull
+  You've lost 1 x Wing of a Young Terror Bird
+  You've lost 1 x Albatross Wing
+  You've lost 2 x Femur of a Jurassic Beast
+  You've lost 1 x Tomb-Lion's Tail
+  # 90% for tail, 90% for skull
+  # pennies: 1250+6250+250+1250+2*300+250=9850
+  # expected ama x anti=17.4
+  You've gained 1010 x Nodule of Warm Amber
+￼ You've gained 17.4 x Knob of Scintillack
+Build Coral-Coiled Cockatrice and sell to Zailor (very optimistic estimate)
+  Action Cost: 9
+  You've lost 1 x Thorned Ribcage
+￼ You've lost 1 x Skull in Coral
+￼ You've lost 1 x Knob of Scintillack
+  You've lost 1 x Tomb-Lion's Tail
+  You've lost 1 x Helical Thighbone
+  You've lost 1 x Femur of a Jurassic Beast
+  You've lost 1 x Wing of a Young Terror Bird
+  You've lost 1 x Albatross Wing
+  #pennies: 1250+1750+300+300+250+1250=5100
+  You've gained 535 x Nodule of Warm Amber
+￼ You've gained 18 x Knob of Scintillack
+Build a Knock-Kneed Newt (Ama+Antiq) and sell to Zailor (very optimistic estimate)
+  Action Cost: 9
+  # 1250:
+  You've lost 1 x Thorned Ribcage
+  # 1250: 
+￼ You've lost 1 x Horned Skull
+  # 4x 300
+￼ You've lost 4 x Helical Thighbone
+  # 300
+  You've lost 1 x Tomb-Lion's Tail
+  # 1250+1250+4*300+300 = 4000
+  You've gained 425 x Nodule of Warm Amber
+￼ You've gained 18 x Knob of Scintillack
+
+Build a Knock-Kneed Newt (Ama+Men) and sell to Rubbery Collector (very optimistic estimate)
+  Action Cost: 9
+  # 1250:
+  You've lost 1 x Thorned Ribcage
+  # 2500: 
+￼ You've lost 1 x Plated Skull
+  # 4x 300
+￼ You've lost 4 x Helical Thighbone
+  # 1250+2500+4*300 = 4950
+￼ You've gained 104 x Nightsoil of the Bazaar
+￼ You've gained 18 x Basket of Rubbery Pies
+
+Build Mr Twists and sell it to the Tentacled Entrepreneur
+  Action Cost: 13
+  # 1250:
+  You've lost 1 x Flourishing Ribcage
+  # 1750:
+  You've lost 1 x Skull in Coral
+  # 250:
+  You've lost 1 x Carved Ball of Stygian Ivory
+  # 2x 150:
+  You've lost 2 x Knotted Humerus
+  # 2x 300:
+  You've lost 2 x Helical Thighbone
+  # 2x 1
+￼ You've lost 2 x Bat Wing
+  # total=4152
+￼ You've gained 88 x Memory of Distant Shores
+￼ You've gained 81 x Final Breath
+
+Build Skeleton, trade for Leviathan Frame
+  Action Cost: 10
+  Card: A Public Lecture
+  You've lost 1 x Skeleton with Seven Necks
+  You've lost 3 x Bright Brass Skull
+  You've lost 1000 x Bone Fragments
+￼ You've lost 20 x Hand-picked Peppercaps
+￼ Nightmares is increasing… (+2 CP)
+￼ You've lost 2 x Bat Wing
+￼ You've gained 1 x Leviathan Frame
+
+Licentiates 7 skull skeleton for Cranial Enthusiast
+  Action Cost: 12
+  You've lost 1 x Choice: Profession: Licentiate
+￼ You've lost 1 x Skeleton with Seven Necks
+￼ You've lost 2 x Bat Wing
+  You've gained 7 x Vital Intelligence
+  

@@ -1,0 +1,35 @@
+Offer a sizeable donation (25E, 10 x Tribute)
+￼ You've gained 10 x Tribute
+￼ You've lost 2500 x Penny
+# I will ignore the offer something of 12.5E (or 12E) sell value for 5 tribute
+#  as they are strictly worse than the cash option (addtional action needed!)
+# Furthermore, I will ignore the option to turn 5 favours into 5 tribute
+#  which will be bad at even 2.5 EPA.
+#
+#Offer an Ode to the Elder Continent (5 x Tribute)
+#￼ You've gained 5 x Tribute
+#￼ You've lost 1 x Copy of your Ode to the Elder Continent
+#Offer a Mountain-sherd (62.5E sell value, 35 x Tribute)
+#￼ You've lost 1 x Mountain-sherd
+#￼ You've gained 35 x Tribute
+# ^^^ no repeatable non-FATE sources
+
+Offer a winsome dispossessed orphan (64.8E, 25 x Tribute)
+￼ You've gained 25 x Tribute
+￼ You've lost 1 x Winsome Dispossessed Orphan
+Enjoy a bubbling hookah with the Minister of Culture
+  Action Cost: 4
+￼ You've lost 20 x Tribute
+￼ You've gained 1 x Night-Whisper
+Enjoy an extended walk through the fungal jungle with the Minister of War
+  Action Cost: 4
+￼ You've lost 20 x Tribute
+￼ You've gained 1 x Primaeval Hint
+Join the Minister of Enigmas for teatime
+  Action Cost: 4
+￼ You've lost 20 x Tribute
+￼ You've gained 1 x Searing Enigma
+Join the Minister of State Affairs for a long afternoon
+  Action Cost: 4
+￼ You've lost 20 x Tribute
+￼ You've gained 5 x Favour in High Places

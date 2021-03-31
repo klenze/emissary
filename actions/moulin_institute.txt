@@ -1,0 +1,214 @@
+# okay, monographs
+# Looks like Begin composing is mostly relevant for the people you want to sell it to.
+# there are some options which increase the value by 2.5E and cost 2.5E in material, which I will ignore.
+#
+# I will assume that one will try to write a monograph with particular direction among tragic, ironic, cautionary
+# to maximize one type of reward.
+#
+# Are exceptional monographs and special rewards worth it?
+# * Will need to spend 3 actions to start, finish, sell monograph (starting adds a net worth of 5E)
+# 12.5E + 5E for 3 actions are not a bad deal.
+#
+# This is only true at mithridacy 12, which is the maximum you can get without ambitions/fate.
+#
+# For simplicity, I will assume that you write an exceptional monograph by 4x main theme gain and one per other theme.
+#  I will further assume that the result will be mostly main theme and neglect the other themes in the payout.
+#  (You might get away with using 5x main theme and relying on the starting theme to provide one of the other themes,
+#    however, this depends on the specific write options, which may or may not eat your theme.)
+Write Cautionary Exceptional Monograph
+  Action Cost: 2
+  You've lost 6800 x Meta: Cautionary Monograph Value
+￼ You've lost 1700 x Meta: Tragic Monograph Value
+￼ You've lost 1700 x Meta: Ironic Monograph Value
+  You've gained 1 x Meta: Cautionary Exceptional Monograph
+Write Tragic Exceptional Monograph
+  Action Cost: 2
+  You've lost 6800 x Meta: Tragic Monograph Value
+￼ You've lost 1700 x Meta: Cautionary Monograph Value
+￼ You've lost 1700 x Meta: Ironic Monograph Value
+  You've gained 1 x Meta: Tragic Exceptional Monograph
+Write Ironic Exceptional Monograph
+  Action Cost: 2
+  You've lost 6800 x Meta: Ironic Monograph Value
+￼ You've lost 1700 x Meta: Cautionary Monograph Value
+￼ You've lost 1700 x Meta: Tragic Monograph Value
+  You've gained 1 x Meta: Ironic Exceptional Monograph
+#
+# Cautionary #########################################
+#
+Examine traces of the First City
+￼ You've gained 1700 x Meta: Cautionary Monograph Value
+￼ You've lost 25 x Trace of the First City
+# Eats Ironic
+#all other Cautionary gains need mithridacy 12 or they might fail, so visit that Wellspring!
+Examine Relics of the Second City
+￼ You've gained 1700 x Meta: Cautionary Monograph Value
+￼ You've lost 80 x Relic of the Second City
+# Eats Tragic
+Examine a Relic of the Fourth City
+￼ You've lost 250 x Relic of the Fourth City
+￼ You've gained 1700 x Meta: Cautionary Monograph Value
+￼ You've lost 80 x Relic of the Second City
+# Eats Tragic
+Read Proscribed Material
+￼ You've gained 1700 x Meta: Cautionary Monograph Value
+￼ You've lost 200 x Proscribed Material
+￼ You've lost 8 x Palimpsest Scrap
+￼ You've lost 80 x Relic of the Second City
+# Eats Tragic
+Examine Khaganian Artefacts
+￼ You've gained 1700 x Meta: Cautionary Monograph Value
+￼ You've lost 125 x Rusted Stirrup
+￼ You've lost 80 x Relic of the Second City
+# Eats Tragic
+
+# Tragic ##############################################
+
+Examine First City Coins
+￼ You've gained 1700 x Meta: Tragic Monograph Value
+￼ You've gained 100 x Meta: Tragic Monograph Value
+￼ You've lost 50 x First City Coin
+# Eats Ironic
+Examine Relics of the Third City
+￼ You've gained 1700 x Meta: Tragic Monograph Value
+￼ You've lost 125 x Relic of the Third City
+# Eats Ironic
+
+# Ironic ###############################################
+
+Examine Viric-tinged Trinkets
+￼ You've gained 1700 x Meta: Ironic Monograph Value
+￼ You've lost 25 x Trace of Viric
+# Eats Tragic
+Describe a Nicatorean Relic
+￼ You've gained 1700 x Meta: Ironic Monograph Value
+￼ You've lost 5 x Nicatorean Relic
+# Eats Cautionary
+Examine Silvered Claws
+￼ You've gained 1700 x Meta: Ironic Monograph Value
+￼ You've lost 125 x Silvered Cat's Claw
+# Eats Cautionary
+(Carefully) Examine an Unlawful Device
+￼ You've gained 1700 x Meta: Ironic Monograph Value
+￼ You've lost 1 x Unlawful Device
+￼ Nightmares is increasing… (+3 CP)
+# Eats Cautionary
+
+#
+# Selling. We assume that the monograph is exceptional, has mostly one theme and is worth 107E. 
+# 
+The Exiled Antiquarian - Exceptional Tragic
+  You've lost 1 x Meta: Tragic Exceptional Monograph
+  You've gained 1 x Parabolan Orange-apple
+￼ You've gained 214 x Memory of Distant Shores
+The Exiled Antiquarian - Exceptional Ironic
+  You've lost 1 x Meta: Ironic Exceptional Monograph
+  You've gained 1 x Parabolan Orange-apple
+￼ You've gained 43 x Unprovenanced Artefact
+The Exiled Antiquarian - Exceptional Cautionary
+  You've lost 1 x Meta: Cautionary Exceptional Monograph
+  You've gained 1 x Parabolan Orange-apple
+￼ You've gained 214 x Final Breath
+
+The Militant Curate  - Exceptional Tragic
+  You've lost 1 x Meta: Tragic Exceptional Monograph
+￼ You've gained 1 x Verse of Counter-Creed
+￼ You've gained 43 x Extraordinary Implication
+The Militant Curate - Exceptional Ironic
+  You've lost 1 x Meta: Ironic Exceptional Monograph
+￼ You've gained 1 x Verse of Counter-Creed
+￼ You've gained 43 x Apostate's Psalm
+The Militant Curate - Exceptional Cautionary
+  You've lost 1 x Meta: Cautionary Exceptional Monograph
+￼ You've gained 1 x Verse of Counter-Creed
+￼ You've gained 1070 x Maniac's Prayer
+
+The Fidgeting Factor - Exceptional Tragic
+  You've lost 1 x Meta: Tragic Exceptional Monograph
+￼ You've gained 1 x Bazaar Permit
+￼ You've gained 43 x Thirsty Bombazine Scrap
+The Fidgeting Factor - Exceptional Ironic
+  You've lost 1 x Meta: Ironic Exceptional Monograph
+￼ You've gained 1 x Bazaar Permit
+￼ You've gained 214 x Hinterland Scrip
+The Fidgeting Factor - Exceptional Cautionary
+  You've lost 1 x Meta: Cautionary Exceptional Monograph
+￼ You've gained 1 x Bazaar Permit
+￼ You've gained 214 x Nightsoil of the Bazaar
+
+The Charismatic Tracklayer - Exceptional Tragic
+  Action Cost: 2
+  You've lost 1 x Meta: Tragic Exceptional Monograph
+￼ You've lost 1 x Corrective Historical Narrative
+￼ You've gained 1 x Blackmail Material
+￼ You've gained 43 x Mourning Candle
+￼ You've gained 1 x Favours: Revolutionaries (up to 7)
+The Charismatic Tracklayer - Exceptional Ironic
+  Action Cost: 2
+  You've lost 1 x Meta: Ironic Exceptional Monograph
+￼ You've lost 1 x Corrective Historical Narrative
+￼ You've gained 1 x Blackmail Material
+￼ You've gained 214 x Tale of Terror!!
+￼ You've gained 1 x Favours: Revolutionaries (up to 7)
+The Charismatic Tracklayer - Exceptional Cautionary
+  Action Cost: 2
+  You've lost 1 x Meta: Cautionary Exceptional Monograph
+￼ You've lost 1 x Corrective Historical Narrative
+￼ You've gained 1 x Blackmail Material
+￼ You've gained 43 x Thirsty Bombazine Scrap
+￼ You've gained 1 x Favours: Revolutionaries (up to 7)
+
+The Diabolical Propagandist - Exceptional Tragic
+  You've lost 1 x Meta: Tragic Exceptional Monograph
+  You've gained 1 x Silent Soul
+  You've gained 268 x Infernal Contract
+The Diabolical Propagandist - Exceptional Ironic
+  You've lost 1 x Meta: Ironic Exceptional Monograph
+  You've gained 1 x Silent Soul
+￼ You've gained 214 x Brilliant Soul
+The Diabolical Propagandist - Exceptional Cautionary
+  You've lost 1 x Meta: Cautionary Exceptional Monograph
+  You've gained 1 x Silent Soul
+￼ You've gained 43 x Muscaria Brandy
+
+The Wistful Stoker - Exceptional Tragic
+  You've lost 1 x Meta: Tragic Exceptional Monograph
+  You've gained 1 x Crystallised Euphoria
+￼ You've gained 10700 x Bone Fragments
+The Wistful Stoker - Exceptional Ironic
+  You've lost 1 x Meta: Ironic Exceptional Monograph
+  You've gained 1 x Crystallised Euphoria
+  You've gained 43 x Slim Volume of Bazaarine Poetry
+The Wistful Stoker - Exceptional Cautionary
+  You've lost 1 x Meta: Cautionary Exceptional Monograph
+  You've gained 1 x Crystallised Euphoria
+￼ You've gained 43 x Volume of Collated Research
+
+The Disgraced Diplomat - Exceptional Tragic
+  You've lost 1 x Meta: Tragic Exceptional Monograph
+￼ You've gained 1 x Bottle of Greyfields 1882
+￼ You've gained 1 x Vital Intelligence
+￼ You've gained 43 x Knob of Scintillack
+The Disgraced Diplomat - Exceptional Ironic
+  You've lost 1 x Meta: Ironic Exceptional Monograph
+￼ You've gained 1 x Bottle of Greyfields 1882
+￼ You've gained 1 x Vital Intelligence
+￼ You've gained 214 x Moves in the Great Game
+The Disgraced Diplomat - Exceptional Cautionary
+  You've lost 1 x Meta: Cautionary Exceptional Monograph
+￼ You've gained 1 x Bottle of Greyfields 1882
+￼ You've gained 1 x Vital Intelligence
+￼ You've gained 214 x Ambiguous Eolith
+
+The Genteel Elder - Exceptional Tragic
+  You've lost 1 x Meta: Tragic Exceptional Monograph
+￼ You've gained 1 x Magnificent Diamond
+￼ You've gained 43 x Presbyterate Passphrase
+The Genteel Elder - Exceptional Ironic
+  You've lost 1 x Meta: Ironic Exceptional Monograph
+￼ You've gained 1 x Magnificent Diamond
+￼ You've gained 214 x Solacefruit
+The Genteel Elder - Exceptional Cautionary
+  You've lost 1 x Meta: Cautionary Exceptional Monograph
+￼ You've gained 1 x Magnificent Diamond
+￼ You've gained 214 x Royal-Blue Feather

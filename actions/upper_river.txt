@@ -1,0 +1,121 @@
+Travel by railway
+￼ You've gained 1 x Rumours of the Upper River
+# Cards: General upper river ################################################
+Buy already-picked mushrooms with Nightsoil
+  Card: A Disillusioned Fungiculturalist
+￼ You've gained 15 x Hand-picked Peppercaps
+￼ You've lost 10 x Nightsoil of the Bazaar
+Help bring in his crop
+  Card: A Disillusioned Fungiculturalist
+￼ You've gained 5 x Hand-picked Peppercaps
+Inquire about a 'special harvest'
+  Card: A Disillusioned Fungiculturalist
+￼ You've lost 1 x Favours: Criminals
+￼ You've gained 4 x Knob of Scintillack
+￼ Seeing Banditry in the Upper River is increasing… (+2 CP)
+# A Jurisdictional Dispute -> gain 1 favor church, persuade 200 check
+Let him offer a train tour to (Hinterland Location)
+  Card: A Tomb-Colonist Tour
+￼ You've gained 155 x Moon-pearl
+￼ You've gained 155 x Silk Scrap
+# An Alteration: not handled for now
+# An Unattended Mirror: just a shortcut compared to the train
+# Take a river barge back to London : transport only
+# Hide on a barge back to London : transport + suspicion -3 CP
+Trade Zee-Ztories with the Gondoliers
+  Card: Canal Workers on the Upper River
+￼ You've lost 1 x Zee-Ztory
+￼ You've gained 2.25 x Fin Bones, Collected
+￼ You've gained 0.25 x Deep-zee Catch
+￼ You've gained 0.5 x Withered Tentacle
+Assist an out-of-work Gondolier
+  Card: Canal Workers on the Upper River
+￼ You've lost 1 x Favours: The Docks
+￼ You've gained 10 x Certifiable Scrap
+Ply them with lager and see what they'll share
+  Card: Canal Workers on the Upper River
+￼ You've lost 2 x Magisterial Lager
+￼ Investigating... is increasing… (+ 36 to 45 CP)
+Smuggle unlicensed souls up the river
+# needs lots of banditry for skill check 100%
+  Card: Engage in Some Minor Smuggling
+￼ You've lost 50 x Soul
+￼ You've gained 2 x Preserved Surface Blooms
+￼ Seeing Banditry in the Upper River is increasing… (+1 CP)
+Smuggle unlicensed Brilliant Souls up the river
+  Card: Engage in Some Minor Smuggling
+￼ You've lost 10 x Brilliant Soul
+￼ You've gained 20 x Nevercold Brass Sliver
+￼ You've gained 3 x Preserved Surface Blooms
+￼ Seeing Banditry in the Upper River is increasing… (+1 CP)
+Offer a well-packed keg of scintillack snuff
+  Card: Engage in Some Minor Smuggling
+￼ You've gained 7 x Preserved Surface Blooms
+￼ You've lost 1 x Consignment of Scintillack Snuff
+￼ Seeing Banditry in the Upper River is increasing… (+1 CP)
+Offer a supply of Jasmine Leaves
+  Card: Engage in Some Minor Smuggling
+￼ You've gained 3 x Preserved Surface Blooms
+￼ You've lost 40 x Jasmine Leaves
+￼ Seeing Banditry in the Upper River is increasing… (+1 CP)
+# Make a study of the local smuggling rings -> irrelevant
+Sell all your Jasmine Leaves via the contacts of the Gracious Widow
+  Card: Engage in Some Minor Smuggling
+# asymptotically does not take an action
+  Action Cost: 0
+￼ You've gained 13 x Jade Fragment
+￼ You've lost 1 x Jasmine Leaves
+Smuggle in industrial materials
+  Card: Engage in Some Minor Smuggling
+￼ You've gained 130 x Bessemer Steel Ingot
+￼ You've lost 24 x Preserved Surface Blooms
+# Find a quiet corner to eat your (dish) -> later, perhaps
+# God's Editors at Burrow-Infra-Mump -> gain some materials plus favs, ignored for now
+Sell an Infernal Machine to Devils
+  Card: Halfway to Hell
+  You've lost 1 x Infernal Machine
+￼ You've gained 6600 x Nevercold Brass Sliver
+# no identities yet
+Sell Perfumed Gunpowder to Liberationist Revolutionaries
+  Card: Which meeting?
+￼ You've lost 4 x Perfumed Gunpowder
+￼ You've gained 1 x Vital Intelligence
+￼ You've gained 1-3 x Well-Placed Pawn
+Sell valuable propaganda to the Veteran Revolutionary, an anti-Liberationist
+  Card: Which meeting?
+￼ You've lost 1 x Corrective Historical Narrative
+￼ You've gained 1-3 x Forged Justificande Coin
+￼ You've gained 1-3 x Justificande Coin
+# Cards: Ealing Garden
+Visit the Factories of the Tentacled Entrepreneur as an invited guest
+  Card: Rubbery Observances
+￼ You've gained 250 x Whispered Hint
+Time the appearances of Hillchanger Tower
+  Card: Constellations
+￼ You've gained 1 x Extraordinary Implication
+￼ You've gained 3-10 x Whispered Hint
+Map the constellations
+# with darkness 7
+  Card: Constellations
+￼ You've gained 5 x Map Scrap
+￼ You've gained 210 x Whispered Hint
+Search around back
+  Card: Ministry Enforcement
+￼ You've gained 15 x Nodule of Warm Amber
+￼ You've gained 100 x Nodule of Deep Amber
+Offer your defensive escort
+  Card: Upper River Artistry
+# 75%
+￼ You've gained 1.125 x An Estimable Trophy
+￼ You've gained 225 x Piece of Rostygold
+￼ Wounds is increasing… (+0.75 CP)
+# Rising Reports of Banditry # assuming you use with banditry=8, e.g. 28 CP. will drop to banditry=3, e.g. 6 CP
+Ticket sales are going down
+￼ In Corporate Debt is increasing… (+4-6 CP)
+￼ Seeing Banditry in the Upper River is dropping… (-22 CP)
+Your reputation is tarnished
+￼ Scandal is increasing… (+12 CP)
+￼ Seeing Banditry in the Upper River is dropping… (-22 CP)
+GHR warehouses are being targeted
+￼ You've lost 4 x Railway Steel
+￼ Seeing Banditry in the Upper River is dropping… (-22 CP)

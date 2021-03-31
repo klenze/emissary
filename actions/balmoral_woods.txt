@@ -1,0 +1,100 @@
+
+# Woods.
+Flatter the Ghillie into extending your visit
+￼ You've gained 4 x Time Remaining in the Woods
+￼ You've lost 1 x Vital Intelligence
+Compel the Ghillie to extend your visit
+￼ You've lost 4 x Volume of Collated Research
+# actually 5, but the recipes below assume time remaining
+# being a multiple of 4, and we can't cash in the last point easily
+￼ You've gained 4 x Time Remaining in the Woods
+Enter the woods + Find Grouse + Report
+# name                 action cost   time remaining cost  scent
+# Enter                1
+# Keep to the fringes  1             1
+# 5x Wander the woods  5             5                    10
+# Track down the ...   1             1 (or all)
+# report               1             0
+# will forfeit one point of time remaining
+# midnighters can instead go for Wander the glades
+# instead for +5 moonlit and +1 overall action
+  Action Cost: 9
+  You've lost 8 x Time Remaining in the Woods
+  You've gained 1 x Skeleton with Seven Necks
+Enter the woods + Find Red Deer + Report (with 8 time)
+# name                 action cost   time remaining cost  scent
+# Enter                1
+# Keep to the glades   1             1
+# Darken the wood      1             0 (per wiki?!)       10
+# 6x Wander t. glades  6             6                    ca. 11.4
+# Locate the source    1             1 (or all)
+# report               1
+# assuming the player wants to spend all time remaining
+# collecting Moonlit. Given that each Moonlit substitues for 6.25 E
+# worth of painting materials, this seems to be a good investment
+  Action Cost: 11
+￼ You've gained 7 x Moonlit
+￼ You've lost 5 x Thirsty Bombazine Scrap
+￼ You've gained 1 x Mammoth Ribcage
+￼ You've gained 2 x Holy Relic of the Thigh of Saint Fiacre
+  You've lost 8 x Time Remaining in the Woods
+Enter the woods + Find Red Deer + Report (with 12 time)
+# Enter                1
+# Keep to the glades   1             1
+# 10x Wander          10            10               ca. 19 scent
+# Locate the source    1             1 (or all)
+# report               1
+  Action Cost: 14
+  You've gained 10 x Moonlit
+￼ You've gained 1 x Mammoth Ribcage
+￼ You've gained 2 x Holy Relic of the Thigh of Saint Fiacre
+  You've lost 12 x Time Remaining in the Woods
+Enter the woods + Wander glades + adept to luck
+# name                 action cost   time remaining cost
+# Enter                1
+# Keep to the glades   1             1
+# 5x Wander t. glades  5             5
+# if all 5 are successes (pow(0.9,5)\approx 0.59, pick up grouse in
+# the fringes.        (2             2)
+# Otherwise           (0.31)
+# Darken the wood      1             0 
+# Wander t. glades     1             1
+# Locate the source    1             1 
+# Report               1
+  Action Cost: 10.31
+  You've gained 5.62 x Moonlit
+# 0.39 chance:
+￼ You've lost 1.55 x Thirsty Bombazine Scrap
+￼ You've gained 0.31 x Mammoth Ribcage
+￼ You've gained 0.62 x Holy Relic of the Thigh of Saint Fiacre
+# 0.59 chance
+  You've gained 1 x Skeleton with Seven Necks
+  You've lost 8 x Time Remaining in the Woods
+Enter the woods + Wander the glades + try for the fox
+# name                 action cost   time remaining    moonlit
+# Enter                1
+# Keep to the glades   1             1
+# 6x Wander t. glades  6             6                 +6
+# if all 6 are successes (pow(0.9,6)\approx 0.53, go to balmoral as before
+# and catch the fox   (2             1                 -5)
+# otherwise, darken the wood and catch the deer
+# Darken the wood      1             0                 +1
+# Locate the source    1             1
+# Report               1
+  Action Cost: 11
+  You've gained 3.82 x Moonlit
+# 0.53: fox
+  You've gained 0.53 x Doubled Skull
+￼ You've gained 0.53 x Thorned Ribcage
+# 0.47: red deer
+￼ You've gained 0.47 x Mammoth Ribcage
+￼ You've gained 0.94 x Holy Relic of the Thigh of Saint Fiacre
+￼ You've lost 2.35 x Thirsty Bombazine Scrap
+  You've lost 8 x Time Remaining in the Woods
+# if one uses at least one vital int for time remaining (to 9 instead of
+# 8), one of the wander the glades can fail, fox probability is 0.85 then
+Intercept a shipment
+  You've gained 1 x Preserved Surface Blooms
+Help yourself to some venison bones
+￼ You've gained 25 x Femur of a Surface Deer
+# Export the Skeleton of a Neathy Bird #TODO

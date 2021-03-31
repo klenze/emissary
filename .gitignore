@@ -1,0 +1,11 @@
+*~
+*.pyc
+__pychache__
+.~*
+*.aux
+*.log
+*.out
+\#*
+.#*
+_gen_*.py
+output/

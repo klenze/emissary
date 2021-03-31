@@ -1,0 +1,9 @@
+Fallen London is © Failbetter Games 2010–2021. Any item, quality, card and action or category names and any other in-game texts belong to them. Also, the gain and loss texts for both items and change points. I emailed them and they said they were ok with this project. If you are nice about it and do not violate https://fallenlondon.fandom.com/wiki/Editing_Guidelines, they will probably allow other forks of this project as well. Of course, they are free to change their mind about that, just sent me a mail. 
+
+To the extend to which they are not covered by FBG's copyright, anything in the actions, lists and categories directories, is based on the wiki at fallenlondon.wiki (formerly fallenlondon.fandom.com), where it is licensed under CC-BY-SA. This covers the presentation of ranges of outputs, change point stats and comment notes such as "(Mostly Luminosity, at least 4)". Thus, these files are also under CC-BY-SA to the extend it is not under FBG's copyright. Lists of wiki contributors for both wikis are available in wiki_contributors*.txt.
+
+The python code, to the extend that it is does not consist of in-game names or a description of game mechanics is created by me. I hereby release that code under the GNU GPL 3 (or, at your option, any latter). 
+
+I make no claims on the outputs of these python scripts (including actions/gen_*.txt), but naturally, they also contain copyrighted FBG material.
+
+The other top level text files (TODO.txt, Limitation.txt etc) as well as anything in docs/ are written by me. To the extend that they do not contain verbatim FBG material, you can use them either under CC-BY-SA or GPL 3 (or any latter, should the FSF release another version).

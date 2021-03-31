@@ -1,0 +1,127 @@
+Create a lot of Perfumed Gunpowder
+￼ You've lost 1 x Preserved Surface Blooms
+￼ You've lost 40 x Nightsoil of the Bazaar
+￼ You've gained 10 x Perfumed Gunpowder
+Make tracks
+￼ You've gained 4 x Railway Steel
+￼ You've lost 90 x Bessemer Steel Ingot
+￼ You've lost 1 x Justificande Coin
+Make a lot of tracks
+￼ You've lost 345 x Bessemer Steel Ingot
+￼ You've lost 3 x Justificande Coin
+￼ You've gained 15 x Railway Steel
+Create a double consignment of Scintillack Snuff
+￼ You've lost 1 x Preserved Surface Blooms
+￼ You've lost 8 x Knob of Scintillack
+￼ You've gained 2 x Consignment of Scintillack Snuff
+# Generic Research
+Work with your expert student
+# Somewhat averaged outcome
+  You've gained 22 x Laboratory Research
+￼ Disgruntlement among the Students is increasing… (+0.5 CP)
+Employ the Reflection of Hephaesta
+￼ You've gained 30 x Parabolan Research
+  You've lost 1 x Choice: Completed Ambition: Light Fingers!
+Employ a Cloud of Thoughts That Will Not Settle Down
+￼ You've gained 14 x Parabolan Research
+# Disgruntlement among the Students
+# Card: Student Complaints
+Persuade them that this is in their own interest
+# 0.8 * (-2) + 0.2*(+1)
+￼ Disgruntlement among the Students is dropping… (-1.4 CP?)
+Offer bribes
+￼ You've lost 2 x Solacefruit
+￼ Disgruntlement among the Students is dropping… (-1 CP?)
+Offer extensive bribes
+￼ You've lost 1 x Sausage About Which No One Complains
+￼ Disgruntlement among the Students is dropping… (-5 CP)
+# Card: Student Fury
+Allow them a publication
+# worst case
+￼ Disgruntlement among the Students is dropping… (-7 CP)
+￼ You've lost 200 x Laboratory Research
+￼ Scandal is increasing… (+1 CP)
+Take On, Train + Graduate your Shifty Student
+  Action Cost: 6
+￼ You've lost 100 x Laboratory Research
+￼ You've lost 4 x Incisive Observation
+￼ Disgruntlement among the Students is dropping… (-21 CP)
+￼ You've gained 1 x Knob of Scintillack
+Take On, Train + Graduate your Meticulous Student
+  Action Cost: 6
+￼ You've lost 100 x Laboratory Research
+￼ You've lost 4 x Memory of Distant Shores
+￼ Disgruntlement among the Students is dropping… (-21 CP)
+￼ You've gained 1 x Carved Ball of Stygian Ivory
+Take On, Train + Graduate your Gifted Student
+  Action Cost: 6
+￼ You've lost 100 x Laboratory Research
+￼ You've lost 4 x Memory of Light
+￼ Disgruntlement among the Students is dropping… (-21 CP)
+￼ You've gained 1 x Favours: Society (up to 7)
+￼ You've gained 1 x Slim Volume of Bazaarine Poetry
+Take On, Train + Graduate your Profound Student
+  Action Cost: 6
+￼ You've lost 100 x Laboratory Research
+￼ You've lost 4 x Bottle of Strangling Willow Absinthe
+￼ Disgruntlement among the Students is dropping… (-21 CP)
+￼ You've gained 8 x Nightsoil of the Bazaar
+Take On, Train + Graduate your Visionary Student
+  Action Cost: 6
+￼ You've lost 100 x Laboratory Research
+￼ You've lost 4 x Scrap of Incendiary Gossip
+￼ Disgruntlement among the Students is dropping… (-21 CP)
+￼ You've gained 1 x Bottle of Broken Giant 1844
+￼ You've gained 1 x Rumours of the Upper River
+Take On, Train (2x), Collaborate with and Graduate your Visionary Student
+# We boost the student to lvl 3 with 50 research.
+# Afterwards, we miss out on 5 research per Collaborate action
+# compared to a maxed out student
+# Assuming the rare success is 50%, that is another 20 research missed
+# for two level-ups
+  Action Cost: 4
+￼ You've lost 50 x Laboratory Research
+￼ You've lost 2 x Scrap of Incendiary Gossip
+￼ Disgruntlement among the Students is dropping… (-21 CP)
+￼ You've gained 1 x Bottle of Broken Giant 1844
+￼ You've gained 1 x Rumours of the Upper River
+Complete your Hoard
+# TODO: Hephaesta (24-26 research w. visionary). A 10% improvement, perhaps?
+￼ You've gained 1 x Cartographer's Hoard
+￼ You've lost 2700 x Laboratory Research
+#
+# For most projects, it is not possible to generate Parabolan Research in the lab
+# We thus increase the action cost to 3 for these. (Travel to Parabola or some statue)
+How much research and how much dream?
+  Action Cost: 3
+￼ You've lost 120 x Laboratory Research
+￼ You've lost 5 x Parabolan Research
+￼ You've gained 5 x Glass Gazette
+Finish your Machine of Industry
+￼ You've lost 500 x Laboratory Research
+￼ You've gained 1 x Infernal Machine
+￼ You've lost 250 x Nevercold Brass Sliver
+￼ You've lost 5 x Bessemer Steel Ingot
+Complete your Hunting Rifle
+￼ You've lost 125 x Laboratory Research
+￼ You've gained 1 x Ancient Hunting Rifle
+Disguise your Ancient Hunting Rifle as a valuable antique
+￼ You've lost 1850 x Laboratory Research
+￼ You've gained 1 x Infernal Sharpshooter's Rifle
+Finish your study of the Thorned Ribcage
+  Action Cost: 3
+￼ You've lost 350 x Laboratory Research
+￼ You've lost 15 x Parabolan Research
+￼ You've gained 1 x Searing Enigma
+￼ You've lost 1 x Thorned Ribcage
+# Surveys - See bones
+# Animals - See bones
+Dissect the Pinewood Shark + Turn attention to its Skeleton
+  You've gained 2 x Incisive Observation
+￼ You've gained 38 x Fin Bones, Collected
+￼ You've gained 500 x Bone Fragments
+￼ You've lost 1 x Remains of a Pinewood Shark
+￼ You've lost 125 x Laboratory Research
+Conclude your study of Attar
+￼ You've lost 450 x Laboratory Research
+￼ You've gained 1 x Night-Whisper

@@ -1,0 +1,147 @@
+Cross conversion waves grind
+  Making Waves is increasing… (+1.6 CP)
+￼ You've gained 50 x Penny
+Helicon House Waves Grind
+  Action Cost: 5
+  Making Waves is increasing… (+16 CP)
+Helicon House Waves Grind with Solancefruit
+  Action Cost: 6
+  Making Waves is increasing… (+16 CP)
+￼ You've gained 4 x Solacefruit
+￼ You've gained 25 x Hand-picked Peppercaps
+Helicon House Waves Grind with Biscuits
+  Action Cost: 6
+  Making Waves is increasing… (+16 CP)
+￼ You've gained 4 x Crate of Incorruptible Biscuits
+￼ You've gained 5 x Pot of Venison Marrow
+An Unorthodox Arrangement
+  Card: The High Castle: What Occurs in a Rooftop Shack
+  You've lost 1 x Favour in High Places
+￼ Making Waves is increasing… (+1–30 CP)
+￼ You've lost 1 x Favours: Society
+Invite guests from the observatory to a symposium
+# approx p=0.5 at ASotC 10
+  Card: The Sleepless Tower: Disturbances at a Cottage by the Observatory
+￼ You've lost 0.5 x Searing Enigma
+￼ Making Waves is increasing… (+32.5 CP)
+￼ Nightmares is increasing… (+0.5 CP)
+￼ Wounds is increasing… (+2.75 CP)
+A Masque in the Marshes
+# assuming you have more fingerwork than you can spend
+  Card: The Heron Tower: Events at a Lair in the Marshes
+  Making Waves is increasing… (+64-75 CP)
+￼ You've lost 1 x Parabola-Linen Scrap
+Bring the celebration home
+  Card: The Tower of Sparrows: Vice and Virtue in a Gambling Den
+  You've lost 1 x Night on the Town
+￼ Making Waves is increasing… (+11-70 CP)
+￼ You've lost 799 x Penny
+￼ You've gained 1 x Favours: Bohemians (up to 7)
+￼ Scandal is increasing… (+1-5 CP)
+￼ You've gained 1 x Confident Smile (up to 21)
+￼ You've lost 2 x Bottle of Strangling Willow Absinthe
+￼ You've lost 12 x Bottle of Greyfields 1879
+Ambush Smugglers
+  Card: The Tower of Knives: Difficulties at a Smoky Flophouse
+￼ You've lost 1 x Strong-Backed Labour
+￼ Making Waves is increasing… (12 CP)
+￼ You've lost 3 x Favours: The Docks
+￼ You've gained 750 x Bottle of Greyfields 1879
+An Evening of Wine and Souls
+  Card: The Western Tower: a Guest Room at the Brass Embassy
+￼ You've lost 1 x Portfolio of Souls
+￼ You've lost 1 x Bottle of Fourth City Airag: Year of the Tortoise
+￼ Making Waves is increasing… (+ 121-180 CP)
+￼ You've lost 2 x Amanita Sherry
+￼ You've lost 2 x Bottle of Muscaria Brandy
+￼ You've gained 1 x Favours: Hell (up to 7)
+Dinner in your Room
+  Card: The Tower of Sun and Moon: a Reservation at the Royal Bethlehem Hotel
+￼ Scandal is increasing… (+1 CP)
+￼ Making Waves is increasing… (+ 51-90 CP (random))
+￼ Nightmares is dropping… (-1 CP)
+￼ You've gained 1 x Appalling Secret
+￼ You've lost 1 x Bejewelled Lens
+
+Pursue a Scheme: encourage the great and the good to attend your Salon
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ You've lost 1 x Favour in High Places
+￼ Engaged in a Scheme: a Salon is increasing… (+ 5-7 CP)
+￼ You've lost 3 x Favours: Society
+Pursue a Scheme: encourage the wise and the wicked to attend your Salon
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ You've lost 3 x Favours: Bohemians
+￼ You've lost 4 x Stolen Kiss
+￼ Engaged in a Scheme: a Salon is increasing… (+ 2-11 CP)
+Your Salon: invite the Duchess as a guest of honour
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ You've lost 1 x Midnight Matriarch
+￼ Engaged in a Scheme: a Salon is dropping… (-65 CP)
+￼ Making Waves is increasing… (+850 CP)
+￼ You've gained 1 x Intriguing Snippet
+￼ You've gained 1 x Favour in High Places
+Your Salon: invite the Mercies as guests of honour
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+# assume that you have ten or more EiaS:aS
+￼ Making Waves is increasing… (+150 CP)
+￼ You've gained 1 x Tale of Terror!!
+￼ Engaged in a Scheme: a Salon is dropping… (-15 CP)
+Your Salon: invite the Sardonic Music-Hall Singer as a guest of honour
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+  Action Cost: 2
+￼ Engaged in a Scheme: a Salon is dropping… (-15 CP)
+￼ You've gained 1 x Memory of Light
+￼ You've gained 1 x Scrap of Incendiary Gossip
+￼ Making Waves is increasing… (+ 121-180 CP)
+Your Salon: invite the Repentant Forger as a guest of honour
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ Making Waves is increasing… (+ 130 CP)
+￼ Engaged in a Scheme: a Salon is dropping… (-12.2 CP)
+￼ Scandal is increasing… (+0.2 CP)
+Your Salon: invite Silas the Showman as a guest of honour
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ Making Waves is increasing… (+ 124 CP)
+￼ Engaged in a Scheme: a Salon is dropping… (-12 CP)
+￼ You've gained 1 x Intriguing Snippet
+￼ You've gained 50 x Cryptic Clue
+Your Salon: invite a Presbyterate Diplomat as a guest of honour
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ Engaged in a Scheme: a Salon is dropping… (-28 CP)
+￼ Making Waves is increasing… (+ 201-360 CP)
+￼ You've gained 3 x Mystery of the Elder Continent
+# skipping social actions
+Look after your Orphanage
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ You've gained 0-2 x Rat on a String
+￼ Engaged in a Scheme: an Orphanage is increasing… (+ 4-9 CP)
+￼ You've lost 5 x F.F. Gebrandt's Tincture of Vigour
+￼ You've lost 5 x Sober Dress
+￼ You've lost 5 x Set of Workman's Clothes
+￼ You've lost 5000 x Penny
+￼ You've lost 250 x Foxfire Candle Stub
+Pursue a Scheme: Admit your Winsome Orphan to the Orphanage
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ Engaged in a Scheme: an Orphanage is increasing… (+ 1-12 CP)
+￼ You've lost 1 x Winsome Dispossessed Orphan
+￼ You've lost 1000 x Penny
+Pursue a Scheme: offer some Urchins a place in your Orphanage
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ Engaged in a Scheme: an Orphanage is increasing… (+ 4-8 CP)
+￼ You've lost 3000 x Penny
+￼ You've lost 5 x Favours: Urchins
+Pursue a Scheme: Introduce your Warm-Hearted Amber Iguana as a Pet
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ Engaged in a Scheme: an Orphanage is increasing… (+3–10 CP)
+￼ You've lost 4000 x Penny
+Scheme: Graduation
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ Making Waves is increasing… (+ 101-200 CP)
+￼ Engaged in a Scheme: an Orphanage is dropping… (-15 CP)
+￼ You've gained 1 x Favours: Criminals (up to 7)
+Scheme: Reunite a Dispossessed Orphan with loving parents
+  Card: The Tower of Eyes: Behind Closed Doors at a Handsome Townhouse
+￼ Engaged in a Scheme: an Orphanage is dropping… (-15 CP)
+￼ Making Waves is increasing… (+ 101-200 CP)
+￼ You've gained 1 x Mystery of the Elder Continent
+# again, skipping social
+#Engineer an invitation -> see main

@@ -1,0 +1,152 @@
+Result of running ./emissary.py -g 'Hinterland Scrip' -v --max 10 -C
+initializing...
+No source for 'CP: Fascinating...'
+(We assume that any cards can be drawn indefinitely at will, including favour grinding cards like connected pets.)
+Listing methods of grinding for {'Hinterland Scrip': 1}.
+0.10 actions (10.00 Hinterland Scrip per action) with 'Bring in a tomb-colonist tour':
+     Note: This grind uses Card: Balmoral in (light level).
+  *  0.1000000 Bring in a tomb-colonist tour
+
+0.10 actions (10.00 Hinterland Scrip per action) with 'Watch a parade':
+     Note: This grind uses Favours: The Docks grind cards.
+     0.0681818 Gain Favours: The Docks by some card
+     0.0636364 Sell at Upper River: Vienna Opening
+     0.0272727 Sell at Upper River: Vital Intelligence
+  *  0.0136364 Watch a parade
+     0.0090909 Charter a barge to the Fiddler's Scarlet + Leave the barge
+
+0.10 actions (9.68 Hinterland Scrip per action) with 'Ambush a courier':
+     0.1150442 Sell at Upper River: Moves in the Great Game
+     0.0353982 Sell at Upper River: Vital Intelligence
+     0.0227560 Parabola: Find weakness
+  *  0.0176991 Ambush a courier
+
+0.10 actions (9.68 Hinterland Scrip per action) with 'Return to the City of Roses':
+     Note: This grind uses Card: A Dream of Roses.
+     1.0000000 Sell at Upper River: Nightsoil of the Bazaar
+     0.0615385 Sell at Bazaar: Favour in High Places
+  *  0.0311795 Return to the City of Roses
+     0.0308278 Become a serpent-tender in exchange for Attar
+     0.0076923 Sell him a nodule of pulsating amber
+     0.0076923 Buy at Bazaar: Nodule of Pulsating Amber
+     0.0006154 Gift your Attar in tribute to the Roseate Queen (Rare Success)
+
+0.12 actions (8.57 Hinterland Scrip per action) with 'Sell a Holy Relic of Saint Fiacre to the Theologian of the Old School':
+     Note: This grind uses Favours: The Church grind cards.
+     Note: This grind uses Card: Under the Statue at Jericho Locks.
+     Note: This grind uses Choice: Jericho Locks Statue: Bishop of St Fiacre's.
+     0.2000000 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0666667 Gain Favours: The Church by some card
+  *  0.0333333 Sell a Holy Relic of Saint Fiacre to the Theologian of the Old School
+     0.0166667 Call in favours from the Church (Statue to the Bishop of Saint Fiacre's)
+
+0.12 actions (8.38 Hinterland Scrip per action) with 'Write Ironic Exceptional Monograph':
+     Note: This grind uses Favours: Rubbery Men grind cards.
+     Note: This grind uses Card: They all look the same to me.
+     Note: This grind uses Card: A Gift from the Capering Relicker.
+     0.7951760 Sell at Upper River: Moves in the Great Game
+     0.1762475 Sell at Bazaar: Relic of the Fourth City
+     0.1397907 Sell at Bazaar: Bone Fragments
+     0.0249874 Sell at Upper River: Ambiguous Eolith
+     0.0133751 Sell at Upper River: Nightsoil of the Bazaar
+     0.0096144 Examine Silvered Claws
+     0.0054606 Drink the medicine they bring
+     0.0045492 Sell at Upper River: Vital Intelligence
+     0.0044577 Examine Viric-tinged Trinkets
+     0.0039138 Sell at Bazaar: Bottle of Greyfields 1882
+  *  0.0037158 Write Ironic Exceptional Monograph
+     0.0037158 The Disgraced Diplomat - Exceptional Ironic
+     0.0034948 Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return
+     0.0028193 Examine First City Coins
+     0.0022031 Examine Relics of the Second City
+     0.0021390 Account for what remains (Parabolan artefacts)
+     0.0021204 Examine traces of the First City
+     0.0017474 Sell at Upper River: Unlawful Device
+     0.0016331 Serve up the (dish)
+     0.0014826 Sell at Upper River: Vienna Opening
+     0.0014100 Examine Relics of the Third City
+     0.0013558 Account for what remains (Falling Cities)
+     0.0012708 Gain Favours: Rubbery Men by some card
+     0.0010484 Describe a Nicatorean Relic
+     0.0006354 Finger the guilty party
+     0.0003177 Provide news from London
+     0.0002118 Charter a barge to the Fiddler's Scarlet + Leave the barge
+     0.0001407 Write Tragic Exceptional Monograph
+     0.0001168 Write Cautionary Exceptional Monograph
+     0.0001168 The Disgraced Diplomat - Exceptional Cautionary
+     0.0001029 Sell him a nodule of pulsating amber
+     0.0001029 Buy at Bazaar: Nodule of Pulsating Amber
+     0.0000813 The Disgraced Diplomat - Exceptional Tragic
+     0.0000635 Raw material
+     0.0000594 The Exiled Antiquarian - Exceptional Tragic
+     0.0000297 Concoct a Tapenade of Parabolan Orange-Apple and Concentrate of Self  (for sale)
+
+0.12 actions (8.38 Hinterland Scrip per action) with 'Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return':
+     Note: This grind uses Favours: Rubbery Men grind cards.
+     Note: This grind uses Card: They all look the same to me.
+     Note: This grind uses Card: A Gift from the Capering Relicker.
+     0.4466758 Sell at Upper River: Ambiguous Eolith
+     0.4142449 Sell at Bazaar: Relic of the Fourth City
+     0.1411252 Sell at Bazaar: Bone Fragments
+     0.0718386 Sell at Upper River: Knob of Scintillack
+     0.0288604 Sell at Upper River: Nightsoil of the Bazaar
+     0.0110254 Sneak away from your wounds
+     0.0056893 Examine First City Coins
+     0.0051781 Examine Relics of the Second City
+     0.0049837 Examine traces of the First City
+     0.0044815 Sell at Upper River: Vital Intelligence
+     0.0038400 Sell at Bazaar: Bottle of Greyfields 1882
+  *  0.0035281 Moulin: Expedition with Navigator and Claw to distance 8, Dig, 2x lesser find, return
+     0.0033140 Examine Relics of the Third City
+     0.0031865 Account for what remains (Falling Cities)
+     0.0021295 Examine Silvered Claws
+     0.0020873 Write Cautionary Exceptional Monograph
+     0.0020873 The Disgraced Diplomat - Exceptional Cautionary
+     0.0018127 Write Tragic Exceptional Monograph
+     0.0017641 Sell at Upper River: Unlawful Device
+     0.0017527 The Disgraced Diplomat - Exceptional Tragic
+     0.0016487 Serve up the (dish)
+     0.0014968 Sell at Upper River: Vienna Opening
+     0.0012830 Gain Favours: Rubbery Men by some card
+     0.0010584 Describe a Nicatorean Relic
+     0.0007120 Examine Viric-tinged Trinkets
+     0.0006415 Finger the guilty party
+     0.0003416 Account for what remains (Parabolan artefacts)
+     0.0003207 Provide news from London
+     0.0002220 Sell him a nodule of pulsating amber
+     0.0002220 Buy at Bazaar: Nodule of Pulsating Amber
+     0.0002138 Charter a barge to the Fiddler's Scarlet + Leave the barge
+     0.0000641 Raw material
+     0.0000600 The Exiled Antiquarian - Exceptional Tragic
+     0.0000300 Concoct a Tapenade of Parabolan Orange-Apple and Concentrate of Self  (for sale)
+
+0.13 actions (7.91 Hinterland Scrip per action) with 'Inquire about a 'special harvest'':
+     Note: This grind uses Favours: Criminals grind cards.
+     Note: This grind uses Card: A Disillusioned Fungiculturalist.
+     0.2000000 Sell at Upper River: Knob of Scintillack
+     0.0500000 Gain Favours: Criminals by some card
+  *  0.0500000 Inquire about a 'special harvest'
+     0.0109091 Inform London's tastemakers of your friend's virtues
+     0.0045455 Your reputation is tarnished
+
+0.13 actions (7.63 Hinterland Scrip per action) with 'Sell all your Jasmine Leaves via the contacts of the Gracious Widow':
+     Note: This grind uses Card: Engage in Some Minor Smuggling.
+     7.5335950 Sell at Bazaar: Jade Fragment
+  *  0.5795073 Sell all your Jasmine Leaves via the contacts of the Gracious Widow
+     0.4532950 Sell at Upper River: Nightsoil of the Bazaar
+     0.1093410 Sell at Upper River: Crate of Incorruptible Biscuits
+     0.0281163 Parabola: Find weakness
+     0.0218682 Burgle a Public House
+     0.0218682 Sell at Bazaar: Nodule of Trembling Amber
+     0.0034869 Sell him a nodule of pulsating amber
+     0.0034869 Buy at Bazaar: Nodule of Pulsating Amber
+
+0.13 actions (7.50 Hinterland Scrip per action) with 'Lend cautiously':
+     Note: This grind uses Favours: Revolutionaries grind cards.
+     Note: This grind uses Choice: Ealing Garden Statue: Jovial Contrarian.
+     Note: This grind uses Card: Under the Statue (Ealing Gardens).
+     1.0000000 Sell at Upper River: Nightsoil of the Bazaar
+  *  0.0666667 Lend cautiously
+     0.0533333 Gain Favours: Revolutionaries by some card
+     0.0133333 Call in favours from Revolutionaries (Statue to the Jovial Contrarian)
+

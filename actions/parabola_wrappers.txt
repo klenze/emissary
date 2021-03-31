@@ -1,0 +1,85 @@
+Parabola (Wrapper): Hunt warbler
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Hunt warbler
+  You've gained 1 x Seven-Throated Warbler
+Parabola (Wrapper): Search Nest of warbler
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Search Nest of warbler
+  You've gained 1 x Hillmover
+Parabola (Wrapper): Hunt albatross
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Hunt albatross
+  You've gained 1 x Focused Albatross
+# no such action:
+#Parabola (Wrapper): Search Nest of albatross
+#  Action Cost: 0
+#  You've lost 1.00 x Meta: Parabola: Search Nest of albatross
+Parabola (Wrapper): Hunt storm-bird
+  Action Cost: 0
+  You've lost 1 x Meta: Parabola: Hunt storm-bird
+￼ You've gained 1 x Storm-bird  
+Parabola (Wrapper): Search Nest of storm-bird
+# ignoring airs 95+ here
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Search Nest of storm-bird
+￼ You've gained 2.5 x Bessemer Steel Ingot
+￼ You've gained 0.5 x Whirring Contraption
+Parabola (Wrapper): Hunt terror_bird
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Hunt terror_bird
+￼ You've gained 1 x Direful Reflection
+Parabola (Wrapper): Search Nest of terror_bird
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Search Nest of terror_bird
+  You've gained 1 x Thorned Ribcage
+Parabola (Wrapper) Hunt auroch
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Hunt auroch
+￼ You've gained 1 x A Memory of Discordance
+# no option:
+#Parabola (Wrapper): Search Nest of auroch
+#  Action Cost: 0
+#  You've lost 1.00 x Meta: Parabola: Search Nest of auroch
+Parabola (Wrapper): Hunt bear
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Hunt bear
+￼ You've gained 1 x Honey-Mazed Bear
+  You've lost 1 x Meta: Seeking a Honey-Mazed Bear
+#no such action:
+#Parabola (Wrapper): Search Nest of bear
+#  Action Cost: 0
+#  You've lost 1.00 x Meta: Parabola: Search Nest of bear
+Parabola (Wrapper): Hunt shark
+  Action Cost: 0
+  You've lost 1 x Meta: Parabola: Hunt shark
+￼ You've gained 2 x Fin Bones, Collected
+￼ You've gained 1 x Remains of a Pinewood Shark
+￼ You've gained 1 x Favours: The Docks
+￼ You've gained 6 x An Estimable Trophy
+￼ You've gained 1 x Memento of Violence
+# no such action:
+#Parabola (Wrapper): Search Nest of shark
+#  Action Cost: 0
+#  You've lost 1.00 x Meta: Parabola: Search Nest of shark
+Parabola (Wrapper): Find iron_warehouse
+  Action Cost: 0
+  You've lost 1.0 x Meta: Parabola: Find iron_warehouse
+  You've lost 15 x An Identity Uncovered!
+￼ You've gained 100 x Bessemer Steel Ingot
+Parabola (Wrapper): Find townhouse
+  Action Cost: 0
+  You've lost 1 x Meta: Parabola: Find townhouse
+ ￼You've gained 1 x A Deviless' Address
+Parabola (Wrapper): Find weakness
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Find weakness
+￼ Casing... is increasing… (+28 CP)
+Parabola (Wrapper): Find evidence
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Find evidence
+￼ Disappearing... is increasing… (+30 CP)
+Parabola (Wrapper): Find hiding_place
+  Action Cost: 0
+  You've lost 1.00 x Meta: Parabola: Find hiding_place
+￼ You've gained 1 x Hiding Place of a Peculiar Item
+￼ You've lost 1 x Flask of Waswood Wellspring Water

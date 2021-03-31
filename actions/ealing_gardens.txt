@@ -1,0 +1,57 @@
+#Ealing Gardens
+# Sponsor a Palaeontological Dig, Cloning: see bones.txt
+Attend for a treatment
+#assuming 50/50, use action cost to save divisions
+  Action Cost: 2
+￼ You've gained 1-2 x Brilliant Soul
+￼ You've gained 100 x Soul
+￼ You've gained 5-7 x Compromising Document
+Buy a supply of Venison Marrow
+￼ You've lost 5 x Femur of a Surface Deer
+￼ You've gained 5 x Pot of Venison Marrow
+Buy the Sausage About Which No One Complains
+￼ You've lost 1000 x Rat on a String
+￼ You've gained 1 x Sausage About Which No One Complains
+# Helicon House: see helicon.txt
+# Passenger Area options
+Doze
+￼ You've lost 1 x Choice: Ealing Station Space: Lounge
+￼ Nightmares is dropping… (-1-2 CP)
+Sell Pies for the Company
+￼ In Corporate Debt is dropping… (-3 CP)
+￼ You've lost 5 x Basket of Rubbery Pies
+￼ You've lost 1 x Choice: Ealing Station Space: Shop
+Sell Pies for yourself
+￼ You've lost 5 x Basket of Rubbery Pies
+￼ You've gained 31 - 33 x Hinterland Scrip
+Lead Evensong
+￼ You've lost 1 x Choice: Ealing Station Space: Chapel
+￼ Scandal is dropping… (-2-3 CP)
+Have your wounds seen
+￼ Wounds is dropping… (-1-2 CP)
+￼ You've lost 1 x Choice: Ealing Station Space: Clinic
+Forge convincingly
+  Suspicion is dropping… (-2-3 CP)
+￼ You've lost 1 x Choice: Ealing Station Space: Notary
+Offer your services
+￼ You've lost 1 x Choice: Ealing Station Space: Notary
+￼ You've lost 1 x Choice: Profession: Notary
+￼ Suspicion is dropping… (-1-2 CP)
+￼ You've gained 1-3 x Hinterland Scrip
+Restore the Honey-Mazed Bear to his rightful owners
+# ealing garden does not have a mirror?
+# Two actions of conventional traffic, 2 through mirror
+  Action Cost: 5
+￼ You've lost 1 x Honey-Mazed Bear
+￼ You've gained 1 x Favours: Urchins (up to 7)
+￼ You've gained 500 x Drop of Prisoner's Honey
+￼ You've gained 50 x Jasmine Leaves
+￼ You've gained 5 x An Estimable Trophy
+#
+# Cards:
+#
+Promise to retrieve the Honey-Mazed Bear again
+  Card: The Bear, Again
+  You've gained 1 x Rumours of the Upper River
+# not literally true, e.g. does not stack:
+  You've gained 1 x Meta: Seeking a Honey-Mazed Bear

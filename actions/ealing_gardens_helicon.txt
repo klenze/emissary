@@ -1,0 +1,72 @@
+# options are given as a block, as the code is to stupid to deal with gains of
+# both fitting in and time remaining. 
+# Gain entry as an old friend to the Bohemians
+# General Action 0:
+# Fitting in at Helicon House is strictly speaking not gained, but *set to*
+# ￼ You've gained 2 x Fitting in at Helicon House
+#￼ You've gained 5 x Time Remaining at Helicon House
+#￼ You've gained 5 x Romantic Notion
+# (companion picking is action cost 0, side effects are ignored here.)
+# Gain Fitting In:
+# Make polite conversation with a railway passenger
+# probably not 100% unless your Renown: Bohemians is very high
+#￼ You've lost 1 x Time Remaining at Helicon House
+#￼ You've gained 1 x Fitting in at Helicon House
+# See what gossip you can get out of the Shopkeeper in Viric
+#  as well as night painter, enterpreneur, dean, scupltress:
+#  even harder check, minimal inspired gain, limited on Airs of London (!)
+#
+# Block options:
+Helicon House: Entrance + Join in with a Rubbery Euphonium + Accept a commission
+  Action Cost: 3
+  You've gained 5 x Romantic Notion
+￼ Inspired... is dropping… (-300 CP)
+￼ You've gained 63 x Hinterland Scrip
+￼ You've gained 312 x Nodule of Warm Amber
+#￼ You've gained 1 x Painter of Fine Art
+Helicon House: Entrance + Join in with a Rubbery Euphonium + Attract a companion for the rest of the evening
+  Action Cost: 3
+￼ Fascinating... is dropping… (-210 CP)
+￼ Nightmares is dropping… (-5 CP)
+￼ You've gained 1 x Favour in High Places
+￼ You've gained 1 x Blackmail Material
+￼ You've gained 375 x Cryptic Clue
+￼ You've gained 15 x Extraordinary Implication
+Helicon House: Entrance + Join in with a Rubbery Euphonium + Agree to do a bit of modeling
+  Action Cost: 3
+￼ You've gained 20 x Hinterland Scrip
+  You've gained 2 x Bottle of Strangling Willow Absinthe
+Helicon House: Entrance [Soothing Palaeontologist] + Lay claim to any left-behind items
+  Action Cost: 2
+￼ You've gained 25 x Hinterland Scrip
+￼ You've gained 1-20 x Drop of Prisoner's Honey
+￼ You've gained 1-50 x Moon-pearl
+￼ Casing... is dropping… (-15 CP)
+# non-exit actions which do not change the fitting in much, and can be grinded:
+Sell off a few Glass Gazettes
+  Action Cost: 1.2
+￼ You've lost 5 x Glass Gazette
+￼ You've gained 29 x Hinterland Scrip
+Draw tentacles from the cauldron
+  Action Cost: 1.2
+￼ You've lost 5 x Nodule of Warm Amber
+￼ You've gained 3 x Withered Tentacle
+Convert your fin-bones into something more impressive
+  Action Cost: 1.2
+￼ You've lost 10 x Fin Bones, Collected
+￼ You've gained 1 x Amber-Crusted Fin
+Create a Flourishing Ribcage
+  Action Cost: 1.2
+￼ You've gained 0.9 x Flourishing Ribcage
+￼ You've lost 0.9 x Human Ribcage
+￼ You've lost 0.9 x Thorned Ribcage
+￼ Wounds is increasing… (+0.2 CP)
+Create a Ribcage with a Bouquet of Eight Spines
+# assuming 50% success rate, not that it matters given the reactant costs
+  Action Cost: 2.4
+￼ You've gained 1 x Ribcage with a Bouquet of Eight Spines
+￼ You've lost 1 x Thorned Ribcage
+￼ You've lost 1 x Skeleton with Seven Necks
+￼ You've lost 3 x Nodule of Trembling Amber
+￼ You've lost 3 x Searing Enigma
+￼ Wounds is increasing… (+3 CP)

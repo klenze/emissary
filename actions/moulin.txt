@@ -1,0 +1,40 @@
+Catch up with the Wayward Historian
+￼ You've lost 1 x Bottle of Broken Giant 1844
+￼ You've gained 15 x Appalling Secret
+￼ You've gained 1 x Extraordinary Implication
+Browse the stacks
+￼ You've lost 300 x Soul
+￼ You've gained 40 x Proscribed Material
+￼ You've gained 4 x Journal of Infamy
+￼ You've gained 4 x Palimpsest Scrap
+￼ You've gained 1 x Volume of Collated Research
+Acquire a collection of books
+￼ You've lost 1 x Uncanny Incunabulum
+￼ You've lost 1 x Verse of Counter-Creed
+￼ You've lost 1 x Puzzling Map
+￼ You've lost 1 x Vital Intelligence
+￼ You've lost 1 x Cave-Aged Code of Honour
+￼ You've gained 1 x Chimerical Archive
+Purchase the wax-sealed box on the counter
+￼ You've gained 1 x Breath of the Void
+￼ You've lost 1 x Legenda Cosmogone
+￼ You've lost 1 x Edicts of the First City
+￼ You've lost 1 x Cartographer's Hoard
+￼ You've lost 1 x Dreadful Surmise
+￼ You've lost 1 x Coruscating Soul
+Compose a Corrective Historical Narrative
+# at mithridacy 10: p=0.8
+￼ You've lost 3.2 x An Identity Uncovered!
+￼ You've lost 0.8 x Incisive Observation
+￼ You've gained 0.8 x Corrective Historical Narrative
+￼ Nightmares is increasing… (+0.2 CP)
+Manufacture a Revisionist Historical Narrative
+￼ You've lost 4 x Nicatorean Relic
+￼ You've lost 1 x Incisive Observation
+￼ You've gained 1 x Revisionist Historical Narrative
+
+#Cards #################################################
+Engage in a spot of larceny
+  Card: Moulin in Gaslight
+￼ You've gained 1 x Justificande Coin
+￼ You've gained 6 x First City Coin

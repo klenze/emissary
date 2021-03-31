@@ -1,0 +1,91 @@
+#Jericho Locks ##############################################
+Sell Unprovenanced Artefacts
+￼ You've lost 5 x Unprovenanced Artefact
+￼ You've gained 32 x Hinterland Scrip
+Sell Unearthly Fossils
+￼ You've lost 5 x Unearthly Fossil
+￼ You've gained 32 x Hinterland Scrip
+Sell an Infernal Sharpshooter's Rifle
+￼ You've lost 1 x Infernal Sharpshooter's Rifle
+￼ You've gained 448 x Hinterland Scrip
+Lend cautiously
+￼ You've gained 15 x Nightsoil of the Bazaar
+￼ You've lost 125 x Proscribed Material
+Lend extensively
+￼ You've lost 2 x Corrective Historical Narrative
+￼ You've lost 3 x Revisionist Historical Narrative
+￼ You've gained 1 x Night-Whisper
+# Gain Esteem:
+Engage in a public debate
+￼ You've gained 2 x Esteem of the Guild
+￼ You've lost 10 x Volume of Collated Research
+Watch a parade
+￼ You've lost 5 x Favours: The Docks
+￼ You've gained 2 x Esteem of the Guild
+Swap tales with the locals
+# about 66%
+  Action Cost: 1.5
+￼ You've lost 1 x Night on the Town
+￼ You've lost 45 x Scrap of Incendiary Gossip
+￼ You've gained 2 x Esteem of the Guild
+  Scandal is increasing… (+1 CP)
+Provide news from London
+￼ You've lost 40 x Memory of Distant Shores
+￼ You've lost 2 x Sworn Statement
+￼ You've gained 2 x Esteem of the Guild
+Furnish the Saturnine Gondolier with intelligence
+￼ You've gained 2 x Esteem of the Guild
+￼ You've lost 6 x Partial Map
+￼ You've lost 4 x An Identity Uncovered!
+Charter a barge to the Fiddler's Scarlet + Leave the barge
+  Action Cost: 2
+￼ You've lost 3 x Esteem of the Guild
+￼ You've gained 2-4 x Vital Intelligence
+￼ You've gained 5-9 x Vienna Opening
+Charter a barge to the Persephone + Leave the barge
+  Action Cost: 2
+￼ You've lost 3 x Esteem of the Guild
+￼ You've gained 50 x Moonlight Scales
+￼ You've gained 5 x Fin Bones, Collected
+￼ You've gained 1-2 x Skull in Coral
+￼ You've gained 1-11 x Unprovenanced Artefact
+Charter a barge to the Eversmoulder + Leave the barge
+  Action Cost: 2
+￼ You've lost 6 x Esteem of the Guild
+￼ You've gained 17-25 x Moves in the Great Game
+￼ You've gained 1 x Primaeval Hint
+￼ You've gained 2-3 x Uncanny Incunabulum
+Charter a barge to the Octagonal Tomb + Leave the barge
+  Action Cost: 2
+￼ You've lost 6 x Esteem of the Guild
+￼ You've gained 1 x Night-Whisper
+￼ You've gained 15-20 x Tale of Terror!!
+￼ You've gained 15 x Final Breath
+￼ You've gained 2 x Human Ribcage
+Charter a barge to the Cedarwood + Leave the barge
+  Action Cost: 2
+￼ You've lost 6 x Esteem of the Guild
+￼ You've gained 1 x Bright Brass Skull
+￼ You've gained 1-10 x Extraordinary Implication
+￼ You've gained 2-3 x Verse of Counter-Creed
+# Cards: Jericho Locks ####################################################
+Dredge the bottom of the river at low tide
+  Card: Dredge the river
+  You've gained 1 x Femur of a Jurassic Beast
+￼ You've gained 1 x Unidentified Thigh Bone
+Net whatever is in the river
+  Card: Dredge the river
+￼ You've gained 0.5 x Deep-zee Catch
+￼ You've gained 0.5 x Carved Ball of Stygian Ivory
+￼ You've gained 1 x Withered Tentacle
+Dig a little distance from the river (Jericho Locks)
+  Card: Dredge the river
+￼ You've lost 2 x Survey of the Neath's Bones
+￼ You've gained 10 x Relic of the Second City
+￼ You've gained 1 x Unprovenanced Artefact
+Adopt a pair of Winsome Dispossessed Orphans
+# gain tiger fodder
+  Card: Indulge in Illicit Charity
+￼ You've gained 2 x Winsome Dispossessed Orphan
+￼ You've lost 20 x Basket of Rubbery Pies
+￼ You've lost 1 x Tinned Ham
