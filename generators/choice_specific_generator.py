@@ -17,6 +17,12 @@ import generators
 import sys
 from  char import *
 choices_options={
+    # see actions/antisocial.txt
+    "Antisocial":["Alt Oppressor",           # willing to dupe alts, etc
+                  "Correspondant Oppressor", # a correspondant alt provides a steady stream of flame-proof missives
+                  "Multi Alt Oppressor",     # have multiple alts sending you names in Gant
+                  "Mass Alt Oppressor"],     # have armies of alts constantly send you Surprise Packages
+    
     "Profession":["Licentiate",
                   "Correspondent",
                   "Monster-Hunter",

@@ -10,25 +10,25 @@ Return to the City of Roses
 # Near Arbor (Temple)
 Labour in the temple
 # for A:PtL==7
-￼ You've gained 7 x Attar
-￼ You've lost 7 x Arbor: Permission to Linger
+#￼ You've gained 7 x Attar
+#￼ You've lost 7 x Arbor: Permission to Linger
 Offer your Attar to the Temple
 ￼ You've gained 4 x Presbyterate Passphrase
   You've lost 4 x Attar
 
 # Near Arbor (North)
-Visit London's Embassy
-￼ You've lost 1 x Arbor: Permission to Linger
-￼ You've gained 2 x Attar
-￼ You've lost 2 x Sworn Statement
+#Visit London's Embassy
+#￼ You've lost 1 x Arbor: Permission to Linger
+#￼ You've gained 2 x Attar
+#￼ You've lost 2 x Sworn Statement
 Spy on London's Embassy
 ￼ You've gained 2 x Extraordinary Implication
 ￼ You've lost 1 x Arbor: Permission to Linger
 
 # Near Arbor (Centre)
-Explore the Gatehouse Market
-￼ You've gained 2 x Attar
-￼ You've lost 1 x Arbor: Permission to Linger
+#Explore the Gatehouse Market
+#￼ You've gained 2 x Attar
+#￼ You've lost 1 x Arbor: Permission to Linger
 # Leave Arbor early # ignored because it seems to be a bad deal
 
 #Near Arbor (South)
@@ -43,10 +43,10 @@ Barter your Attar
 ￼ You've lost 1 x Arbor: Permission to Linger
 ￼ You've gained 4 x Sworn Statement
   You've lost 4 x Attar
-Become a serpent-tender in exchange for Attar
+#Become a serpent-tender in exchange for Attar
 # for A:PtL==7
-￼ You've gained 7 x Attar
-￼ You've lost 7 x Arbor: Permission to Linger
+#￼ You've gained 7 x Attar
+#￼ You've lost 7 x Arbor: Permission to Linger
 
 # Far Arbor (Temple)
 #While away your time -> pointless?

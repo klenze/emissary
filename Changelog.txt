@@ -1,1 +1,8 @@
+Version 0.1.1:
+  bug fixes (all found by 34Witches):
+  * Fixed action Examine a Relic of the Fourth City
+  * Disabled any Attar grinds in Near Arbor, which depends on Attar being low
+  Web interface code (work in progress, do not host yet)
+  --force-action option added
+  "anti"-social actions, configurable in char.py
 Version 0.1: Initial release

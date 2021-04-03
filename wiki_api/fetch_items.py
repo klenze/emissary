@@ -7,10 +7,6 @@ sys.path+=[".", "./sim/"]
 import requests, re
 from time import sleep
 
-#
-# API call based on js get request sent by
-# https://fallenlondon.fandom.com/wiki/Special:ListUsers
-
 url="https://fallenlondon.wiki/w/api.php"
 
 params={"action":"query",

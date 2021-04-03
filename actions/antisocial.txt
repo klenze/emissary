@@ -1,0 +1,122 @@
+# Social actions which damage one party (probably an alt)
+# We are just counting the action cost of benificiary.
+
+Allow them to bandage you (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ Wounds is dropping… (-4 CP)
+￼ You've gained 1 x Hard-Earned Lesson
+Drink the medicine they bring (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ Wounds is dropping… (-6 CP)
+
+Write to the newspaper about your acquaintance's virtue (Alt, dupe, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ Scandal is dropping… (-6 CP)
+
+Hide vital evidence from the case (Alt, dupe, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ Suspicion is dropping… (-6 CP)
+￼ Making Waves is increasing… (+1 CP)
+
+Talk through your troubles with them (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ Nightmares is dropping… (-4 CP)
+￼ You've gained 1 x Sudden Insight
+Allow them to watch over your rest (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ Nightmares is dropping… (-6 CP)
+
+Blackmail your target (Alt, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ You've gained 150 x Penny
+￼ You've gained 2 x Hastily Scrawled Warning Note
+Learn Shadowy lessons from your surveillance (Alt, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ You've gained 3 x Hastily Scrawled Warning Note
+
+# Caligula's
+
+# Spread gossip about a rival: see social
+
+Arrange a stabbing, Fight him off (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ You've lost 1 x Slighted!
+￼ Making Waves is increasing… (+15-25 CP)
+￼ You've gained 0.8 x Nodule of Trembling Amber
+￼ You've gained 0.8 x Memento of Violence
+# TODO: how much wounds, actually? Assuming 5 on fail (p=0.2)
+￼ You've gained 10 x Surface-Silk Scrap
+￼ Wounds is increasing… (+1 CP)
+#TODO: Does the difficulty scale like the other two?
+Arrange a stabbing, Shift your organs out of the way (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ You've lost 1 x Slighted!
+￼ Making Waves is increasing… (+15-25 CP)
+￼ You've gained 0.6 x Ivory Humerus
+￼ You've gained 200 x Bone Fragments
+￼ Wounds is increasing… (+2.4 CP)
+Arrange a shooting, Climb up to the Flit and face him head-on (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ You've lost 1 x Slighted!
+￼ Making Waves is increasing… (+11 CP)
+# p=0.8 for 211+50 Dangerous
+￼ You've gained 0.8 x Puzzle-Damask Scrap
+￼ You've gained 0.8 x Memento of Violence
+￼ Wounds is increasing… (+0.8 CP)
+
+Arrange a shooting, Fortunately, you have made arrangements (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ You've lost 1 x Slighted!
+￼ Making Waves is increasing… (+11 CP)
+# p=0.6 for APoC 8
+￼ You've gained 0.6 x Favour in High Places
+￼ You've gained 0.4 x Ancient Hunting Rifle
+￼ Wounds is increasing… (+1.6 CP)
+
+Arrange a poisoning, Pretend to drink (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ You've lost 1 x Slighted!
+￼ Making Waves is increasing… (15-25 CP)
+# Wiki: Challenge difficulty is 0.8 × ￼ Base Shadowy
+# This goes to 0.6/0.8=0.75 for no items
+# my main char should (211+66 Shadowy) should get p=0.985, so I won't
+# bother with the failure option.
+￼ You've gained 1 x Magnificent Diamond
+
+Arrange a poisoning, Drink up. Metabolize the poison. (Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+￼ You've lost 1 x Slighted!
+￼ Making Waves is increasing… (15-25 CP)
+￼ You've gained 0.5 x Blackmail Material
+￼ Wounds is increasing… (+1.5 CP)
+￼ You've gained 10 x Whisper-Satin Scrap
+
+# Assuming you have an alt (or more than one)
+# willing to send you any letters you want.
+
+Compose a letter to spread the Good Word, send it (Alt, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+  Action Cost: 0
+￼ You've gained 1 x Godly Missive
+Compose advice for an investigation, send it (Alt, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+  Action Cost: 0
+  You've gained 1 x Bundle of Investigation Notes
+Compose a poem, send it (Alt, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: any
+  Action Cost: 0
+￼ You've gained 1 x Poetic Missive
+Write down a name in Gant, send it (Alt, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: Multi Alt Oppressor
+  Action Cost: 0 
+￼ You've lost 1 x Choice: Profession: Licentiate
+￼ You've gained 1 x Name Written in Gant
+Compile notes on the Correspondence, send it (Correspondent Alt, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: Correspondant Oppressor
+  Action Cost: 0 
+￼ You've gained 1 x Flame-proof Missive
+
+The gift of the unexpected (Alt, Choice: Antisocial)
+￼ You've lost 1 x Choice: Antisocial: Mass Alt Oppressor
+  Action Cost: 1
+￼ You've gained 1 x A Surprise Package

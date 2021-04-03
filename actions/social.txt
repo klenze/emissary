@@ -270,3 +270,20 @@ For the Counter-Church
 ￼ You've gained 1088 x Soul
 # For a grand scheme
 # -> Just ... no.
+
+The gift of the unexpected
+  Card: Give a Gift! A commotion in the Square of Lofty Words
+  Action Cost: 2
+￼ You've lost 1000 x Penny
+￼ You've gained 1 x A Surprise Package
+
+Open a Surprise Package
+  You've gained 1 x Meta: Opening a Bundle of Oddities 1-1000
+  You've lost 1 x A Surprise Package
+
+"I myself am my only true friend!"
+  Card: Give a Gift! A commotion in the Square of Lofty Words
+￼ You've gained 1 x Hastily Scrawled Warning Note
+￼ You've gained 1 x Sudden Insight
+￼ You've gained 1 x Hard-Earned Lesson
+￼ You've gained 1 x Confident Smile

@@ -48,7 +48,6 @@ Examine Relics of the Second City
 Examine a Relic of the Fourth City
 ￼ You've lost 250 x Relic of the Fourth City
 ￼ You've gained 1700 x Meta: Cautionary Monograph Value
-￼ You've lost 80 x Relic of the Second City
 # Eats Tragic
 Read Proscribed Material
 ￼ You've gained 1700 x Meta: Cautionary Monograph Value

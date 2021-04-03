@@ -18,7 +18,7 @@ def read_all_categories():
 
 
 class action:
-    def __init__(self, name, changes={}, actioncost=1, card=None, fav=False, file=None, line=None, is_buy=False):
+    def __init__(self, name, changes={}, actioncost=1, card=None, fav=False, file=None, line=None):
         self.card=card
         self.fav=fav
         self.msg=None
@@ -26,7 +26,7 @@ class action:
         self.name=name
         self.file=file
         self.line=line
-        self.is_buy=is_buy
+        self.on_wiki=False
         if type(changes)!=dict:
             raise Exception("Legacy call detected!")
         self.changes=dict(changes) # WTF: default argument is reused between calls, so we have to copy it.
@@ -172,13 +172,23 @@ def read_actions(fname, actions, item2category, cards):
             traceback.print_exc()
             exit(-1)
 
+def mark_wiki_actions(actions):
+    f=open("lists/_gen_linkable_actions.txt")
+    for l in f:
+        l=l.strip()
+        if l.startswith("#"):
+            continue
+        actions[l].on_wiki=True
+
 def read_all_actions(actions, item2category, cards):
     for f in filter(lambda f:f.endswith(".txt") and not f.startswith("."),
                     os.listdir("actions")):
         read_actions("actions/"+f, actions, item2category, cards)
-    
+    mark_wiki_actions(actions)
+
 def items_from_actions(actions, cards, item2category):
     """returns a set of all items mentioned in actions. also creates actions to gain favours."""
+    os.makedirs("output", exist_ok=True)
     f=open("output/item_warnings.txt", "w")
     items={}
     for a in actions.values():

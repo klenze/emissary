@@ -1,0 +1,3 @@
+Dummy action to define additional items:
+  You've gained 1 x Meta: Force
+  You've lost 1 x Meta: Impossible

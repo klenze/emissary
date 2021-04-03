@@ -1,10 +1,17 @@
 from parsing import action
+from output import *
 
 import numpy as np
+np.seterr(invalid="ignore", # 0./0.
+          divide="ignore")  #  x/0.
+float64=np.float64
+np.set_printoptions(precision=3) # for my numpy, this does not work on float64s outside arrays.
+
 from scipy.optimize import linprog
 from copy import deepcopy
 import operator
 from functools import reduce
+
 np.set_printoptions(precision=3)
 
 def filter_actions_items(actions, items, min_gains={}, allow_cards=True,
@@ -154,7 +161,7 @@ def optimize(selected_actions, selected_items, min_gains, eps=1e-5, background={
     myres.net_action_cost  = res.fun    # with rebate from background
     myres.gross_action_cost= c0 @ res.x # without rebate from background
     return myres
-# The solver did not provide a solution nor did it report a failure.
+
 def run(actions, items, min_gains, **kwargs):
     print("========================================")
     print("Running with min_gains=%s"%min_gains)
@@ -169,14 +176,6 @@ def run(actions, items, min_gains, **kwargs):
     print("actioncost=%s"%res.net_action_cost)
     print(res.result.message)
 
-
-
-def print_details(res, key_action="", skip=0):
-    for a,c in res.actions.items():
-        if a.startswith("Parabola (Wrapper)") or a.startswith("Convert:")\
-           or a.startswith("Get Choice:"):
-            continue
-        print("%s  %c  %2.7f %s"%(skip*" ",[" ", "*"][int(a==key_action)],c, a))
 
 def pos_gains(min_gains):
     """
@@ -194,15 +193,8 @@ def pos_gains(min_gains):
             pass
     return min_gains_pos,iname,amount
 
-def warn_constraints(res, dontwarn=None, skip=5):
-    for l in res.losses.keys():
-        if l==dontwarn:
-            continue
-        if l.startswith("Card:") or l.startswith("Choice"):
-            l=l.replace("Card: Meta: ", "")
-            print("%sNote: This grind uses %s."%(skip*" ",l))
 
-def best_grinds(actions, items, min_gains, num_grinds, max_actions=None, verbose=False, debug=False, background={}):
+def best_grinds(actions, items, min_gains, num_grinds, max_actions=None, background={}):
     """
     Find the best grinds for item given as wanted argument
     After we figure out the best grind, we remove the key action of that grind, and see what is now best. 
@@ -217,15 +209,18 @@ def best_grinds(actions, items, min_gains, num_grinds, max_actions=None, verbose
     # The following are considered preparatory actions not central to the grind (for Scrip/Echo grinds)
     keep_prefixes=["Sell at ", "Buy at ", "Parabola: Find","Parabola (Wrapper)",
                    "Wander the", "Paint with Moonlight", "Mount the beast and lead a raid",
-                   "Provide news from London", "Examine ",
+                   "Provide news from London", "Watch a parade",
+                   "Examine ", "Sell her a human ribcage", 
                    "Drink the medicine they bring", "Sneak away from your wounds",
                    "Convert Opening a Bundle",
-                   "Burly guards and porters", "Hire Strong-backed Labour", "Rumours of treasure",
+                   "Burly guards and porters", "Hire Strong-backed Labour", "Recruit Clay Man labour",
+                   "Rumours of treasure",
                    "Seek out the music of dreams",
                    "Serve up the",
                    "Work with your expert student",
                    "Flatter the Ghillie", "Compel",
-                   "Convert","Gain Favours:"]
+                   "Convert","Gain Favours:", "Get Choice:",
+                   "Do a heist"]
     for i in range(num_grinds):
         sel_actions, sel_items=filter_actions_items(actions, items, blocked_actions=blocked_actions)
         res=optimize(sel_actions, sel_items, min_gains=min_gains, eps=1e-7, background=background)
@@ -244,7 +239,6 @@ def best_grinds(actions, items, min_gains, num_grinds, max_actions=None, verbose
         if len(key_action)==0:
             print("Could not identify key action! Dumping all actions used")
             key_action="__invalid__"
-            verbose=1
         else:
             key_action=key_action[0][0]
         if min_action_cost==None:
@@ -256,11 +250,10 @@ def best_grinds(actions, items, min_gains, num_grinds, max_actions=None, verbose
             break
         ipa=""
         if iname!=None:
-            ipa="(%0.2f %s per action) "%(amount/res.net_action_cost,iname)
-        print("%3.2f actions %swith '%s':"%(res.net_action_cost, ipa, key_action))
+            ipa="(%0.2f %s per action) "%(amount/np.float64(res.net_action_cost),iname)
+        print("%3.2f actions %swith '%s':"%(res.net_action_cost, ipa, link_action(key_action)))
         warn_constraints(res)
-        if verbose:
-            print_details(res, key_action)
+        print_details(res, key_action,force=key_action=="__invalid__")
         blocked_actions.add(key_action)
         if key_action=="__invalid__":
             print("I do not know which action to remove. Giving up.")
@@ -268,7 +261,7 @@ def best_grinds(actions, items, min_gains, num_grinds, max_actions=None, verbose
         print()
     return min_action_cost, best_key_action
         
-def best_card_grinds(actions, items, cards, min_gains, print_all=False, verbose=False, debug=False, favours=False, background={}):
+def best_card_grinds(actions, items, cards, min_gains, print_all=False, background={}):
     min_gains_pos, iname, amount=pos_gains(min_gains)
     print("If we are grinding for %s drawing the following cards would decrease the number of actions we have to spend:"%min_gains_pos)
     gains=deepcopy(min_gains)
@@ -303,7 +296,6 @@ def best_card_grinds(actions, items, cards, min_gains, print_all=False, verbose=
         if not print_all and ( cards_used<0.001 or actions_saved/baseres.net_action_cost <0.0001):
             continue
         cardvalues[c]=(actions_saved/cards_used, cards_used, cardres)
-        # after we are done with the favcards, make them freely available to grind favours.
     fmt="%15s  %15s %15s   %s"
     print(fmt%("actions", "draws", "actions saved","cardname"))
     print(fmt%("needed",  "needed", "per draw",""))

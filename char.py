@@ -32,6 +32,7 @@ attributes={
 # see choice_specific_generator.py for description
 # and possible values
 choices={
+    "Antisocial":"*",
     "Profession":"*",
     "Ealing Garden Statue": "*",
     "Jericho Locks Statue":"*",
