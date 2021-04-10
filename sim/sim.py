@@ -7,7 +7,9 @@ import types
 from functions import *
 from typish_enum import *
 
-from char import attributes as attr
+import read_char as char
+attr=char.attributes
+costs=char.costs
 #
 # state based simulation for actions with complex dependencies, e.g. hunting in Parabola
 # 
@@ -33,7 +35,7 @@ def build_state_type(name, members):
     def add_menace_cost(obj, menace, delta):
         if delta<0:
             raise ValueError("This method is not meant for menace reduction!")
-        obj.add_actions(delta*attr["CP Loss: "+menace])
+        obj.add_actions(delta*costs["CP Loss: "+menace])
         return obj
     members=dict(members)
     # actions should generally specified as actioncost and not added explicitly

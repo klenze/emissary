@@ -33,13 +33,11 @@ class FormArgumentParser(argparse.ArgumentParser):
                 else:
                     input.attrib.pop("checked", None)
             else:
-                #input.set("value", self._defaultstr(res[name]))
-                pass
-            print("<code>")
-
-            print(name, res[name])
-            print(pytype(res[name]).__name__)
-            print("</code>")
+                input.set("value", self._defaultstr(res[name]))
+#            print("<code>")
+#            print(name, res[name])
+#            print(pytype(res[name]).__name__)
+#            print("</code>")
         return res
     def _defaultstr(self, default):
         if default==None:
@@ -53,8 +51,6 @@ class FormArgumentParser(argparse.ArgumentParser):
         longname=longname[2:]
         if noweb:
             return
-        if webmax:
-            self.options_max[longname]=webmax
         type=None
         type=kwargs.get("type", type)
         default=kwargs.get("default", None)
@@ -79,8 +75,8 @@ class FormArgumentParser(argparse.ArgumentParser):
         elif type==int or type==float:
             input.attrib.update({"type":"number"})
             if webmax:
-                input.set("min", -webmax)
-                input.set("max",  webmax)
+                input.set("min", str(-webmax))
+                input.set("max",  str(webmax))
                 input.set("step", ["0.001","1"][int(type==int)])
         elif type==str:
             input.attrib.update({"type":"text", "size":"100"})

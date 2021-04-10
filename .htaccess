@@ -1,0 +1,6 @@
+<FilesMatch "\.*py">
+Options -ExecCGI
+</FilesMatch>
+<FilesMatch "^(web|wrapper)\.py$">
+Options +ExecCGI
+</FilesMatch>

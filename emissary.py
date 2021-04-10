@@ -12,7 +12,8 @@ except:
 
 __version__="0.1.1"
 # local imports
-import char
+import read_char as char
+import default_costs
 # stats for your character.
 # note that you will manually have to run
 
@@ -55,12 +56,21 @@ def mk_parser():
                         type=str, default=None,
                         help="Advanced: Force the use of a specific action. Replaces -g."
                         " Only useful in conjunction with -b.")
+    parser.add_argument("-L", "--list-items", 
+                        action='store_true',
+                        help="List all items the program knows about.")
+    parser.add_argument("-A", "--grind-all-items", noweb=True,
+                        action='store_true',
+                        help="Try to grind all items (except for internal ones like Card, Meta, Choice or -b)")
+    parser.add_argument("-W", "--write-costs", noweb=True,
+                        action='store_true',
+                        help="Write _gen_costs.py containing char-specific action costs required by generators")
     parser.add_argument("-n", "--num", metavar="num",
                         type=float, default=1,
                         help="Number of items we have to grind.")
     parser.add_argument("-m", "--max", metavar="limit",
-                        type=int, default='15',
-                        help="Write out at most <limit> grinds")
+                        type=int, default='15', webmax=5,
+                        help="Write out at most limit grinds")
     parser.add_argument("-c", "--cards", noweb=True,
                         action='store_true',
                         help="Show the effect of cards on grind. (Note that searching for grinds with -C enabled is mostly a better alternative.)")
@@ -82,18 +92,12 @@ def mk_parser():
     parser.add_argument("-X", "--no-gift-cards", 
                         action='store_true',
                         help="Do *not* make the CtD and SiC cards freely available")
-    parser.add_argument("-L", "--list-items", 
-                        action='store_true',
-                        help="List all items the program knows about.")
-    parser.add_argument("-A", "--grind-all-items", noweb=True,
-                        action='store_true',
-                        help="Try to grind all items (except for internal ones like Card, Meta, Choice or -b)")
     parser.add_argument("-H", "--HTML", noweb=True,
                         action='store_true',
                         help="Write output in something akin to HTML (for debugging or web interface)")
-    parser.add_argument("-b", "--background", metavar="<item>",
+    parser.add_argument("-b", "--background", metavar="item",
                         type=str, default=None,
-                        help="Assume you will also spend lots of actions grinding for <item>, so any action which gains <item> as a side effect will save you some actions. (try Penny or 'Hinterland Scrip'")
+                        help="Assume you will also spend lots of actions grinding for item, so any action which gains item as a side effect will save you some actions. (try Penny or 'Hinterland Scrip'")
     return parser
 
 def parse_args(lst):
@@ -132,7 +136,6 @@ def add_sources(d, args, quiet=False):
     return d
 
 def run(args):
-    print(args)
     output.debug=args["debug"]
     output.verbose=args["verbose"]
     output.genHTML=args["HTML"]
@@ -154,7 +157,8 @@ def run(args):
         print("Calculating action cost per background item %s"%args["background"])
         res=linear.optimize(actions, items, min_gains=add_sources(single_item_dict(args["background"], num_bg), args, quiet=True))
         assert res.status==0, "Background item grind search failed!"
-        background[args["background"]]=res.gross_action_cost/num_bg
+        eps=0.0001 # adjust the background grind to be slightly preferrable to the best available grind
+        background[args["background"]]=(1-eps)*res.gross_action_cost/num_bg
         print("Will assume that the best grind for background item %s takes %0.4f actions per %s (%0.4f %s per action)"
               %(args["background"], res.gross_action_cost/num_bg, args["background"], num_bg/res.gross_action_cost, args["background"]))
     if args["force_action"]:
@@ -167,13 +171,20 @@ def run(args):
         args["grind"]="Meta: Force"
         actions[args["force_action"]].changes["Meta: Force"]=1
     
-    if args["grind_all_items"]:
+    if args["grind_all_items"] or args["write_costs"]:
+        assert args["grind_all_items"] ^ args["write_costs"], "Bad mix of options"
         assert not args["cards"], "Bad mix of options"
         assert not args["grind"], "Bad mix of options"
+        if args["grind_all_items"]:
+            fname="_gen_allcosts.py"
+            ilist=sorted(items.keys())
+        else:
+            fname="_gen_costs.py"
+            ilist=default_costs.actioncosts.keys()
         min_gains=add_sources({}, args)
         actioncosts=dict(background)
         num=args["num"]
-        for i in sorted(items.keys()):
+        for i in ilist:
             if i.startswith("Favours:") or i.startswith("Meta:") or i==args["background"] \
                or (i in ["Echo", "Penny"] and args["background"] in  ["Echo", "Penny"]) \
                or i.startswith("Choice:") or i.startswith("Card:"):
@@ -184,14 +195,15 @@ def run(args):
             acost,action=linear.best_grinds(actions, items, min_gains=min_gains, num_grinds=1, background=background)
             if acost!=None:
                 acost/=num
-            actioncosts[i]=acost
+            actioncosts[i]=acost/num
             del min_gains[i]
-        f=open("_gen_actioncosts.py", "w")
+        f=open(fname, "w")
         f.write("# generated by %s, do not edit\n"%" ".join(sys.argv))
         f.write("# (see exact call for infos on background and card inclusion settings.)\n")
+        f.write("char_hash = '%s'\n"%char.char_hash)
         f.write("actioncosts=%s\n"%actioncosts)
         f.close()
-        print("results were written to _gen_actioncosts.py")
+        print("results were written to %s"%fname)
         return
     if not args["grind"]:
         print("Nothing to do.")

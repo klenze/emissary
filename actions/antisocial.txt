@@ -34,9 +34,15 @@ Learn Shadowy lessons from your surveillance (Alt, Choice: Antisocial)
 ￼ You've lost 1 x Choice: Antisocial: any
 ￼ You've gained 3 x Hastily Scrawled Warning Note
 
-# Caligula's
+# Caligula's: is rather symmetric in the first place.
 
-# Spread gossip about a rival: see social
+Spread gossip about a rival
+￼ You've lost 1 x Choice: Antisocial: any
+  Card: A visit from Slowcake's Amanuensis
+  Making Waves is increasing… (+11-20 CP)
+￼ You've lost 10-20 x Scrap of Incendiary Gossip
+￼ You've lost 1 x An Identity Uncovered!
+￼ You've gained 1 x Slighted!
 
 Arrange a stabbing, Fight him off (Choice: Antisocial)
 ￼ You've lost 1 x Choice: Antisocial: any
@@ -103,7 +109,7 @@ Compose advice for an investigation, send it (Alt, Choice: Antisocial)
   Action Cost: 0
   You've gained 1 x Bundle of Investigation Notes
 Compose a poem, send it (Alt, Choice: Antisocial)
-￼ You've lost 1 x Choice: Antisocial: any
+￼ You've lost 1 x Choice: Antisocial: Multi Alt Oppressor
   Action Cost: 0
 ￼ You've gained 1 x Poetic Missive
 Write down a name in Gant, send it (Alt, Choice: Antisocial)

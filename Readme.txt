@@ -12,6 +12,9 @@ Just like his namesake on Saviour's Rocks, the Emissary is willing to guide you 
 
 ~ ~ ~ ~ ~ ~
 
+Try it online: https://freeshell.de/~x127/emissary/wrapper.py
+
+(Web interface is very beta. Freeshell.de is a not-for-profit project with limited resources. Please use responsible.)
 
 See docs/Intro.pdf for a longer introduction.
 

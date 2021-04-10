@@ -26,7 +26,10 @@ def _wiki_link(name, linktext=None):
 
 def _githublink(action, linkname=None):
     if type(action)==str:
-        action=actions[action]
+        if action in actions:
+            action=actions.get(action)
+        else:
+            return action # just the text, no links (e.g. __invalid__)
     if not linkname:
         linkname=action.name
     url="https://github.com/klenze/emissary/blob/main/"
@@ -35,7 +38,7 @@ def _githublink(action, linkname=None):
 
 buysellre=re.compile("((?:Buy|Sell) at .*): (.*)")
 def link_action(aname):
-    if not genHTML:
+    if not genHTML or aname not in actions:
         return aname
     res=""
     res+=_githublink(aname)

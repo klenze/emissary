@@ -18,21 +18,14 @@ attributes={
     "Monstrous Anatomy":7, #TODO
     "Monstrous Anatomy Studies":2,
     "Shapeling Arts":7,
-   # costs for menance losses (in actions per CP)
-    "CP Loss: Suspicion":0.25455,
-    "CP Loss: Wounds":0.33333,
-    "CP Loss: Scandal":0.40000,
-    "CP Loss: Nightmares": 0.4,
     # action cost to acquire a second chance
     "Second Chance Action Cost":1,
-    # echos per action, roughly (for use by hunting_generator.py)
-    "EPA": 4
 }
 
 # see choice_specific_generator.py for description
 # and possible values
 choices={
-    "Antisocial":"*",
+    "Antisocial":"Alt Oppressor",
     "Profession":"*",
     "Ealing Garden Statue": "*",
     "Jericho Locks Statue":"*",

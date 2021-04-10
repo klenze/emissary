@@ -1,8 +1,123 @@
-Publish an Expose of Paleontology
-# 6 to collect RoaMF
-# 1 to go to doubt street
 # 13 actions to print
-  Action Cost: 20
-  You've gained 98 x Survey of the Neath's Bones
-￼ You've lost 1 x Whirring Contraption
+# one +8 and nine +12 increases gives +116 Foo Copy
+# except for salacious, where "A column revealing certain facts about an acquaintance"
+# gives +24 for 5 Scrap of Incendiary Gossip
+# for mixed newspapers, we can always get to 128 Copy without the +24 option
+# or to 140 with it (for Salacious content)
+# From an EPA POV, theatric accounting option is only worth it if:
+# * the reward does not scale with copies
+# * we can gain 107 copies elsewhere
+# which leaves the Expose of Paleontology
+#
+# Interception of scandal gives us two bats, so we use that when we need Salacious
+# and do not qualify for theatric accounting
+
+Prepare Newspaper, Non-Slight
+  Action Cost: 12
+￼ You've lost 1 x Whirring Contraption  
+￼ You've gained 1 x Meta: Newspaper Preparation (Non-Slight)
+Prepare Newspaper, Slight
+￼ You've lost 1 x Choice: Antisocial: any
+  Action Cost: 12
+￼ You've lost 1 x Whirring Contraption  
+￼ You've gained 1 x Meta: Newspaper Preparation (Slight)
+￼ You've lost 5 x Scrap of Incendiary Gossip
+￼ You've gained 1 x Slighted!
+
+# Editions where reward scales with Copies ######################
+#
+A balanced edition (Non-Slight)
+# A capped MW gain?! needs confirmation IMHO, commented out for now
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+￼ You've gained 112 x Journal of Infamy
+￼ You've gained 2 x Sulky Bat
+#￼ Making Waves is increasing… (+5 CP, up to 15)
+A balanced edition (Slight)
+￼ You've lost 1 x Meta: Newspaper Preparation (Slight)
+￼ You've gained 124 x Journal of Infamy
+￼ You've gained 2 x Sulky Bat
+#￼ Making Waves is increasing… (+5 CP, up to 15)
+
+Publish a seditious edition (Non-Slight)
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+￼ You've gained 100 x Scrap of Incendiary Gossip
+￼ You've gained 2 x Sulky Bat
+￼ You've gained 1 x Favours: Revolutionaries (up to 7)
+￼ Suspicion is increasing… (+1 CP)
+Publish a seditious edition (Slight)
+￼ You've lost 1 x Meta: Newspaper Preparation (Slight)
+￼ You've gained 112 x Scrap of Incendiary Gossip
+￼ You've gained 1 x Favours: Revolutionaries (up to 7)
+￼ Suspicion is increasing… (+1 CP)
+
+An edition of edification and pleasing truth
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+￼ You've gained 124 x Journal of Infamy
+  Making Waves is increasing… (+5 CP)
+
+A gossipy and tantalising edition (Non-Slight)
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+￼ You've gained 124 x Journal of Infamy
+￼ You've gained 2 x Sulky Bat
+  Making Waves is increasing… (+5 CP)
+A gossipy and tantalising edition (Slight)
+￼ You've lost 1 x Meta: Newspaper Preparation (Slight)
+￼ You've gained 144 x Journal of Infamy
+￼ You've gained 2 x Sulky Bat
+  Making Waves is increasing… (+5 CP)
+  
+Publish An edition brimming with entertaining nonsense
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+￼ You've gained 124 x Journal of Infamy
+  Making Waves is increasing… (+5 CP)
+
+# Non-scaling editions
+
+An edition brimming with truth and wisdom
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+￼ You've gained 118 x Journal of Infamy
+￼ You've gained 4 x An Identity Uncovered!
+￼ Making Waves is increasing… (+5 CP)
+
+The tawdry secrets of the famous laid bare! (Non-Slight)
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+￼ You've gained 118 x Journal of Infamy
+￼ You've gained 4 x Bottle of Broken Giant 1844
+￼ Making Waves is increasing… (+5 CP)
+￼ You've gained 2 x Sulky Bat
+The tawdry secrets of the famous laid bare! (Slight)
+￼ You've lost 1 x Meta: Newspaper Preparation (Slight)
+￼ You've gained 118 x Journal of Infamy
+￼ You've gained 4 x Bottle of Broken Giant 1844
+￼ Making Waves is increasing… (+5 CP)
 ￼ You've gained 500 x Piece of Rostygold
+
+The finest kind of madness
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+￼ You've gained 118 x Journal of Infamy
+￼ You've gained 4 x Extraordinary Implication
+
+Publish an Expose of Paleontology
+# 6 actions to collect RoaMF
+# technically also requires a card
+# but unless you are grinding Surveys exclusively,
+# the card will probably not be a limiting factor.
+  Action Cost: 7
+￼ You've lost 1 x Meta: Newspaper Preparation (Non-Slight)
+  You've gained 98 x Survey of the Neath's Bones
+# theatric accounting:
+￼ You've gained 500 x Piece of Rostygold
+# Carpenter's Granddaughter:
+￼ You've gained 100 x Cryptic Clue
+# Debonair Palaeontologist:
+￼ You've gained 3 x Fin Bones, Collected
+# Carnival, 50% Singing Mandrake:
+￼ You've gained 4.5 x Withered Tentacle
+# University:
+￼ You've gained 2 x Unidentified Thigh Bone
+# 50% Singing Mandrake:
+￼ You've gained 1.5 x Jet Black Stinger
+# bone market:
+￼ You've gained 1 x Plaster Tail Bones
+# Open it:
+￼ You've gained 2 x Holy Relic of the Thigh of Saint Fiacre

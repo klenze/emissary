@@ -319,47 +319,47 @@ Speak with an experienced blackmailer at a polite salon
   Scandal is increasing… (+2 CP)
 # cross category conversions
 +
-Free the souls in exchange for secrets CC
+Free the souls in exchange for secrets
   You've lost 50 x Brilliant Soul
   You've gained 51 x Tale of Terror!!
-Tell your Tales at the fireside CC
+Tell your Tales at the fireside
   You've lost 50 x Tale of Terror!!
   You've gained 51 x Compromising Document
   Making Waves is increasing… (+1-10 CP)
-Confront certain stage performers CC
+Confront certain stage performers
   You've lost 50 x Compromising Document
   You've gained 51 x Memory of Light
-Swap tales at the Admiralty CC
+Swap tales at the Admiralty
   You've lost 50 x Memory of Light
   You've gained 51 x Zee-Ztory
-Go drinking with His Amused Lordship CC
+Go drinking with His Amused Lordship
   You've lost 50 x Zee-Ztory
   You've gained 51 x Bottle of Strangling Willow Absinthe
   Making Waves is increasing… (+1-10 CP)
-Supply the Royal Bethlehem Hotel with absinthe CC
+Supply the Royal Bethlehem Hotel with absinthe
   You've lost 50 x Bottle of Strangling Willow Absinthe
   You've gained 51 x Whisper-Satin Scrap
-Even blackmailers like nice dresses CC
+Even blackmailers like nice dresses
   You've lost 50 x Whisper-Satin Scrap
   You've gained 51 x Journal of Infamy
-Blackmail a Special Constable CC
+Blackmail a Special Constable
   You've lost 50 x Journal of Infamy
   You've gained 51 x Correspondence Plaque
-Give your Correspondence Plaques to Surface travellers CC
+Give your Correspondence Plaques to Surface travellers
   You've lost 50 x Correspondence Plaque
   You've gained 51 x Vision of the Surface
-Speak of far-away places CC
+Speak of far-away places
   You've lost 50 x Vision of the Surface
   You've gained 51 x Mystery of the Elder Continent
   Making Waves is increasing… (+1-10 CP)
-Speak at a salon on the nature of the Elder Continent CC
+Speak at a salon on the nature of the Elder Continent
   You've lost 50 x Mystery of the Elder Continent
   You've gained 51 x Scrap of Incendiary Gossip
-Share tall tales with zailors CC
+Share tall tales with zailors
   You've lost 50 x Scrap of Incendiary Gossip
   You've gained 51 x Memory of Distant Shores
   Making Waves is increasing… (+1–10 CP)
-Uncover a cache of souls CC
+Uncover a cache of souls
   You've lost 50 x Memory of Distant Shores
   You've gained 51 x Brilliant Soul
 +

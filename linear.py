@@ -220,12 +220,14 @@ def best_grinds(actions, items, min_gains, num_grinds, max_actions=None, backgro
                    "Work with your expert student",
                    "Flatter the Ghillie", "Compel",
                    "Convert","Gain Favours:", "Get Choice:",
-                   "Do a heist"]
+                   "Do a heist", "Prepare Newspaper"]
     for i in range(num_grinds):
         sel_actions, sel_items=filter_actions_items(actions, items, blocked_actions=blocked_actions)
         res=optimize(sel_actions, sel_items, min_gains=min_gains, eps=1e-7, background=background)
-        if res.status!=0:
-            print("linprog failed. (%s) Looks like there are no (further) grinds."%res.result.message)
+        if res.status==4:
+            print("warning: linprog returned: %s"%res.result.message)
+        elif res.status!=0:
+            print("linprog failed. (%d: %s) Looks like there are no (further) grinds."%(res.status, res.result.message))
             break
         if iname!=None and not iname in ["Echo", "Penny", "Hinterland Scrip"]:
             # key action is the action which yields the most <item>
