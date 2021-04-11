@@ -69,7 +69,7 @@ def mk_parser():
                         type=float, default=1,
                         help="Number of items we have to grind.")
     parser.add_argument("-m", "--max", metavar="limit",
-                        type=int, default='15', webmax=5,
+                        type=int, default='5', webmax=5,
                         help="Write out at most limit grinds")
     parser.add_argument("-c", "--cards", noweb=True,
                         action='store_true',

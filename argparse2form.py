@@ -22,9 +22,10 @@ class FormArgumentParser(argparse.ArgumentParser):
                 res[name]=None
             else:
                 res[name]=type(x)
-            if webmax and abs(res[name])>webmax:
-                raise ValueError("absolute of %s must be smaller"
-                                 " or equal than %s"%(name, webmax))
+                if webmax and abs(res[name])>webmax:
+                    raise ValueError("absolute of %s (%s) must be smaller"
+                                     " or equal than %s"%(name, res[name],
+                                                          webmax))
             # also set that as a new default.
             input=node[1]
             if type==bool:
